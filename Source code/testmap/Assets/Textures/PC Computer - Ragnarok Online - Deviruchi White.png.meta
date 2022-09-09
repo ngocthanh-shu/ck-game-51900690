@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: e00e56d2d45273f469138b0c2c23340f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5322869411569619321
+    second: PC Computer - Ragnarok Online - Deviruchi White_0
+  - first:
+      213: -3527971782201126007
+    second: PC Computer - Ragnarok Online - Deviruchi White_1
+  - first:
+      213: 686808065299054549
+    second: PC Computer - Ragnarok Online - Deviruchi White_2
+  - first:
+      213: -3658531321409717841
+    second: PC Computer - Ragnarok Online - Deviruchi White_3
+  - first:
+      213: -9022447299186785271
+    second: PC Computer - Ragnarok Online - Deviruchi White_4
+  - first:
+      213: 7690322767276045154
+    second: PC Computer - Ragnarok Online - Deviruchi White_5
+  - first:
+      213: 8511518641564463783
+    second: PC Computer - Ragnarok Online - Deviruchi White_6
+  - first:
+      213: -5427156492482727038
+    second: PC Computer - Ragnarok Online - Deviruchi White_7
+  - first:
+      213: -4776979814088940432
+    second: PC Computer - Ragnarok Online - Deviruchi White_8
+  - first:
+      213: 9143458950649907316
+    second: PC Computer - Ragnarok Online - Deviruchi White_9
+  - first:
+      213: -1744603694413962746
+    second: PC Computer - Ragnarok Online - Deviruchi White_10
+  - first:
+      213: -6778695459205860681
+    second: PC Computer - Ragnarok Online - Deviruchi White_11
+  - first:
+      213: -4880618023080037234
+    second: PC Computer - Ragnarok Online - Deviruchi White_12
+  - first:
+      213: 7020195583528927923
+    second: PC Computer - Ragnarok Online - Deviruchi White_13
+  - first:
+      213: 3880155551482384012
+    second: PC Computer - Ragnarok Online - Deviruchi White_14
+  - first:
+      213: 5297915607058082996
+    second: PC Computer - Ragnarok Online - Deviruchi White_15
+  - first:
+      213: -1948563502148431058
+    second: PC Computer - Ragnarok Online - Deviruchi White_16
+  - first:
+      213: 5715466028081879726
+    second: PC Computer - Ragnarok Online - Deviruchi White_17
+  - first:
+      213: -5849031824930664235
+    second: PC Computer - Ragnarok Online - Deviruchi White_18
+  - first:
+      213: 6297227979212337418
+    second: PC Computer - Ragnarok Online - Deviruchi White_19
+  - first:
+      213: 4464937271029867518
+    second: PC Computer - Ragnarok Online - Deviruchi White_20
+  - first:
+      213: 1866119464965510341
+    second: PC Computer - Ragnarok Online - Deviruchi White_21
+  - first:
+      213: 1347427553747347302
+    second: PC Computer - Ragnarok Online - Deviruchi White_22
+  - first:
+      213: 3380999525190273350
+    second: PC Computer - Ragnarok Online - Deviruchi White_23
+  - first:
+      213: -5818531217973096160
+    second: PC Computer - Ragnarok Online - Deviruchi White_24
+  - first:
+      213: -4384762333748769376
+    second: PC Computer - Ragnarok Online - Deviruchi White_25
+  - first:
+      213: -3154619782893601295
+    second: PC Computer - Ragnarok Online - Deviruchi White_26
+  - first:
+      213: -1243672635461366056
+    second: PC Computer - Ragnarok Online - Deviruchi White_27
+  - first:
+      213: 7657739267652408893
+    second: PC Computer - Ragnarok Online - Deviruchi White_28
+  - first:
+      213: -955935570386075870
+    second: PC Computer - Ragnarok Online - Deviruchi White_29
+  - first:
+      213: -2218837210017592034
+    second: PC Computer - Ragnarok Online - Deviruchi White_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 429
+        width: 48
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ea991d87e5126b0800000000000000
+      internalID: -5322869411569619321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 429
+        width: 48
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983dc482b502a0fc0800000000000000
+      internalID: -3527971782201126007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 428
+        width: 48
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dff509eb48088900800000000000000
+      internalID: 686808065299054549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 436
+        width: 62
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9bbbb95294a3dc0800000000000000
+      internalID: -3658531321409717841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 436
+        width: 64
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9040a4ffbf3d9c280800000000000000
+      internalID: -9022447299186785271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 436
+        width: 63
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263769fcfc389ba60800000000000000
+      internalID: 7690322767276045154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 347
+        width: 31
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2b099cb1dfe1670800000000000000
+      internalID: 8511518641564463783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 346
+        width: 32
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283bc15aceddea4b0800000000000000
+      internalID: -5427156492482727038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 345
+        width: 32
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074640a2b22c4bdb0800000000000000
+      internalID: -4776979814088940432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 353
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4788ad3b87714ee70800000000000000
+      internalID: 9143458950649907316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 353
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6022f98ee2ce9c7e0800000000000000
+      internalID: -1744603694413962746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 353
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23b79156c3de1a0800000000000000
+      internalID: -6778695459205860681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 269
+        width: 32
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84f1f144cf844cb0800000000000000
+      internalID: -4880618023080037234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 268
+        width: 32
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2020a40bebc6160800000000000000
+      internalID: 7020195583528927923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 268
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e0e578ae419d530800000000000000
+      internalID: 3880155551482384012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 268
+        width: 32
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce1b0dc2af58940800000000000000
+      internalID: 5297915607058082996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 269
+        width: 32
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23d62891df45f4e0800000000000000
+      internalID: -1948563502148431058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 179
+        width: 28
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa12a9121a615f40800000000000000
+      internalID: 5715466028081879726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 179
+        width: 29
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d09d037b8014dea0800000000000000
+      internalID: -5849031824930664235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 179
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013a92ab7f346750800000000000000
+      internalID: 6297227979212337418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 179
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef32320bac4a6fd30800000000000000
+      internalID: 4464937271029867518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 179
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c416b924c9c5e910800000000000000
+      internalID: 1866119464965510341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 90
+        width: 33
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6672fad983603b210800000000000000
+      internalID: 1347427553747347302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 46
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6490bb4a729bbee20800000000000000
+      internalID: 3380999525190273350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 87
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02151366fac604fa0800000000000000
+      internalID: -5818531217973096160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 101
+        width: 59
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad446093e13623c0800000000000000
+      internalID: -4384762333748769376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 50
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf437750a8834d0800000000000000
+      internalID: -3154619782893601295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 58
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de837ac3569dbee0800000000000000
+      internalID: -1243672635461366056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 14
+        width: 40
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d365bfe9a41c54a60800000000000000
+      internalID: 7657739267652408893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 14
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f3afad9a5dbb2f0800000000000000
+      internalID: -955935570386075870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Deviruchi White_30
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 23
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d8b7a305b1531e0800000000000000
+      internalID: -2218837210017592034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Deviruchi White_27: -1243672635461366056
+      PC Computer - Ragnarok Online - Deviruchi White_19: 6297227979212337418
+      PC Computer - Ragnarok Online - Deviruchi White_3: -3658531321409717841
+      PC Computer - Ragnarok Online - Deviruchi White_15: 5297915607058082996
+      PC Computer - Ragnarok Online - Deviruchi White_10: -1744603694413962746
+      PC Computer - Ragnarok Online - Deviruchi White_12: -4880618023080037234
+      PC Computer - Ragnarok Online - Deviruchi White_23: 3380999525190273350
+      PC Computer - Ragnarok Online - Deviruchi White_5: 7690322767276045154
+      PC Computer - Ragnarok Online - Deviruchi White_16: -1948563502148431058
+      PC Computer - Ragnarok Online - Deviruchi White_13: 7020195583528927923
+      PC Computer - Ragnarok Online - Deviruchi White_0: -5322869411569619321
+      PC Computer - Ragnarok Online - Deviruchi White_8: -4776979814088940432
+      PC Computer - Ragnarok Online - Deviruchi White_2: 686808065299054549
+      PC Computer - Ragnarok Online - Deviruchi White_14: 3880155551482384012
+      PC Computer - Ragnarok Online - Deviruchi White_25: -4384762333748769376
+      PC Computer - Ragnarok Online - Deviruchi White_17: 5715466028081879726
+      PC Computer - Ragnarok Online - Deviruchi White_1: -3527971782201126007
+      PC Computer - Ragnarok Online - Deviruchi White_7: -5427156492482727038
+      PC Computer - Ragnarok Online - Deviruchi White_6: 8511518641564463783
+      PC Computer - Ragnarok Online - Deviruchi White_24: -5818531217973096160
+      PC Computer - Ragnarok Online - Deviruchi White_28: 7657739267652408893
+      PC Computer - Ragnarok Online - Deviruchi White_18: -5849031824930664235
+      PC Computer - Ragnarok Online - Deviruchi White_21: 1866119464965510341
+      PC Computer - Ragnarok Online - Deviruchi White_30: -2218837210017592034
+      PC Computer - Ragnarok Online - Deviruchi White_22: 1347427553747347302
+      PC Computer - Ragnarok Online - Deviruchi White_29: -955935570386075870
+      PC Computer - Ragnarok Online - Deviruchi White_9: 9143458950649907316
+      PC Computer - Ragnarok Online - Deviruchi White_26: -3154619782893601295
+      PC Computer - Ragnarok Online - Deviruchi White_20: 4464937271029867518
+      PC Computer - Ragnarok Online - Deviruchi White_11: -6778695459205860681
+      PC Computer - Ragnarok Online - Deviruchi White_4: -9022447299186785271
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

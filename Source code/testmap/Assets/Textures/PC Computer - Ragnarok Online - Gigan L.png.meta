@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: 07e949ede6cc79346b6ac21a6f0aaa47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8156436451218525654
+    second: PC Computer - Ragnarok Online - Gigan L_0
+  - first:
+      213: 1987689147022307129
+    second: PC Computer - Ragnarok Online - Gigan L_1
+  - first:
+      213: -7677304148390598712
+    second: PC Computer - Ragnarok Online - Gigan L_2
+  - first:
+      213: -5583283190825630651
+    second: PC Computer - Ragnarok Online - Gigan L_3
+  - first:
+      213: 753394712137581171
+    second: PC Computer - Ragnarok Online - Gigan L_4
+  - first:
+      213: -7452499846369949223
+    second: PC Computer - Ragnarok Online - Gigan L_5
+  - first:
+      213: 6702607610201785003
+    second: PC Computer - Ragnarok Online - Gigan L_6
+  - first:
+      213: -4673210838912455195
+    second: PC Computer - Ragnarok Online - Gigan L_7
+  - first:
+      213: -5103625692958627864
+    second: PC Computer - Ragnarok Online - Gigan L_8
+  - first:
+      213: -2440314397973859995
+    second: PC Computer - Ragnarok Online - Gigan L_9
+  - first:
+      213: 3247262749831563607
+    second: PC Computer - Ragnarok Online - Gigan L_10
+  - first:
+      213: -7212847674874802961
+    second: PC Computer - Ragnarok Online - Gigan L_11
+  - first:
+      213: -6669014007142647996
+    second: PC Computer - Ragnarok Online - Gigan L_12
+  - first:
+      213: 4995471471751203355
+    second: PC Computer - Ragnarok Online - Gigan L_13
+  - first:
+      213: -4305158397193458269
+    second: PC Computer - Ragnarok Online - Gigan L_14
+  - first:
+      213: -4098897533110265142
+    second: PC Computer - Ragnarok Online - Gigan L_15
+  - first:
+      213: 8257704107539170259
+    second: PC Computer - Ragnarok Online - Gigan L_16
+  - first:
+      213: -7587569804466216376
+    second: PC Computer - Ragnarok Online - Gigan L_17
+  - first:
+      213: -3273479983981804158
+    second: PC Computer - Ragnarok Online - Gigan L_18
+  - first:
+      213: 3577584701068157639
+    second: PC Computer - Ragnarok Online - Gigan L_19
+  - first:
+      213: 2605032115419504885
+    second: PC Computer - Ragnarok Online - Gigan L_20
+  - first:
+      213: 6701407813593008045
+    second: PC Computer - Ragnarok Online - Gigan L_21
+  - first:
+      213: -8938785334179568447
+    second: PC Computer - Ragnarok Online - Gigan L_22
+  - first:
+      213: 1476640408679025288
+    second: PC Computer - Ragnarok Online - Gigan L_23
+  - first:
+      213: -2769452606904709551
+    second: PC Computer - Ragnarok Online - Gigan L_24
+  - first:
+      213: 2495809796617307452
+    second: PC Computer - Ragnarok Online - Gigan L_25
+  - first:
+      213: -4022482264142193994
+    second: PC Computer - Ragnarok Online - Gigan L_26
+  - first:
+      213: -1956389395243910902
+    second: PC Computer - Ragnarok Online - Gigan L_27
+  - first:
+      213: 9107819667026449813
+    second: PC Computer - Ragnarok Online - Gigan L_28
+  - first:
+      213: 8488125921396847859
+    second: PC Computer - Ragnarok Online - Gigan L_29
+  - first:
+      213: -918103850127183404
+    second: PC Computer - Ragnarok Online - Gigan L_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1557
+        width: 181
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22721423448ece80800000000000000
+      internalID: -8156436451218525654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1558
+        width: 182
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe92c7fb0b59b10800000000000000
+      internalID: 1987689147022307129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1558
+        width: 182
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ab8a9d8cb47590800000000000000
+      internalID: -7677304148390598712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1558
+        width: 182
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544cd6af4813482b0800000000000000
+      internalID: -5583283190825630651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_4
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1557
+        width: 181
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724e90cf78947a00800000000000000
+      internalID: 753394712137581171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1386
+        width: 175
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94770ffd6639890800000000000000
+      internalID: -7452499846369949223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1387
+        width: 174
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba248ea0c12740d50800000000000000
+      internalID: 6702607610201785003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1388
+        width: 175
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed2e12708b652fb0800000000000000
+      internalID: -4673210838912455195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_8
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1387
+        width: 174
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e4a0f8774c29b0800000000000000
+      internalID: -5103625692958627864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1215
+        width: 182
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5613f700cf2422ed0800000000000000
+      internalID: -2440314397973859995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1225
+        width: 180
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75981182448901d20800000000000000
+      internalID: 3247262749831563607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_11
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1225
+        width: 182
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc5184141d6eb90800000000000000
+      internalID: -7212847674874802961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_12
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1223
+        width: 182
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447782e2817e273a0800000000000000
+      internalID: -6669014007142647996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1042
+        width: 175
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a045f16da735540800000000000000
+      internalID: 4995471471751203355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1046
+        width: 177
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad6e795f310144c0800000000000000
+      internalID: -4305158397193458269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1043
+        width: 178
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acadc38196acd17c0800000000000000
+      internalID: -4098897533110265142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_16
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1040
+        width: 175
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d308267222499270800000000000000
+      internalID: 8257704107539170259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 831
+        width: 110
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842af48a67983b690800000000000000
+      internalID: -7587569804466216376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 829
+        width: 110
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285c9675c434292d0800000000000000
+      internalID: -3273479983981804158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 839
+        width: 165
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c22a0da45226a130800000000000000
+      internalID: 3577584701068157639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 849
+        width: 165
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0601c28eee62420800000000000000
+      internalID: 2605032115419504885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 628
+        width: 110
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da70d30a6ee200d50800000000000000
+      internalID: 6701407813593008045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 627
+        width: 110
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c461c8291e03f380800000000000000
+      internalID: -8938785334179568447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 644
+        width: 92
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0d4cc0a41e7410800000000000000
+      internalID: 1476640408679025288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_24
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 645
+        width: 91
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e4a27f68de099d0800000000000000
+      internalID: -2769452606904709551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 414
+        width: 181
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35805269c5e2a220800000000000000
+      internalID: 2495809796617307452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 393
+        width: 137
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bade7a51b54d28c0800000000000000
+      internalID: -4022482264142193994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 393
+        width: 137
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09352ed53289d4e0800000000000000
+      internalID: -1956389395243910902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 198
+        width: 177
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5959d6b5bb9756e70800000000000000
+      internalID: 9107819667026449813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 193
+        width: 184
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4f4a1bd81ebc570800000000000000
+      internalID: 8488125921396847859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Gigan L_30
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 192
+        width: 184
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d13042a96d3243f0800000000000000
+      internalID: -918103850127183404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Gigan L_5: -7452499846369949223
+      PC Computer - Ragnarok Online - Gigan L_7: -4673210838912455195
+      PC Computer - Ragnarok Online - Gigan L_10: 3247262749831563607
+      PC Computer - Ragnarok Online - Gigan L_13: 4995471471751203355
+      PC Computer - Ragnarok Online - Gigan L_17: -7587569804466216376
+      PC Computer - Ragnarok Online - Gigan L_28: 9107819667026449813
+      PC Computer - Ragnarok Online - Gigan L_11: -7212847674874802961
+      PC Computer - Ragnarok Online - Gigan L_8: -5103625692958627864
+      PC Computer - Ragnarok Online - Gigan L_9: -2440314397973859995
+      PC Computer - Ragnarok Online - Gigan L_30: -918103850127183404
+      PC Computer - Ragnarok Online - Gigan L_29: 8488125921396847859
+      PC Computer - Ragnarok Online - Gigan L_12: -6669014007142647996
+      PC Computer - Ragnarok Online - Gigan L_4: 753394712137581171
+      PC Computer - Ragnarok Online - Gigan L_0: -8156436451218525654
+      PC Computer - Ragnarok Online - Gigan L_3: -5583283190825630651
+      PC Computer - Ragnarok Online - Gigan L_14: -4305158397193458269
+      PC Computer - Ragnarok Online - Gigan L_18: -3273479983981804158
+      PC Computer - Ragnarok Online - Gigan L_16: 8257704107539170259
+      PC Computer - Ragnarok Online - Gigan L_19: 3577584701068157639
+      PC Computer - Ragnarok Online - Gigan L_23: 1476640408679025288
+      PC Computer - Ragnarok Online - Gigan L_27: -1956389395243910902
+      PC Computer - Ragnarok Online - Gigan L_6: 6702607610201785003
+      PC Computer - Ragnarok Online - Gigan L_15: -4098897533110265142
+      PC Computer - Ragnarok Online - Gigan L_24: -2769452606904709551
+      PC Computer - Ragnarok Online - Gigan L_21: 6701407813593008045
+      PC Computer - Ragnarok Online - Gigan L_1: 1987689147022307129
+      PC Computer - Ragnarok Online - Gigan L_25: 2495809796617307452
+      PC Computer - Ragnarok Online - Gigan L_2: -7677304148390598712
+      PC Computer - Ragnarok Online - Gigan L_26: -4022482264142193994
+      PC Computer - Ragnarok Online - Gigan L_22: -8938785334179568447
+      PC Computer - Ragnarok Online - Gigan L_20: 2605032115419504885
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

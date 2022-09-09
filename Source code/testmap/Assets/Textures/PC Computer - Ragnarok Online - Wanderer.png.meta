@@ -1,0 +1,3223 @@
+fileFormatVersion: 2
+guid: 3e20622ccc5d7634394bea4b92e8f002
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4953203713381702747
+    second: PC Computer - Ragnarok Online - Wanderer_0
+  - first:
+      213: 1240556807903834053
+    second: PC Computer - Ragnarok Online - Wanderer_1
+  - first:
+      213: -7402716860887416028
+    second: PC Computer - Ragnarok Online - Wanderer_2
+  - first:
+      213: 7182284750668790387
+    second: PC Computer - Ragnarok Online - Wanderer_3
+  - first:
+      213: 258363785795365419
+    second: PC Computer - Ragnarok Online - Wanderer_4
+  - first:
+      213: 8056762934566078820
+    second: PC Computer - Ragnarok Online - Wanderer_5
+  - first:
+      213: 4819180439780902424
+    second: PC Computer - Ragnarok Online - Wanderer_6
+  - first:
+      213: 5475965301272279431
+    second: PC Computer - Ragnarok Online - Wanderer_7
+  - first:
+      213: 2228696689904908833
+    second: PC Computer - Ragnarok Online - Wanderer_8
+  - first:
+      213: 7718464301047299986
+    second: PC Computer - Ragnarok Online - Wanderer_9
+  - first:
+      213: -3727646490205117288
+    second: PC Computer - Ragnarok Online - Wanderer_10
+  - first:
+      213: 6837524470229839615
+    second: PC Computer - Ragnarok Online - Wanderer_11
+  - first:
+      213: 1841360269533227441
+    second: PC Computer - Ragnarok Online - Wanderer_12
+  - first:
+      213: -344993984036352694
+    second: PC Computer - Ragnarok Online - Wanderer_13
+  - first:
+      213: -7475324746446235244
+    second: PC Computer - Ragnarok Online - Wanderer_14
+  - first:
+      213: -1962501322002790310
+    second: PC Computer - Ragnarok Online - Wanderer_15
+  - first:
+      213: 5540519906728561977
+    second: PC Computer - Ragnarok Online - Wanderer_16
+  - first:
+      213: 8280240542559921647
+    second: PC Computer - Ragnarok Online - Wanderer_17
+  - first:
+      213: 6113593171019854631
+    second: PC Computer - Ragnarok Online - Wanderer_18
+  - first:
+      213: -299110662620107211
+    second: PC Computer - Ragnarok Online - Wanderer_19
+  - first:
+      213: -5027019533209247301
+    second: PC Computer - Ragnarok Online - Wanderer_20
+  - first:
+      213: -2320181630263449665
+    second: PC Computer - Ragnarok Online - Wanderer_21
+  - first:
+      213: 6666319026947036862
+    second: PC Computer - Ragnarok Online - Wanderer_22
+  - first:
+      213: 8346469393988334410
+    second: PC Computer - Ragnarok Online - Wanderer_23
+  - first:
+      213: 75317318246798272
+    second: PC Computer - Ragnarok Online - Wanderer_24
+  - first:
+      213: 1061743489255339971
+    second: PC Computer - Ragnarok Online - Wanderer_25
+  - first:
+      213: -5795475141204077030
+    second: PC Computer - Ragnarok Online - Wanderer_26
+  - first:
+      213: -4553648979445716431
+    second: PC Computer - Ragnarok Online - Wanderer_27
+  - first:
+      213: -250354633313706932
+    second: PC Computer - Ragnarok Online - Wanderer_28
+  - first:
+      213: -5124280066949565264
+    second: PC Computer - Ragnarok Online - Wanderer_29
+  - first:
+      213: -4964372902963191031
+    second: PC Computer - Ragnarok Online - Wanderer_30
+  - first:
+      213: -7525199321094443463
+    second: PC Computer - Ragnarok Online - Wanderer_31
+  - first:
+      213: 9204872846305603530
+    second: PC Computer - Ragnarok Online - Wanderer_32
+  - first:
+      213: 7029942973587995915
+    second: PC Computer - Ragnarok Online - Wanderer_33
+  - first:
+      213: 2087977666161001228
+    second: PC Computer - Ragnarok Online - Wanderer_34
+  - first:
+      213: -3114847118930081499
+    second: PC Computer - Ragnarok Online - Wanderer_35
+  - first:
+      213: -280298820777189326
+    second: PC Computer - Ragnarok Online - Wanderer_36
+  - first:
+      213: -1782423376417468452
+    second: PC Computer - Ragnarok Online - Wanderer_37
+  - first:
+      213: -1116390846572888499
+    second: PC Computer - Ragnarok Online - Wanderer_38
+  - first:
+      213: 5837929761876834925
+    second: PC Computer - Ragnarok Online - Wanderer_39
+  - first:
+      213: -7543066705726075291
+    second: PC Computer - Ragnarok Online - Wanderer_40
+  - first:
+      213: 3543938218205429128
+    second: PC Computer - Ragnarok Online - Wanderer_41
+  - first:
+      213: 2149088877028525207
+    second: PC Computer - Ragnarok Online - Wanderer_42
+  - first:
+      213: -1934698576865676256
+    second: PC Computer - Ragnarok Online - Wanderer_43
+  - first:
+      213: 3232619525529243935
+    second: PC Computer - Ragnarok Online - Wanderer_44
+  - first:
+      213: 2187443921472005974
+    second: PC Computer - Ragnarok Online - Wanderer_45
+  - first:
+      213: -6232825712792064431
+    second: PC Computer - Ragnarok Online - Wanderer_46
+  - first:
+      213: -994530102174505213
+    second: PC Computer - Ragnarok Online - Wanderer_47
+  - first:
+      213: 8241656205403102918
+    second: PC Computer - Ragnarok Online - Wanderer_48
+  - first:
+      213: -4887601045079376749
+    second: PC Computer - Ragnarok Online - Wanderer_49
+  - first:
+      213: -8189046536369724736
+    second: PC Computer - Ragnarok Online - Wanderer_50
+  - first:
+      213: 1462300398226786066
+    second: PC Computer - Ragnarok Online - Wanderer_51
+  - first:
+      213: -373786381764354949
+    second: PC Computer - Ragnarok Online - Wanderer_52
+  - first:
+      213: -2479781333116615701
+    second: PC Computer - Ragnarok Online - Wanderer_53
+  - first:
+      213: 1671438381206103316
+    second: PC Computer - Ragnarok Online - Wanderer_54
+  - first:
+      213: -5587664696958043019
+    second: PC Computer - Ragnarok Online - Wanderer_55
+  - first:
+      213: -4555400379609634275
+    second: PC Computer - Ragnarok Online - Wanderer_56
+  - first:
+      213: 8204229662941494403
+    second: PC Computer - Ragnarok Online - Wanderer_57
+  - first:
+      213: 6207888847513657458
+    second: PC Computer - Ragnarok Online - Wanderer_58
+  - first:
+      213: -6444555444150515542
+    second: PC Computer - Ragnarok Online - Wanderer_59
+  - first:
+      213: 8346410107376008886
+    second: PC Computer - Ragnarok Online - Wanderer_60
+  - first:
+      213: -6814294369305222047
+    second: PC Computer - Ragnarok Online - Wanderer_61
+  - first:
+      213: -2778233229415121337
+    second: PC Computer - Ragnarok Online - Wanderer_62
+  - first:
+      213: 460667285112087629
+    second: PC Computer - Ragnarok Online - Wanderer_63
+  - first:
+      213: 3098547712538488358
+    second: PC Computer - Ragnarok Online - Wanderer_64
+  - first:
+      213: 7064513436236301268
+    second: PC Computer - Ragnarok Online - Wanderer_65
+  - first:
+      213: 2778042510312782995
+    second: PC Computer - Ragnarok Online - Wanderer_66
+  - first:
+      213: 4732497093622476386
+    second: PC Computer - Ragnarok Online - Wanderer_67
+  - first:
+      213: -7248288773259938547
+    second: PC Computer - Ragnarok Online - Wanderer_68
+  - first:
+      213: 8960536261420890740
+    second: PC Computer - Ragnarok Online - Wanderer_69
+  - first:
+      213: -6772124376645237203
+    second: PC Computer - Ragnarok Online - Wanderer_70
+  - first:
+      213: 3404187316502662576
+    second: PC Computer - Ragnarok Online - Wanderer_71
+  - first:
+      213: -5804670335144320047
+    second: PC Computer - Ragnarok Online - Wanderer_72
+  - first:
+      213: 1646384631363627472
+    second: PC Computer - Ragnarok Online - Wanderer_73
+  - first:
+      213: -3029881438523859263
+    second: PC Computer - Ragnarok Online - Wanderer_74
+  - first:
+      213: 8452569794090851144
+    second: PC Computer - Ragnarok Online - Wanderer_75
+  - first:
+      213: 3234414557146575452
+    second: PC Computer - Ragnarok Online - Wanderer_76
+  - first:
+      213: -9081644156476311936
+    second: PC Computer - Ragnarok Online - Wanderer_77
+  - first:
+      213: 4523415711869841161
+    second: PC Computer - Ragnarok Online - Wanderer_78
+  - first:
+      213: -9196993383086230097
+    second: PC Computer - Ragnarok Online - Wanderer_79
+  - first:
+      213: 1653984802856781589
+    second: PC Computer - Ragnarok Online - Wanderer_80
+  - first:
+      213: -1042274563089983438
+    second: PC Computer - Ragnarok Online - Wanderer_81
+  - first:
+      213: -5587834683871664783
+    second: PC Computer - Ragnarok Online - Wanderer_82
+  - first:
+      213: 8074183119556070811
+    second: PC Computer - Ragnarok Online - Wanderer_83
+  - first:
+      213: -4847996143649265762
+    second: PC Computer - Ragnarok Online - Wanderer_84
+  - first:
+      213: 7503927587636035738
+    second: PC Computer - Ragnarok Online - Wanderer_85
+  - first:
+      213: 4628708927144646647
+    second: PC Computer - Ragnarok Online - Wanderer_86
+  - first:
+      213: -2923836002960925358
+    second: PC Computer - Ragnarok Online - Wanderer_87
+  - first:
+      213: -4885885588457111439
+    second: PC Computer - Ragnarok Online - Wanderer_88
+  - first:
+      213: 7814784322643674268
+    second: PC Computer - Ragnarok Online - Wanderer_89
+  - first:
+      213: 8194442087663156969
+    second: PC Computer - Ragnarok Online - Wanderer_90
+  - first:
+      213: 1738276250992766503
+    second: PC Computer - Ragnarok Online - Wanderer_91
+  - first:
+      213: -4811517444248140818
+    second: PC Computer - Ragnarok Online - Wanderer_92
+  - first:
+      213: -5680324186689766946
+    second: PC Computer - Ragnarok Online - Wanderer_93
+  - first:
+      213: 3718213584550904194
+    second: PC Computer - Ragnarok Online - Wanderer_94
+  - first:
+      213: 8377342583453312672
+    second: PC Computer - Ragnarok Online - Wanderer_95
+  - first:
+      213: 1651951344853858788
+    second: PC Computer - Ragnarok Online - Wanderer_96
+  - first:
+      213: -4520057932284656337
+    second: PC Computer - Ragnarok Online - Wanderer_97
+  - first:
+      213: -9201582757091167576
+    second: PC Computer - Ragnarok Online - Wanderer_98
+  - first:
+      213: 6745124008497642062
+    second: PC Computer - Ragnarok Online - Wanderer_99
+  - first:
+      213: 4667858241245548036
+    second: PC Computer - Ragnarok Online - Wanderer_100
+  - first:
+      213: -838443502798599359
+    second: PC Computer - Ragnarok Online - Wanderer_101
+  - first:
+      213: -1966285273753924685
+    second: PC Computer - Ragnarok Online - Wanderer_102
+  - first:
+      213: -262997318943451675
+    second: PC Computer - Ragnarok Online - Wanderer_103
+  - first:
+      213: -6828892245995344169
+    second: PC Computer - Ragnarok Online - Wanderer_104
+  - first:
+      213: -3313527948192943201
+    second: PC Computer - Ragnarok Online - Wanderer_105
+  - first:
+      213: -331833070867320771
+    second: PC Computer - Ragnarok Online - Wanderer_106
+  - first:
+      213: 6984973693405963999
+    second: PC Computer - Ragnarok Online - Wanderer_107
+  - first:
+      213: -7493697576589788633
+    second: PC Computer - Ragnarok Online - Wanderer_108
+  - first:
+      213: 1379806533108889495
+    second: PC Computer - Ragnarok Online - Wanderer_109
+  - first:
+      213: 3701957660069113596
+    second: PC Computer - Ragnarok Online - Wanderer_110
+  - first:
+      213: -5005031635895113452
+    second: PC Computer - Ragnarok Online - Wanderer_111
+  - first:
+      213: -7583784942540386005
+    second: PC Computer - Ragnarok Online - Wanderer_112
+  - first:
+      213: -7476369839372693848
+    second: PC Computer - Ragnarok Online - Wanderer_113
+  - first:
+      213: -2559432736923284898
+    second: PC Computer - Ragnarok Online - Wanderer_114
+  - first:
+      213: -806083417075738140
+    second: PC Computer - Ragnarok Online - Wanderer_115
+  - first:
+      213: -2689197835146314105
+    second: PC Computer - Ragnarok Online - Wanderer_116
+  - first:
+      213: -4929480025025618961
+    second: PC Computer - Ragnarok Online - Wanderer_117
+  - first:
+      213: 8475493105789861573
+    second: PC Computer - Ragnarok Online - Wanderer_118
+  - first:
+      213: 7031490293926479868
+    second: PC Computer - Ragnarok Online - Wanderer_119
+  - first:
+      213: -6610453263668405001
+    second: PC Computer - Ragnarok Online - Wanderer_120
+  - first:
+      213: 4630329947833527614
+    second: PC Computer - Ragnarok Online - Wanderer_121
+  - first:
+      213: -8196855786348907127
+    second: PC Computer - Ragnarok Online - Wanderer_122
+  - first:
+      213: 742879483770363567
+    second: PC Computer - Ragnarok Online - Wanderer_123
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1844
+        width: 88
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3ecb3477fa24bb0800000000000000
+      internalID: -4953203713381702747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1842
+        width: 84
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfecc218d7573110800000000000000
+      internalID: 1240556807903834053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1842
+        width: 75
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423c20e7c34444990800000000000000
+      internalID: -7402716860887416028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1841
+        width: 75
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a71576de99ca360800000000000000
+      internalID: 7182284750668790387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1843
+        width: 84
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a682b8e74e59300800000000000000
+      internalID: 258363785795365419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1843
+        width: 89
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4694852d33f5fcf60800000000000000
+      internalID: 8056762934566078820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1843
+        width: 87
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816c6ada31b21e240800000000000000
+      internalID: 4819180439780902424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1705
+        width: 72
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789f2b8bd698efb40800000000000000
+      internalID: 5475965301272279431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1705
+        width: 76
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12afed1d4dbedee10800000000000000
+      internalID: 2228696689904908833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1704
+        width: 84
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f357b336e7d1b60800000000000000
+      internalID: 7718464301047299986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1704
+        width: 84
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894a71f544db44cc0800000000000000
+      internalID: -3727646490205117288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1704
+        width: 76
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe27176744c3ee50800000000000000
+      internalID: 6837524470229839615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_12
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1704
+        width: 72
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9ab01c863dd8910800000000000000
+      internalID: 1841360269533227441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_13
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1699
+        width: 70
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dcdd3acc5563bf0800000000000000
+      internalID: -344993984036352694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1567
+        width: 88
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4999263cfbf424890800000000000000
+      internalID: -7475324746446235244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1566
+        width: 84
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580ac6027bc3c4e0800000000000000
+      internalID: -1962501322002790310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1565
+        width: 75
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d498f0081e3ec40800000000000000
+      internalID: 5540519906728561977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1562
+        width: 75
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5621227e259e270800000000000000
+      internalID: 8280240542559921647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_18
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1562
+        width: 84
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72374eb0998d7d450800000000000000
+      internalID: 6113593171019854631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_19
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1563
+        width: 89
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2ff5ef6859dbf0800000000000000
+      internalID: -299110662620107211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1564
+        width: 87
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1ec1c6e507c3ab0800000000000000
+      internalID: -5027019533209247301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_21
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1565
+        width: 86
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a2c1a91f0dcfd0800000000000000
+      internalID: -2320181630263449665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1430
+        width: 72
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb61b98d5d5838c50800000000000000
+      internalID: 6666319026947036862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1432
+        width: 76
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43385d31bd94d370800000000000000
+      internalID: 8346469393988334410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1431
+        width: 84
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3198fa3b49b0100800000000000000
+      internalID: 75317318246798272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1428
+        width: 84
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f5aff3121cbe00800000000000000
+      internalID: 1061743489255339971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1424
+        width: 76
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169ce79016529fa0800000000000000
+      internalID: -5795475141204077030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1423
+        width: 72
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a615421603ec0c0800000000000000
+      internalID: -4553648979445716431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_28
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1422
+        width: 70
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c967599cf868cf0800000000000000
+      internalID: -250354633313706932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1425
+        width: 69
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b43bdfbd66e2e8b0800000000000000
+      internalID: -5124280066949565264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1296
+        width: 80
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ed4aa5210b1bb0800000000000000
+      internalID: -4964372902963191031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1293
+        width: 79
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ea722761f119790800000000000000
+      internalID: -7525199321094443463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1295
+        width: 72
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf2fae85174ebf70800000000000000
+      internalID: 9204872846305603530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1300
+        width: 136
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d37f363ef5f8160800000000000000
+      internalID: 7029942973587995915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_34
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1301
+        width: 115
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c972ff9cf9fc10800000000000000
+      internalID: 2087977666161001228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_35
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1303
+        width: 104
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529068a6c07d5c4d0800000000000000
+      internalID: -3114847118930081499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1155
+        width: 85
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2306d9425bd2c1cf0800000000000000
+      internalID: -280298820777189326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1156
+        width: 87
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc841026f8347e0800000000000000
+      internalID: -1782423376417468452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1160
+        width: 85
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e768f9078c180f0800000000000000
+      internalID: -1116390846572888499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1153
+        width: 68
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a7950103e740150800000000000000
+      internalID: 5837929761876834925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1156
+        width: 70
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e0f18cbc4a15790800000000000000
+      internalID: -7543066705726075291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_41
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1161
+        width: 73
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88db01a68099e2130800000000000000
+      internalID: 3543938218205429128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1053
+        width: 139
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794470282f813dd10800000000000000
+      internalID: 2149088877028525207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1052
+        width: 140
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b77215e19625e0800000000000000
+      internalID: -1934698576865676256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1077
+        width: 19
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119921d4529cdc20800000000000000
+      internalID: 3232619525529243935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_45
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1037
+        width: 103
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6572d6138ac5b5e10800000000000000
+      internalID: 2187443921472005974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_46
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1038
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eab12890e8089a0800000000000000
+      internalID: -6232825712792064431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_47
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1081
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a47d2428b232f0800000000000000
+      internalID: -994530102174505213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_48
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1033
+        width: 110
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce12f317ae306270800000000000000
+      internalID: 8241656205403102918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_49
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1030
+        width: 83
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c3730ceb0cb2cb0800000000000000
+      internalID: -4887601045079376749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_50
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1026
+        width: 116
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c22a860099aa5e80800000000000000
+      internalID: -8189046536369724736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_51
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1068
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217483fe6722b4410800000000000000
+      internalID: 1462300398226786066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_52
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1027
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c9e05244b00daf0800000000000000
+      internalID: -373786381764354949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 898
+        width: 90
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be380f6140c069dd0800000000000000
+      internalID: -2479781333116615701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 897
+        width: 58
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4156ebf1a54223710800000000000000
+      internalID: 1671438381206103316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_55
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 897
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c33d51090a472b0800000000000000
+      internalID: -5587664696958043019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 892
+        width: 88
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a20b38d77f7c0c0800000000000000
+      internalID: -4555400379609634275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_57
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 893
+        width: 43
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cb95b19674bd170800000000000000
+      internalID: 8204229662941494403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 889
+        width: 43
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702929140ad62650800000000000000
+      internalID: 6207888847513657458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 762
+        width: 58
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84910e7f65096a0800000000000000
+      internalID: -6444555444150515542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 762
+        width: 58
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be70ef75c764d370800000000000000
+      internalID: 8346410107376008886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 760
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642e92ff53ce61a0800000000000000
+      internalID: -6814294369305222047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 773
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e7689f89bb179d0800000000000000
+      internalID: -2778233229415121337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 776
+        width: 58
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44efb0847e946600800000000000000
+      internalID: 460667285112087629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 776
+        width: 59
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ea47d4ab0400b20800000000000000
+      internalID: 3098547712538488358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_65
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 780
+        width: 60
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c6d57a813a0260800000000000000
+      internalID: 7064513436236301268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_66
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 784
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cb026c1f69d8620800000000000000
+      internalID: 2778042510312782995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_67
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 787
+        width: 53
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eafe568053da140800000000000000
+      internalID: 4732497093622476386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_68
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 788
+        width: 54
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05b36883c7e86b90800000000000000
+      internalID: -7248288773259938547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_69
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 793
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47abffa31483a5c70800000000000000
+      internalID: 8960536261420890740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_70
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 819
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d260c4b72c49402a0800000000000000
+      internalID: -6772124376645237203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_71
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 794
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd0805045a1e3f20800000000000000
+      internalID: 3404187316502662576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_72
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 794
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3a97ba51ba17fa0800000000000000
+      internalID: -5804670335144320047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 642
+        width: 43
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9671c691229d610800000000000000
+      internalID: 1646384631363627472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 640
+        width: 43
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce5c3972e2b3f5d0800000000000000
+      internalID: -3029881438523859263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_75
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 638
+        width: 43
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b5bffa17f8d4570800000000000000
+      internalID: 8452569794090851144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_76
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 642
+        width: 43
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f21f27e2f2ec20800000000000000
+      internalID: 3234414557146575452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_77
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 644
+        width: 44
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863abc91c487f180800000000000000
+      internalID: -9081644156476311936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_78
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 649
+        width: 42
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f2c65bf9666ce30800000000000000
+      internalID: 4523415711869841161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_79
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 652
+        width: 42
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5f68fee37bd5080800000000000000
+      internalID: -9196993383086230097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 652
+        width: 42
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5174c2e3a6224f610800000000000000
+      internalID: 1653984802856781589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_81
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 653
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238989c9ec81981f0800000000000000
+      internalID: -1042274563089983438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_82
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 657
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e83ce5f50472b0800000000000000
+      internalID: -5587834683871664783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_83
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 661
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d4894b4c24d0070800000000000000
+      internalID: 8074183119556070811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_84
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 662
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976251713578bcb0800000000000000
+      internalID: -4847996143649265762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_85
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 662
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90cc49226e432860800000000000000
+      internalID: 7503927587636035738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 568
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7d22bce3a7c3040800000000000000
+      internalID: 4628708927144646647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 566
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d140e75a27c67d0800000000000000
+      internalID: -2923836002960925358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_88
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 569
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17040de91f8d13cb0800000000000000
+      internalID: -4885885588457111439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_89
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 572
+        width: 20
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94c77bdfe0b37c60800000000000000
+      internalID: 7814784322643674268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 570
+        width: 36
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3ca7a9a188b170800000000000000
+      internalID: 8194442087663156969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_91
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 570
+        width: 45
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eebed5a099f1810800000000000000
+      internalID: 1738276250992766503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_92
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 569
+        width: 45
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee38ef0806e0a3db0800000000000000
+      internalID: -4811517444248140818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_93
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 569
+        width: 55
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9fb437f3f6b21b0800000000000000
+      internalID: -5680324186689766946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_94
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 568
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28140322e8fb99330800000000000000
+      internalID: 3718213584550904194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_95
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 570
+        width: 30
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6ec70d1bc424470800000000000000
+      internalID: 8377342583453312672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_96
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 567
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93e38eef8ece610800000000000000
+      internalID: 1651951344853858788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_97
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 568
+        width: 35
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f258cf542478541c0800000000000000
+      internalID: -4520057932284656337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_98
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 569
+        width: 42
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2b8380c396d4080800000000000000
+      internalID: -9201582757091167576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_99
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 570
+        width: 42
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af57c6c8e7b9d50800000000000000
+      internalID: 6745124008497642062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_100
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 571
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e025bc65097c040800000000000000
+      internalID: 4667858241245548036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_101
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 571
+        width: 30
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b847393104d54f0800000000000000
+      internalID: -838443502798599359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_102
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 568
+        width: 37
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbc0da16f956b4e0800000000000000
+      internalID: -1966285273753924685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_103
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 570
+        width: 39
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5de73f455a95cf0800000000000000
+      internalID: -262997318943451675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_104
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 572
+        width: 30
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de270ceea6ea31a0800000000000000
+      internalID: -6828892245995344169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_105
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 421
+        width: 88
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9371ae03ebf302d0800000000000000
+      internalID: -3313527948192943201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_106
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 423
+        width: 93
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30f9368497156bf0800000000000000
+      internalID: -331833070867320771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_107
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 425
+        width: 88
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd629e0f09c9fe060800000000000000
+      internalID: 6984973693405963999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 285
+        width: 88
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72af825e1c9010890800000000000000
+      internalID: -7493697576589788633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_109
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 287
+        width: 75
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f7b83bbe062310800000000000000
+      internalID: 1379806533108889495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_110
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 285
+        width: 77
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea4f5c0eeff5330800000000000000
+      internalID: 3701957660069113596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_111
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 286
+        width: 76
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41921e4be3e8a8ab0800000000000000
+      internalID: -5005031635895113452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 285
+        width: 72
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b219cee76cbf0c690800000000000000
+      internalID: -7583784942540386005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_113
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 259
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae0fba1e399e3890800000000000000
+      internalID: -7476369839372693848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_114
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 142
+        width: 72
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a8e297c711b7cd0800000000000000
+      internalID: -2559432736923284898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_115
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 257
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e91ed9276730d4f0800000000000000
+      internalID: -806083417075738140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_116
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 143
+        width: 72
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eba5121dc0eaad0800000000000000
+      internalID: -2689197835146314105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_117
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 141
+        width: 72
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febd6f4e808f69bb0800000000000000
+      internalID: -4929480025025618961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_118
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 142
+        width: 72
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce70ea13100f9570800000000000000
+      internalID: 8475493105789861573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_119
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 145
+        width: 72
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7481bfa2fd49160800000000000000
+      internalID: 7031490293926479868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 143
+        width: 71
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc19b6c7c3f244a0800000000000000
+      internalID: -6610453263668405001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 72
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d68751e8c324040800000000000000
+      internalID: 4630329947833527614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_122
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 11
+        width: 72
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9857193571bee3e80800000000000000
+      internalID: -8196855786348907127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wanderer_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 12
+        width: 71
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faede0d54fc3f4a00800000000000000
+      internalID: 742879483770363567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Wanderer_112: -7583784942540386005
+      PC Computer - Ragnarok Online - Wanderer_117: -4929480025025618961
+      PC Computer - Ragnarok Online - Wanderer_54: 1671438381206103316
+      PC Computer - Ragnarok Online - Wanderer_88: -4885885588457111439
+      PC Computer - Ragnarok Online - Wanderer_61: -6814294369305222047
+      PC Computer - Ragnarok Online - Wanderer_78: 4523415711869841161
+      PC Computer - Ragnarok Online - Wanderer_68: -7248288773259938547
+      PC Computer - Ragnarok Online - Wanderer_91: 1738276250992766503
+      PC Computer - Ragnarok Online - Wanderer_1: 1240556807903834053
+      PC Computer - Ragnarok Online - Wanderer_38: -1116390846572888499
+      PC Computer - Ragnarok Online - Wanderer_29: -5124280066949565264
+      PC Computer - Ragnarok Online - Wanderer_31: -7525199321094443463
+      PC Computer - Ragnarok Online - Wanderer_40: -7543066705726075291
+      PC Computer - Ragnarok Online - Wanderer_41: 3543938218205429128
+      PC Computer - Ragnarok Online - Wanderer_120: -6610453263668405001
+      PC Computer - Ragnarok Online - Wanderer_66: 2778042510312782995
+      PC Computer - Ragnarok Online - Wanderer_73: 1646384631363627472
+      PC Computer - Ragnarok Online - Wanderer_62: -2778233229415121337
+      PC Computer - Ragnarok Online - Wanderer_72: -5804670335144320047
+      PC Computer - Ragnarok Online - Wanderer_51: 1462300398226786066
+      PC Computer - Ragnarok Online - Wanderer_21: -2320181630263449665
+      PC Computer - Ragnarok Online - Wanderer_90: 8194442087663156969
+      PC Computer - Ragnarok Online - Wanderer_28: -250354633313706932
+      PC Computer - Ragnarok Online - Wanderer_96: 1651951344853858788
+      PC Computer - Ragnarok Online - Wanderer_75: 8452569794090851144
+      PC Computer - Ragnarok Online - Wanderer_34: 2087977666161001228
+      PC Computer - Ragnarok Online - Wanderer_79: -9196993383086230097
+      PC Computer - Ragnarok Online - Wanderer_9: 7718464301047299986
+      PC Computer - Ragnarok Online - Wanderer_39: 5837929761876834925
+      PC Computer - Ragnarok Online - Wanderer_84: -4847996143649265762
+      PC Computer - Ragnarok Online - Wanderer_93: -5680324186689766946
+      PC Computer - Ragnarok Online - Wanderer_37: -1782423376417468452
+      PC Computer - Ragnarok Online - Wanderer_45: 2187443921472005974
+      PC Computer - Ragnarok Online - Wanderer_83: 8074183119556070811
+      PC Computer - Ragnarok Online - Wanderer_85: 7503927587636035738
+      PC Computer - Ragnarok Online - Wanderer_10: -3727646490205117288
+      PC Computer - Ragnarok Online - Wanderer_24: 75317318246798272
+      PC Computer - Ragnarok Online - Wanderer_27: -4553648979445716431
+      PC Computer - Ragnarok Online - Wanderer_43: -1934698576865676256
+      PC Computer - Ragnarok Online - Wanderer_114: -2559432736923284898
+      PC Computer - Ragnarok Online - Wanderer_70: -6772124376645237203
+      PC Computer - Ragnarok Online - Wanderer_80: 1653984802856781589
+      PC Computer - Ragnarok Online - Wanderer_48: 8241656205403102918
+      PC Computer - Ragnarok Online - Wanderer_5: 8056762934566078820
+      PC Computer - Ragnarok Online - Wanderer_105: -3313527948192943201
+      PC Computer - Ragnarok Online - Wanderer_17: 8280240542559921647
+      PC Computer - Ragnarok Online - Wanderer_69: 8960536261420890740
+      PC Computer - Ragnarok Online - Wanderer_101: -838443502798599359
+      PC Computer - Ragnarok Online - Wanderer_25: 1061743489255339971
+      PC Computer - Ragnarok Online - Wanderer_100: 4667858241245548036
+      PC Computer - Ragnarok Online - Wanderer_33: 7029942973587995915
+      PC Computer - Ragnarok Online - Wanderer_102: -1966285273753924685
+      PC Computer - Ragnarok Online - Wanderer_113: -7476369839372693848
+      PC Computer - Ragnarok Online - Wanderer_109: 1379806533108889495
+      PC Computer - Ragnarok Online - Wanderer_86: 4628708927144646647
+      PC Computer - Ragnarok Online - Wanderer_87: -2923836002960925358
+      PC Computer - Ragnarok Online - Wanderer_0: -4953203713381702747
+      PC Computer - Ragnarok Online - Wanderer_67: 4732497093622476386
+      PC Computer - Ragnarok Online - Wanderer_13: -344993984036352694
+      PC Computer - Ragnarok Online - Wanderer_55: -5587664696958043019
+      PC Computer - Ragnarok Online - Wanderer_46: -6232825712792064431
+      PC Computer - Ragnarok Online - Wanderer_7: 5475965301272279431
+      PC Computer - Ragnarok Online - Wanderer_60: 8346410107376008886
+      PC Computer - Ragnarok Online - Wanderer_16: 5540519906728561977
+      PC Computer - Ragnarok Online - Wanderer_49: -4887601045079376749
+      PC Computer - Ragnarok Online - Wanderer_116: -2689197835146314105
+      PC Computer - Ragnarok Online - Wanderer_53: -2479781333116615701
+      PC Computer - Ragnarok Online - Wanderer_122: -8196855786348907127
+      PC Computer - Ragnarok Online - Wanderer_20: -5027019533209247301
+      PC Computer - Ragnarok Online - Wanderer_35: -3114847118930081499
+      PC Computer - Ragnarok Online - Wanderer_107: 6984973693405963999
+      PC Computer - Ragnarok Online - Wanderer_19: -299110662620107211
+      PC Computer - Ragnarok Online - Wanderer_110: 3701957660069113596
+      PC Computer - Ragnarok Online - Wanderer_118: 8475493105789861573
+      PC Computer - Ragnarok Online - Wanderer_115: -806083417075738140
+      PC Computer - Ragnarok Online - Wanderer_82: -5587834683871664783
+      PC Computer - Ragnarok Online - Wanderer_111: -5005031635895113452
+      PC Computer - Ragnarok Online - Wanderer_123: 742879483770363567
+      PC Computer - Ragnarok Online - Wanderer_119: 7031490293926479868
+      PC Computer - Ragnarok Online - Wanderer_121: 4630329947833527614
+      PC Computer - Ragnarok Online - Wanderer_12: 1841360269533227441
+      PC Computer - Ragnarok Online - Wanderer_32: 9204872846305603530
+      PC Computer - Ragnarok Online - Wanderer_58: 6207888847513657458
+      PC Computer - Ragnarok Online - Wanderer_74: -3029881438523859263
+      PC Computer - Ragnarok Online - Wanderer_42: 2149088877028525207
+      PC Computer - Ragnarok Online - Wanderer_36: -280298820777189326
+      PC Computer - Ragnarok Online - Wanderer_57: 8204229662941494403
+      PC Computer - Ragnarok Online - Wanderer_64: 3098547712538488358
+      PC Computer - Ragnarok Online - Wanderer_97: -4520057932284656337
+      PC Computer - Ragnarok Online - Wanderer_56: -4555400379609634275
+      PC Computer - Ragnarok Online - Wanderer_99: 6745124008497642062
+      PC Computer - Ragnarok Online - Wanderer_15: -1962501322002790310
+      PC Computer - Ragnarok Online - Wanderer_23: 8346469393988334410
+      PC Computer - Ragnarok Online - Wanderer_22: 6666319026947036862
+      PC Computer - Ragnarok Online - Wanderer_76: 3234414557146575452
+      PC Computer - Ragnarok Online - Wanderer_30: -4964372902963191031
+      PC Computer - Ragnarok Online - Wanderer_81: -1042274563089983438
+      PC Computer - Ragnarok Online - Wanderer_4: 258363785795365419
+      PC Computer - Ragnarok Online - Wanderer_104: -6828892245995344169
+      PC Computer - Ragnarok Online - Wanderer_8: 2228696689904908833
+      PC Computer - Ragnarok Online - Wanderer_6: 4819180439780902424
+      PC Computer - Ragnarok Online - Wanderer_47: -994530102174505213
+      PC Computer - Ragnarok Online - Wanderer_3: 7182284750668790387
+      PC Computer - Ragnarok Online - Wanderer_103: -262997318943451675
+      PC Computer - Ragnarok Online - Wanderer_2: -7402716860887416028
+      PC Computer - Ragnarok Online - Wanderer_98: -9201582757091167576
+      PC Computer - Ragnarok Online - Wanderer_11: 6837524470229839615
+      PC Computer - Ragnarok Online - Wanderer_52: -373786381764354949
+      PC Computer - Ragnarok Online - Wanderer_44: 3232619525529243935
+      PC Computer - Ragnarok Online - Wanderer_71: 3404187316502662576
+      PC Computer - Ragnarok Online - Wanderer_89: 7814784322643674268
+      PC Computer - Ragnarok Online - Wanderer_50: -8189046536369724736
+      PC Computer - Ragnarok Online - Wanderer_106: -331833070867320771
+      PC Computer - Ragnarok Online - Wanderer_59: -6444555444150515542
+      PC Computer - Ragnarok Online - Wanderer_77: -9081644156476311936
+      PC Computer - Ragnarok Online - Wanderer_92: -4811517444248140818
+      PC Computer - Ragnarok Online - Wanderer_18: 6113593171019854631
+      PC Computer - Ragnarok Online - Wanderer_108: -7493697576589788633
+      PC Computer - Ragnarok Online - Wanderer_14: -7475324746446235244
+      PC Computer - Ragnarok Online - Wanderer_26: -5795475141204077030
+      PC Computer - Ragnarok Online - Wanderer_63: 460667285112087629
+      PC Computer - Ragnarok Online - Wanderer_94: 3718213584550904194
+      PC Computer - Ragnarok Online - Wanderer_95: 8377342583453312672
+      PC Computer - Ragnarok Online - Wanderer_65: 7064513436236301268
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

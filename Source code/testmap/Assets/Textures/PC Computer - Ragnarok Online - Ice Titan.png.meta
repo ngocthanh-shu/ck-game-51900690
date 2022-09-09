@@ -1,0 +1,4173 @@
+fileFormatVersion: 2
+guid: dc1ae7bd35cab8f4299d6cc1e7ca1376
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1399300176858965087
+    second: PC Computer - Ragnarok Online - Ice Titan_0
+  - first:
+      213: 6984209224803447899
+    second: PC Computer - Ragnarok Online - Ice Titan_1
+  - first:
+      213: -4821053235375744749
+    second: PC Computer - Ragnarok Online - Ice Titan_2
+  - first:
+      213: 6028262476876908352
+    second: PC Computer - Ragnarok Online - Ice Titan_3
+  - first:
+      213: 5863624925812939231
+    second: PC Computer - Ragnarok Online - Ice Titan_4
+  - first:
+      213: 538557182427534396
+    second: PC Computer - Ragnarok Online - Ice Titan_5
+  - first:
+      213: -943868941327720476
+    second: PC Computer - Ragnarok Online - Ice Titan_6
+  - first:
+      213: -514125343101415838
+    second: PC Computer - Ragnarok Online - Ice Titan_7
+  - first:
+      213: 1678825373046373040
+    second: PC Computer - Ragnarok Online - Ice Titan_8
+  - first:
+      213: 373645979715055489
+    second: PC Computer - Ragnarok Online - Ice Titan_9
+  - first:
+      213: -7164374898689912955
+    second: PC Computer - Ragnarok Online - Ice Titan_10
+  - first:
+      213: 8680174192515435050
+    second: PC Computer - Ragnarok Online - Ice Titan_11
+  - first:
+      213: -7939947468118573220
+    second: PC Computer - Ragnarok Online - Ice Titan_12
+  - first:
+      213: -8971140789624816165
+    second: PC Computer - Ragnarok Online - Ice Titan_13
+  - first:
+      213: -5894770425085603478
+    second: PC Computer - Ragnarok Online - Ice Titan_14
+  - first:
+      213: 5582102995828255194
+    second: PC Computer - Ragnarok Online - Ice Titan_15
+  - first:
+      213: -7428924255826607008
+    second: PC Computer - Ragnarok Online - Ice Titan_16
+  - first:
+      213: -3548164717837977863
+    second: PC Computer - Ragnarok Online - Ice Titan_17
+  - first:
+      213: 5975605748919146921
+    second: PC Computer - Ragnarok Online - Ice Titan_18
+  - first:
+      213: 194528945233700400
+    second: PC Computer - Ragnarok Online - Ice Titan_19
+  - first:
+      213: 1679861839512806350
+    second: PC Computer - Ragnarok Online - Ice Titan_20
+  - first:
+      213: -5549849900948804233
+    second: PC Computer - Ragnarok Online - Ice Titan_21
+  - first:
+      213: -4333647278118719263
+    second: PC Computer - Ragnarok Online - Ice Titan_22
+  - first:
+      213: -1719802634183308374
+    second: PC Computer - Ragnarok Online - Ice Titan_23
+  - first:
+      213: 5962561472211421294
+    second: PC Computer - Ragnarok Online - Ice Titan_24
+  - first:
+      213: 5601419954113710735
+    second: PC Computer - Ragnarok Online - Ice Titan_25
+  - first:
+      213: 7521479788617792333
+    second: PC Computer - Ragnarok Online - Ice Titan_26
+  - first:
+      213: 4443799955412622930
+    second: PC Computer - Ragnarok Online - Ice Titan_27
+  - first:
+      213: -1112814888455188782
+    second: PC Computer - Ragnarok Online - Ice Titan_28
+  - first:
+      213: 3407055739106398819
+    second: PC Computer - Ragnarok Online - Ice Titan_29
+  - first:
+      213: -3157543921502717751
+    second: PC Computer - Ragnarok Online - Ice Titan_30
+  - first:
+      213: 5148751556656530713
+    second: PC Computer - Ragnarok Online - Ice Titan_31
+  - first:
+      213: -724021835446835723
+    second: PC Computer - Ragnarok Online - Ice Titan_32
+  - first:
+      213: 4671003981381482758
+    second: PC Computer - Ragnarok Online - Ice Titan_33
+  - first:
+      213: -7111308534729134356
+    second: PC Computer - Ragnarok Online - Ice Titan_34
+  - first:
+      213: -2839350158597138809
+    second: PC Computer - Ragnarok Online - Ice Titan_35
+  - first:
+      213: 925811128887120566
+    second: PC Computer - Ragnarok Online - Ice Titan_36
+  - first:
+      213: -5799380501629817427
+    second: PC Computer - Ragnarok Online - Ice Titan_37
+  - first:
+      213: -1371498236647385317
+    second: PC Computer - Ragnarok Online - Ice Titan_38
+  - first:
+      213: -510202888235828741
+    second: PC Computer - Ragnarok Online - Ice Titan_39
+  - first:
+      213: 1928791230575645585
+    second: PC Computer - Ragnarok Online - Ice Titan_40
+  - first:
+      213: 3170775355045612001
+    second: PC Computer - Ragnarok Online - Ice Titan_41
+  - first:
+      213: -8550963000203031939
+    second: PC Computer - Ragnarok Online - Ice Titan_42
+  - first:
+      213: -4422358445321558413
+    second: PC Computer - Ragnarok Online - Ice Titan_43
+  - first:
+      213: 3492985504486470546
+    second: PC Computer - Ragnarok Online - Ice Titan_44
+  - first:
+      213: -2080346648259161366
+    second: PC Computer - Ragnarok Online - Ice Titan_45
+  - first:
+      213: 5332557675466093979
+    second: PC Computer - Ragnarok Online - Ice Titan_46
+  - first:
+      213: 1210466421721447097
+    second: PC Computer - Ragnarok Online - Ice Titan_47
+  - first:
+      213: 6036257932599422804
+    second: PC Computer - Ragnarok Online - Ice Titan_48
+  - first:
+      213: -5226125903161881051
+    second: PC Computer - Ragnarok Online - Ice Titan_49
+  - first:
+      213: 5050575052991349035
+    second: PC Computer - Ragnarok Online - Ice Titan_50
+  - first:
+      213: -1702775593879481778
+    second: PC Computer - Ragnarok Online - Ice Titan_51
+  - first:
+      213: -7154620824585153973
+    second: PC Computer - Ragnarok Online - Ice Titan_52
+  - first:
+      213: -3306597078719643310
+    second: PC Computer - Ragnarok Online - Ice Titan_53
+  - first:
+      213: 9159507424018804207
+    second: PC Computer - Ragnarok Online - Ice Titan_54
+  - first:
+      213: -5547453475174126581
+    second: PC Computer - Ragnarok Online - Ice Titan_55
+  - first:
+      213: -5079510064960917367
+    second: PC Computer - Ragnarok Online - Ice Titan_56
+  - first:
+      213: 2999983470411671538
+    second: PC Computer - Ragnarok Online - Ice Titan_57
+  - first:
+      213: 4556581946196894078
+    second: PC Computer - Ragnarok Online - Ice Titan_58
+  - first:
+      213: 57592063007299671
+    second: PC Computer - Ragnarok Online - Ice Titan_59
+  - first:
+      213: 883575058832919953
+    second: PC Computer - Ragnarok Online - Ice Titan_60
+  - first:
+      213: -9109265018370740013
+    second: PC Computer - Ragnarok Online - Ice Titan_61
+  - first:
+      213: 21611306874813899
+    second: PC Computer - Ragnarok Online - Ice Titan_62
+  - first:
+      213: -1718135693180933204
+    second: PC Computer - Ragnarok Online - Ice Titan_63
+  - first:
+      213: 2296940476622463184
+    second: PC Computer - Ragnarok Online - Ice Titan_64
+  - first:
+      213: -5541018031296062968
+    second: PC Computer - Ragnarok Online - Ice Titan_65
+  - first:
+      213: -4613723196319793524
+    second: PC Computer - Ragnarok Online - Ice Titan_66
+  - first:
+      213: 567549352119606077
+    second: PC Computer - Ragnarok Online - Ice Titan_67
+  - first:
+      213: 5149504694547334597
+    second: PC Computer - Ragnarok Online - Ice Titan_68
+  - first:
+      213: 5329703489980812813
+    second: PC Computer - Ragnarok Online - Ice Titan_69
+  - first:
+      213: 7834636008452881583
+    second: PC Computer - Ragnarok Online - Ice Titan_70
+  - first:
+      213: -2383513504885563899
+    second: PC Computer - Ragnarok Online - Ice Titan_71
+  - first:
+      213: -2595904740120879100
+    second: PC Computer - Ragnarok Online - Ice Titan_72
+  - first:
+      213: -1783542310436778008
+    second: PC Computer - Ragnarok Online - Ice Titan_73
+  - first:
+      213: -2570566441469875167
+    second: PC Computer - Ragnarok Online - Ice Titan_74
+  - first:
+      213: 3879756834578653979
+    second: PC Computer - Ragnarok Online - Ice Titan_75
+  - first:
+      213: 342068968892183647
+    second: PC Computer - Ragnarok Online - Ice Titan_76
+  - first:
+      213: -5473083345098500728
+    second: PC Computer - Ragnarok Online - Ice Titan_77
+  - first:
+      213: -1512514390308785796
+    second: PC Computer - Ragnarok Online - Ice Titan_78
+  - first:
+      213: 3354948101664648772
+    second: PC Computer - Ragnarok Online - Ice Titan_79
+  - first:
+      213: -8527003108618273860
+    second: PC Computer - Ragnarok Online - Ice Titan_80
+  - first:
+      213: 6502659438003174414
+    second: PC Computer - Ragnarok Online - Ice Titan_81
+  - first:
+      213: 1591771900586322617
+    second: PC Computer - Ragnarok Online - Ice Titan_82
+  - first:
+      213: 1402929911345808311
+    second: PC Computer - Ragnarok Online - Ice Titan_83
+  - first:
+      213: -3927071381309052311
+    second: PC Computer - Ragnarok Online - Ice Titan_84
+  - first:
+      213: -1286890735292006388
+    second: PC Computer - Ragnarok Online - Ice Titan_85
+  - first:
+      213: -6687506093614215365
+    second: PC Computer - Ragnarok Online - Ice Titan_86
+  - first:
+      213: -3259150880056111063
+    second: PC Computer - Ragnarok Online - Ice Titan_87
+  - first:
+      213: -9191471877283171286
+    second: PC Computer - Ragnarok Online - Ice Titan_88
+  - first:
+      213: 4171892300963265549
+    second: PC Computer - Ragnarok Online - Ice Titan_89
+  - first:
+      213: -7245251682011291025
+    second: PC Computer - Ragnarok Online - Ice Titan_90
+  - first:
+      213: -3599166272828295739
+    second: PC Computer - Ragnarok Online - Ice Titan_91
+  - first:
+      213: 8188723947372061904
+    second: PC Computer - Ragnarok Online - Ice Titan_92
+  - first:
+      213: 8323875981831499719
+    second: PC Computer - Ragnarok Online - Ice Titan_93
+  - first:
+      213: 2245866139341952743
+    second: PC Computer - Ragnarok Online - Ice Titan_94
+  - first:
+      213: 3042987811752357688
+    second: PC Computer - Ragnarok Online - Ice Titan_95
+  - first:
+      213: 2510575889102042884
+    second: PC Computer - Ragnarok Online - Ice Titan_96
+  - first:
+      213: 3611938820883189932
+    second: PC Computer - Ragnarok Online - Ice Titan_97
+  - first:
+      213: 6364387825804837335
+    second: PC Computer - Ragnarok Online - Ice Titan_98
+  - first:
+      213: 7358374010034932041
+    second: PC Computer - Ragnarok Online - Ice Titan_99
+  - first:
+      213: 1454808504023345026
+    second: PC Computer - Ragnarok Online - Ice Titan_100
+  - first:
+      213: -2702003401826907046
+    second: PC Computer - Ragnarok Online - Ice Titan_101
+  - first:
+      213: -8364550542209223919
+    second: PC Computer - Ragnarok Online - Ice Titan_102
+  - first:
+      213: -6236036953118682345
+    second: PC Computer - Ragnarok Online - Ice Titan_103
+  - first:
+      213: 7839567504478370517
+    second: PC Computer - Ragnarok Online - Ice Titan_104
+  - first:
+      213: 5564883740987821176
+    second: PC Computer - Ragnarok Online - Ice Titan_105
+  - first:
+      213: -4495614254121956298
+    second: PC Computer - Ragnarok Online - Ice Titan_106
+  - first:
+      213: 3813519534504176276
+    second: PC Computer - Ragnarok Online - Ice Titan_107
+  - first:
+      213: -6148466128629644402
+    second: PC Computer - Ragnarok Online - Ice Titan_108
+  - first:
+      213: -1044155463904527436
+    second: PC Computer - Ragnarok Online - Ice Titan_109
+  - first:
+      213: -4894152634238328088
+    second: PC Computer - Ragnarok Online - Ice Titan_110
+  - first:
+      213: -4239969907488495306
+    second: PC Computer - Ragnarok Online - Ice Titan_111
+  - first:
+      213: 7769653945273010383
+    second: PC Computer - Ragnarok Online - Ice Titan_112
+  - first:
+      213: 2609340418610423389
+    second: PC Computer - Ragnarok Online - Ice Titan_113
+  - first:
+      213: 7065176932467532515
+    second: PC Computer - Ragnarok Online - Ice Titan_114
+  - first:
+      213: -7444649654559521862
+    second: PC Computer - Ragnarok Online - Ice Titan_115
+  - first:
+      213: 1893410626835703700
+    second: PC Computer - Ragnarok Online - Ice Titan_116
+  - first:
+      213: -5392007540342959515
+    second: PC Computer - Ragnarok Online - Ice Titan_117
+  - first:
+      213: 8819643023457884926
+    second: PC Computer - Ragnarok Online - Ice Titan_118
+  - first:
+      213: -1264065044804371412
+    second: PC Computer - Ragnarok Online - Ice Titan_119
+  - first:
+      213: -4461579176083844512
+    second: PC Computer - Ragnarok Online - Ice Titan_120
+  - first:
+      213: -4533781300761763388
+    second: PC Computer - Ragnarok Online - Ice Titan_121
+  - first:
+      213: -4592544779539563567
+    second: PC Computer - Ragnarok Online - Ice Titan_122
+  - first:
+      213: -1829846028124269608
+    second: PC Computer - Ragnarok Online - Ice Titan_123
+  - first:
+      213: 2084601337623384276
+    second: PC Computer - Ragnarok Online - Ice Titan_124
+  - first:
+      213: -769700458218015095
+    second: PC Computer - Ragnarok Online - Ice Titan_125
+  - first:
+      213: 548650670325883951
+    second: PC Computer - Ragnarok Online - Ice Titan_126
+  - first:
+      213: 6498463217223368900
+    second: PC Computer - Ragnarok Online - Ice Titan_127
+  - first:
+      213: 4293090454522084117
+    second: PC Computer - Ragnarok Online - Ice Titan_128
+  - first:
+      213: 2740733016331163221
+    second: PC Computer - Ragnarok Online - Ice Titan_129
+  - first:
+      213: -1680414471313541462
+    second: PC Computer - Ragnarok Online - Ice Titan_130
+  - first:
+      213: -7917112482309348068
+    second: PC Computer - Ragnarok Online - Ice Titan_131
+  - first:
+      213: 8017697681074862914
+    second: PC Computer - Ragnarok Online - Ice Titan_132
+  - first:
+      213: -7713142263393840709
+    second: PC Computer - Ragnarok Online - Ice Titan_133
+  - first:
+      213: -679708174487363892
+    second: PC Computer - Ragnarok Online - Ice Titan_134
+  - first:
+      213: -2809037129581705119
+    second: PC Computer - Ragnarok Online - Ice Titan_135
+  - first:
+      213: 6554127273539243718
+    second: PC Computer - Ragnarok Online - Ice Titan_136
+  - first:
+      213: 3742356064861849314
+    second: PC Computer - Ragnarok Online - Ice Titan_137
+  - first:
+      213: 7794043892804642256
+    second: PC Computer - Ragnarok Online - Ice Titan_138
+  - first:
+      213: -1621805811009478779
+    second: PC Computer - Ragnarok Online - Ice Titan_139
+  - first:
+      213: 8677717774314494849
+    second: PC Computer - Ragnarok Online - Ice Titan_140
+  - first:
+      213: 2808001223866010443
+    second: PC Computer - Ragnarok Online - Ice Titan_141
+  - first:
+      213: 3188125744667983289
+    second: PC Computer - Ragnarok Online - Ice Titan_142
+  - first:
+      213: -8503803985560893514
+    second: PC Computer - Ragnarok Online - Ice Titan_143
+  - first:
+      213: 4770231319091203516
+    second: PC Computer - Ragnarok Online - Ice Titan_144
+  - first:
+      213: 1899923241735682521
+    second: PC Computer - Ragnarok Online - Ice Titan_145
+  - first:
+      213: 8590115904994005922
+    second: PC Computer - Ragnarok Online - Ice Titan_146
+  - first:
+      213: -1362396587621499726
+    second: PC Computer - Ragnarok Online - Ice Titan_147
+  - first:
+      213: -3375392540388039384
+    second: PC Computer - Ragnarok Online - Ice Titan_148
+  - first:
+      213: -3100762628038065406
+    second: PC Computer - Ragnarok Online - Ice Titan_149
+  - first:
+      213: 3740098943499189289
+    second: PC Computer - Ragnarok Online - Ice Titan_150
+  - first:
+      213: 6709766393872871077
+    second: PC Computer - Ragnarok Online - Ice Titan_151
+  - first:
+      213: 6882149837093300603
+    second: PC Computer - Ragnarok Online - Ice Titan_152
+  - first:
+      213: 4049472850154519869
+    second: PC Computer - Ragnarok Online - Ice Titan_153
+  - first:
+      213: -7661118118624929000
+    second: PC Computer - Ragnarok Online - Ice Titan_154
+  - first:
+      213: -4746767289443923785
+    second: PC Computer - Ragnarok Online - Ice Titan_155
+  - first:
+      213: -2504757752886276176
+    second: PC Computer - Ragnarok Online - Ice Titan_156
+  - first:
+      213: 1227748343945002029
+    second: PC Computer - Ragnarok Online - Ice Titan_157
+  - first:
+      213: 7231703044493023196
+    second: PC Computer - Ragnarok Online - Ice Titan_158
+  - first:
+      213: 3220306114146215770
+    second: PC Computer - Ragnarok Online - Ice Titan_159
+  - first:
+      213: 8716092620805445319
+    second: PC Computer - Ragnarok Online - Ice Titan_160
+  - first:
+      213: 4100095181242800929
+    second: PC Computer - Ragnarok Online - Ice Titan_161
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3145
+        width: 141
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54e1d7d8105b6310800000000000000
+      internalID: 1399300176858965087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3139
+        width: 140
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b547a693945ece060800000000000000
+      internalID: 6984209224803447899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3134
+        width: 140
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195e2e10ad281db0800000000000000
+      internalID: -4821053235375744749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3139
+        width: 141
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047801b98c0b8a350800000000000000
+      internalID: 6028262476876908352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_4
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3137
+        width: 140
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d43f9dc7cf5150800000000000000
+      internalID: 5863624925812939231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_5
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 3135
+        width: 140
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3414dd67e6597700800000000000000
+      internalID: 538557182427534396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_6
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 3135
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef13add234b6e2f0800000000000000
+      internalID: -943868941327720476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2969
+        width: 142
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0a6279b57dd8f0800000000000000
+      internalID: -514125343101415838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2964
+        width: 144
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba775038c26c4710800000000000000
+      internalID: 1678825373046373040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2985
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2ba4f9057f2500800000000000000
+      internalID: 373645979715055489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2957
+        width: 141
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fccd5fcf6039c90800000000000000
+      internalID: -7164374898689912955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2959
+        width: 140
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a4565407c267870800000000000000
+      internalID: 8680174192515435050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2957
+        width: 140
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fb78b68d3afc190800000000000000
+      internalID: -7939947468118573220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2952
+        width: 141
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd3564abfa108380800000000000000
+      internalID: -8971140789624816165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2976
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a615b4cb781913ea0800000000000000
+      internalID: -5894770425085603478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2768
+        width: 135
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9acf5791d977d40800000000000000
+      internalID: 5582102995828255194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2766
+        width: 137
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640c2cdfb827e890800000000000000
+      internalID: -7428924255826607008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2763
+        width: 135
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f671b4fcf262cec0800000000000000
+      internalID: -3548164717837977863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2760
+        width: 134
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a99b1eb4cd9de250800000000000000
+      internalID: 5975605748919146921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_19
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2763
+        width: 135
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036af278b0b13b200800000000000000
+      internalID: 194528945233700400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2761
+        width: 133
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec325e75171105710800000000000000
+      internalID: 1679861839512806350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_21
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2778
+        width: 88
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77da5316be8faf2b0800000000000000
+      internalID: -5549849900948804233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2605
+        width: 134
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e035edd2cacbd3c0800000000000000
+      internalID: -4333647278118719263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2605
+        width: 134
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab09b9bd980228e0800000000000000
+      internalID: -1719802634183308374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2600
+        width: 134
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68879661164fb250800000000000000
+      internalID: 5962561472211421294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2598
+        width: 135
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8bba45cd3cbd40800000000000000
+      internalID: 5601419954113710735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_26
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2600
+        width: 135
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bf7d9640aa16860800000000000000
+      internalID: 7521479788617792333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_27
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2600
+        width: 133
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e1443e38c8bad30800000000000000
+      internalID: 4443799955412622930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2406
+        width: 144
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deccd041cc7e80f0800000000000000
+      internalID: -1112814888455188782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2405
+        width: 140
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3629463b42b484f20800000000000000
+      internalID: 3407055739106398819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2407
+        width: 136
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8f22468862e24d0800000000000000
+      internalID: -3157543921502717751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2405
+        width: 135
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158043f24a047740800000000000000
+      internalID: 5148751556656530713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_32
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2399
+        width: 133
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5a0980af1c3f5f0800000000000000
+      internalID: -724021835446835723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2233
+        width: 130
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609bdae7f5db2d040800000000000000
+      internalID: 4671003981381482758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2233
+        width: 127
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee2443a09e8f4d90800000000000000
+      internalID: -7111308534729134356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2249
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865ed3031a9898d0800000000000000
+      internalID: -2839350158597138809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_36
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2231
+        width: 129
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29b6a015429dc00800000000000000
+      internalID: 925811128887120566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2240
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad27030926748fa0800000000000000
+      internalID: -5799380501629817427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_38
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2254
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17de8ace9577fce0800000000000000
+      internalID: -1371498236647385317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_39
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2229
+        width: 128
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf933532d256be8f0800000000000000
+      internalID: -510202888235828741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_40
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2249
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1939950b76174ca10800000000000000
+      internalID: 1928791230575645585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_41
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2222
+        width: 131
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e98e0cc26bd00c20800000000000000
+      internalID: 3170775355045612001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_42
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2242
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ac36dc470e45980800000000000000
+      internalID: -8550963000203031939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2056
+        width: 126
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e825bc60a0a2c0800000000000000
+      internalID: -4422358445321558413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2061
+        width: 127
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29331884fc3997030800000000000000
+      internalID: 3492985504486470546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2066
+        width: 129
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae296dcdebf1123e0800000000000000
+      internalID: -2080346648259161366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_46
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2060
+        width: 133
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b957076e3fc010a40800000000000000
+      internalID: 5332557675466093979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_47
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2058
+        width: 140
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9babe371cc07cc010800000000000000
+      internalID: 1210466421721447097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1891
+        width: 146
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe835bb9815c350800000000000000
+      internalID: 6036257932599422804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1894
+        width: 146
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e81962e221977b0800000000000000
+      internalID: -5226125903161881051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1899
+        width: 142
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21cff8604f371640800000000000000
+      internalID: 5050575052991349035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_51
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1896
+        width: 133
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42db9a7e968e58e0800000000000000
+      internalID: -1702775593879481778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_52
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1893
+        width: 130
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b425dff444ea5bc90800000000000000
+      internalID: -7154620824585153973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1706
+        width: 141
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251429bd97b9c12d0800000000000000
+      internalID: -3306597078719643310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1710
+        width: 139
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feda136197b1d1f70800000000000000
+      internalID: 9159507424018804207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1709
+        width: 141
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c6d3cb47c7303b0800000000000000
+      internalID: -5547453475174126581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_56
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1710
+        width: 140
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980bbf02284f189b0800000000000000
+      internalID: -5079510064960917367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_57
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1705
+        width: 138
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f76eed521512a920800000000000000
+      internalID: 2999983470411671538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_58
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1703
+        width: 139
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e712605632b3c3f30800000000000000
+      internalID: 4556581946196894078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1531
+        width: 138
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7589e691dab9cc000800000000000000
+      internalID: 57592063007299671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1531
+        width: 139
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d812aa5d6134c00800000000000000
+      internalID: 883575058832919953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_61
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1532
+        width: 122
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0be1f8ab3659180800000000000000
+      internalID: -9109265018370740013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_62
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1538
+        width: 120
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb76d7e57cc4000800000000000000
+      internalID: 21611306874813899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_63
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1538
+        width: 120
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe70ca0b4f728e0800000000000000
+      internalID: -1718135693180933204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1351
+        width: 135
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d06c4b913f50ef10800000000000000
+      internalID: 2296940476622463184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1344
+        width: 129
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a509645795a13b0800000000000000
+      internalID: -5541018031296062968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_66
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1350
+        width: 133
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ef06f8233c8ffb0800000000000000
+      internalID: -4613723196319793524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1350
+        width: 138
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b9795f02750e700800000000000000
+      internalID: 567549352119606077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_68
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1349
+        width: 141
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c543b78c37b67740800000000000000
+      internalID: 5149504694547334597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_69
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1438
+        width: 25
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e477e0619e6f940800000000000000
+      internalID: 5329703489980812813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_70
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1446
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7154a0f73abc60800000000000000
+      internalID: 7834636008452881583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_71
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1459
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e13ff781f0ceed0800000000000000
+      internalID: -2383513504885563899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_72
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1463
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400a75e746e79fbd0800000000000000
+      internalID: -2595904740120879100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 136
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef4980e7b59f37e0800000000000000
+      internalID: -1783542310436778008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_74
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1177
+        width: 144
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ce5a0e073835cd0800000000000000
+      internalID: -2570566441469875167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_75
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1174
+        width: 143
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1364f3094aa7d530800000000000000
+      internalID: 3879756834578653979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_76
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1182
+        width: 125
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54b0833ae54fb400800000000000000
+      internalID: 342068968892183647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_77
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1179
+        width: 126
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8851c4df1b3bb04b0800000000000000
+      internalID: -5473083345098500728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_78
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1182
+        width: 210
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c717af7fc28720be0800000000000000
+      internalID: -1512514390308785796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_79
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 975
+        width: 100
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea79fe58b2f8e20800000000000000
+      internalID: 3354948101664648772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_80
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 990
+        width: 130
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbf728c9dff9a980800000000000000
+      internalID: -8527003108618273860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_81
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 997
+        width: 129
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c35896e461e3a50800000000000000
+      internalID: 6502659438003174414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_82
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1001
+        width: 118
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba65e92c1c171610800000000000000
+      internalID: 1591771900586322617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_83
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1064
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b389824255387310800000000000000
+      internalID: 1402929911345808311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_84
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 990
+        width: 137
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa87d926d3089c0800000000000000
+      internalID: -3927071381309052311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_85
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 999
+        width: 152
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00cd2ac1bb042ee0800000000000000
+      internalID: -1286890735292006388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 796
+        width: 141
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f4dd8c3a43133a0800000000000000
+      internalID: -6687506093614215365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_87
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 793
+        width: 137
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209ad4da8b25c2d0800000000000000
+      internalID: -3259150880056111063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 794
+        width: 140
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a243b8fa605517080800000000000000
+      internalID: -9191471877283171286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_89
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 792
+        width: 140
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c3a10b1f985e930800000000000000
+      internalID: 4171892300963265549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_90
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 785
+        width: 141
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f626a617bf1b37b90800000000000000
+      internalID: -7245251682011291025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_91
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 802
+        width: 173
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b08418513d0ec0800000000000000
+      internalID: -3599166272828295739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_92
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 680
+        width: 177
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a8de5b0134a170800000000000000
+      internalID: 8188723947372061904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 677
+        width: 175
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe87b8a19548370800000000000000
+      internalID: 8323875981831499719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_94
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 675
+        width: 174
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e61e88ca5bea2f10800000000000000
+      internalID: 2245866139341952743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_95
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 657
+        width: 178
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fa757da4dda3a20800000000000000
+      internalID: 3042987811752357688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_96
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 512
+        width: 135
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4077693387b57d220800000000000000
+      internalID: 2510575889102042884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_97
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 512
+        width: 138
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca09f21883f202230800000000000000
+      internalID: 3611938820883189932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_98
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 513
+        width: 142
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d10be1f109d25850800000000000000
+      internalID: 6364387825804837335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_99
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 513
+        width: 140
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94949900d223e1660800000000000000
+      internalID: 7358374010034932041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_100
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 517
+        width: 140
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287678260a4803410800000000000000
+      internalID: 1454808504023345026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_101
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 510
+        width: 155
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cc53cc83e808ad0800000000000000
+      internalID: -2702003401826907046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_102
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 385
+        width: 174
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11371d169952beb80800000000000000
+      internalID: -8364550542209223919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_103
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 384
+        width: 173
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d62b5e652579a0800000000000000
+      internalID: -6236036953118682345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 390
+        width: 174
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf0290c1dbbcc60800000000000000
+      internalID: 7839567504478370517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_105
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 388
+        width: 174
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0de547407a3d40800000000000000
+      internalID: 5564883740987821176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_106
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 390
+        width: 174
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cc0e797ae5c91c0800000000000000
+      internalID: -4495614254121956298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 278
+        width: 28
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a622ecfc75ce430800000000000000
+      internalID: 3813519534504176276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_108
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 44
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e834289c1a24caaa0800000000000000
+      internalID: -6148466128629644402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_109
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 251
+        width: 52
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbffa3432a6281f0800000000000000
+      internalID: -1044155463904527436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_110
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 274
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2aea70c1a741cb0800000000000000
+      internalID: -4894152634238328088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_111
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 279
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6396dcd55d99825c0800000000000000
+      internalID: -4239969907488495306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_112
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 279
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8c5bb091b53db60800000000000000
+      internalID: 7769653945273010383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_113
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 276
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e75d294d363420800000000000000
+      internalID: 2609340418610423389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_114
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 233
+        width: 103
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e207bcfc8c0260800000000000000
+      internalID: 7065176932467532515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_115
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 281
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ceb6259a4fa890800000000000000
+      internalID: -7444649654559521862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_116
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 278
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ed72feeeb64a10800000000000000
+      internalID: 1893410626835703700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_117
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 276
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56251abc5bdbb25b0800000000000000
+      internalID: -5392007540342959515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_118
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 267
+        width: 52
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa95f2f99aa56a70800000000000000
+      internalID: 8819643023457884926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_119
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 260
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c727ff983257ee0800000000000000
+      internalID: -1264065044804371412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_120
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 276
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0621e38b0694512c0800000000000000
+      internalID: -4461579176083844512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_121
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 271
+        width: 27
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c169ce8de5c411c0800000000000000
+      internalID: -4533781300761763388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_122
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 263
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db3878fad00440c0800000000000000
+      internalID: -4592544779539563567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_123
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 261
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d35efb7bb41b96e0800000000000000
+      internalID: -1829846028124269608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_124
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 276
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d098533fddfdec10800000000000000
+      internalID: 2084601337623384276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_125
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 279
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b574e2897155f0800000000000000
+      internalID: -769700458218015095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_126
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 281
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ed86b0e23d9700800000000000000
+      internalID: 548650670325883951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_127
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 285
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c08a80addd2f2a50800000000000000
+      internalID: 6498463217223368900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_128
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 133
+        width: 84
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bb86ac50f149b30800000000000000
+      internalID: 4293090454522084117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_129
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 151
+        width: 80
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5569a96482a090620800000000000000
+      internalID: 2740733016331163221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_130
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 171
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa63ee901f7fda8e0800000000000000
+      internalID: -1680414471313541462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_131
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 168
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e32dd424c02290800000000000000
+      internalID: -7917112482309348068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_132
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 176
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bb0f4bf85944f60800000000000000
+      internalID: 8017697681074862914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_133
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 173
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19b583af965f490800000000000000
+      internalID: -7713142263393840709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_134
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 172
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce50cc34013196f0800000000000000
+      internalID: -679708174487363892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_135
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 171
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16846621d9b4409d0800000000000000
+      internalID: -2809037129581705119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_136
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 176
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce8100b700f4fa50800000000000000
+      internalID: 6554127273539243718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_137
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 177
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e68e1d53058fe330800000000000000
+      internalID: 3742356064861849314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_138
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 157
+        width: 58
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d56c6a30a10a2c60800000000000000
+      internalID: 7794043892804642256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_139
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 159
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f9d1425303e79e0800000000000000
+      internalID: -1621805811009478779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_140
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 154
+        width: 62
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bdb17d6527d6870800000000000000
+      internalID: 8677717774314494849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_141
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 179
+        width: 28
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b45655c3608f620800000000000000
+      internalID: 2808001223866010443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_142
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 180
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd763e297f7e3c20800000000000000
+      internalID: 3188125744667983289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_143
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 181
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b78719845b6cf980800000000000000
+      internalID: -8503803985560893514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_144
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 182
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdcfd66c14433240800000000000000
+      internalID: 4770231319091203516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_145
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 157
+        width: 65
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9f9244f12ed5a10800000000000000
+      internalID: 1899923241735682521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_146
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 161
+        width: 70
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3d99837e8363770800000000000000
+      internalID: 8590115904994005922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_147
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 40
+        width: 32
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcbd97958bc71de0800000000000000
+      internalID: -1362396587621499726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_148
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 45
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825eaac3e523821d0800000000000000
+      internalID: -3375392540388039384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_149
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 66
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2030cfe71d0e7f4d0800000000000000
+      internalID: -3100762628038065406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_150
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c35185c2087e330800000000000000
+      internalID: 3740098943499189289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_151
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 61
+        width: 33
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae65a04cf0ed1d50800000000000000
+      internalID: 6709766393872871077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_152
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 19
+        width: 107
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7965fa40de428f50800000000000000
+      internalID: 6882149837093300603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_153
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 65
+        width: 35
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d7c092a1e923830800000000000000
+      internalID: 4049472850154519869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_154
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 62
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5d0559ad3ea590800000000000000
+      internalID: -7661118118624929000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_155
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 60
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b84049bc48102eb0800000000000000
+      internalID: -4746767289443923785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_156
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 39
+        width: 49
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfcec238105d3dd0800000000000000
+      internalID: -2504757752886276176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_157
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 49
+        width: 33
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c7a6a2d96d90110800000000000000
+      internalID: 1227748343945002029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_158
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 47
+        width: 51
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd71e109a9b2c5460800000000000000
+      internalID: 7231703044493023196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_159
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 63
+        width: 47
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5724b15953d0bc20800000000000000
+      internalID: 3220306114146215770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_160
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 60
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6138c0f08c5f870800000000000000
+      internalID: 8716092620805445319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Ice Titan_161
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 54
+        width: 38
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b944718d676e830800000000000000
+      internalID: 4100095181242800929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Ice Titan_63: -1718135693180933204
+      PC Computer - Ragnarok Online - Ice Titan_22: -4333647278118719263
+      PC Computer - Ragnarok Online - Ice Titan_11: 8680174192515435050
+      PC Computer - Ragnarok Online - Ice Titan_78: -1512514390308785796
+      PC Computer - Ragnarok Online - Ice Titan_44: 3492985504486470546
+      PC Computer - Ragnarok Online - Ice Titan_65: -5541018031296062968
+      PC Computer - Ragnarok Online - Ice Titan_74: -2570566441469875167
+      PC Computer - Ragnarok Online - Ice Titan_148: -3375392540388039384
+      PC Computer - Ragnarok Online - Ice Titan_111: -4239969907488495306
+      PC Computer - Ragnarok Online - Ice Titan_152: 6882149837093300603
+      PC Computer - Ragnarok Online - Ice Titan_45: -2080346648259161366
+      PC Computer - Ragnarok Online - Ice Titan_94: 2245866139341952743
+      PC Computer - Ragnarok Online - Ice Titan_124: 2084601337623384276
+      PC Computer - Ragnarok Online - Ice Titan_130: -1680414471313541462
+      PC Computer - Ragnarok Online - Ice Titan_99: 7358374010034932041
+      PC Computer - Ragnarok Online - Ice Titan_123: -1829846028124269608
+      PC Computer - Ragnarok Online - Ice Titan_131: -7917112482309348068
+      PC Computer - Ragnarok Online - Ice Titan_19: 194528945233700400
+      PC Computer - Ragnarok Online - Ice Titan_80: -8527003108618273860
+      PC Computer - Ragnarok Online - Ice Titan_16: -7428924255826607008
+      PC Computer - Ragnarok Online - Ice Titan_82: 1591771900586322617
+      PC Computer - Ragnarok Online - Ice Titan_10: -7164374898689912955
+      PC Computer - Ragnarok Online - Ice Titan_47: 1210466421721447097
+      PC Computer - Ragnarok Online - Ice Titan_15: 5582102995828255194
+      PC Computer - Ragnarok Online - Ice Titan_33: 4671003981381482758
+      PC Computer - Ragnarok Online - Ice Titan_56: -5079510064960917367
+      PC Computer - Ragnarok Online - Ice Titan_48: 6036257932599422804
+      PC Computer - Ragnarok Online - Ice Titan_32: -724021835446835723
+      PC Computer - Ragnarok Online - Ice Titan_75: 3879756834578653979
+      PC Computer - Ragnarok Online - Ice Titan_17: -3548164717837977863
+      PC Computer - Ragnarok Online - Ice Titan_110: -4894152634238328088
+      PC Computer - Ragnarok Online - Ice Titan_14: -5894770425085603478
+      PC Computer - Ragnarok Online - Ice Titan_107: 3813519534504176276
+      PC Computer - Ragnarok Online - Ice Titan_83: 1402929911345808311
+      PC Computer - Ragnarok Online - Ice Titan_30: -3157543921502717751
+      PC Computer - Ragnarok Online - Ice Titan_39: -510202888235828741
+      PC Computer - Ragnarok Online - Ice Titan_159: 3220306114146215770
+      PC Computer - Ragnarok Online - Ice Titan_46: 5332557675466093979
+      PC Computer - Ragnarok Online - Ice Titan_60: 883575058832919953
+      PC Computer - Ragnarok Online - Ice Titan_23: -1719802634183308374
+      PC Computer - Ragnarok Online - Ice Titan_31: 5148751556656530713
+      PC Computer - Ragnarok Online - Ice Titan_88: -9191471877283171286
+      PC Computer - Ragnarok Online - Ice Titan_43: -4422358445321558413
+      PC Computer - Ragnarok Online - Ice Titan_117: -5392007540342959515
+      PC Computer - Ragnarok Online - Ice Titan_133: -7713142263393840709
+      PC Computer - Ragnarok Online - Ice Titan_37: -5799380501629817427
+      PC Computer - Ragnarok Online - Ice Titan_161: 4100095181242800929
+      PC Computer - Ragnarok Online - Ice Titan_34: -7111308534729134356
+      PC Computer - Ragnarok Online - Ice Titan_8: 1678825373046373040
+      PC Computer - Ragnarok Online - Ice Titan_20: 1679861839512806350
+      PC Computer - Ragnarok Online - Ice Titan_49: -5226125903161881051
+      PC Computer - Ragnarok Online - Ice Titan_18: 5975605748919146921
+      PC Computer - Ragnarok Online - Ice Titan_50: 5050575052991349035
+      PC Computer - Ragnarok Online - Ice Titan_21: -5549849900948804233
+      PC Computer - Ragnarok Online - Ice Titan_26: 7521479788617792333
+      PC Computer - Ragnarok Online - Ice Titan_154: -7661118118624929000
+      PC Computer - Ragnarok Online - Ice Titan_53: -3306597078719643310
+      PC Computer - Ragnarok Online - Ice Titan_72: -2595904740120879100
+      PC Computer - Ragnarok Online - Ice Titan_36: 925811128887120566
+      PC Computer - Ragnarok Online - Ice Titan_90: -7245251682011291025
+      PC Computer - Ragnarok Online - Ice Titan_58: 4556581946196894078
+      PC Computer - Ragnarok Online - Ice Titan_113: 2609340418610423389
+      PC Computer - Ragnarok Online - Ice Titan_104: 7839567504478370517
+      PC Computer - Ragnarok Online - Ice Titan_135: -2809037129581705119
+      PC Computer - Ragnarok Online - Ice Titan_2: -4821053235375744749
+      PC Computer - Ragnarok Online - Ice Titan_59: 57592063007299671
+      PC Computer - Ragnarok Online - Ice Titan_9: 373645979715055489
+      PC Computer - Ragnarok Online - Ice Titan_105: 5564883740987821176
+      PC Computer - Ragnarok Online - Ice Titan_102: -8364550542209223919
+      PC Computer - Ragnarok Online - Ice Titan_136: 6554127273539243718
+      PC Computer - Ragnarok Online - Ice Titan_1: 6984209224803447899
+      PC Computer - Ragnarok Online - Ice Titan_79: 3354948101664648772
+      PC Computer - Ragnarok Online - Ice Titan_40: 1928791230575645585
+      PC Computer - Ragnarok Online - Ice Titan_132: 8017697681074862914
+      PC Computer - Ragnarok Online - Ice Titan_122: -4592544779539563567
+      PC Computer - Ragnarok Online - Ice Titan_125: -769700458218015095
+      PC Computer - Ragnarok Online - Ice Titan_64: 2296940476622463184
+      PC Computer - Ragnarok Online - Ice Titan_151: 6709766393872871077
+      PC Computer - Ragnarok Online - Ice Titan_57: 2999983470411671538
+      PC Computer - Ragnarok Online - Ice Titan_5: 538557182427534396
+      PC Computer - Ragnarok Online - Ice Titan_127: 6498463217223368900
+      PC Computer - Ragnarok Online - Ice Titan_141: 2808001223866010443
+      PC Computer - Ragnarok Online - Ice Titan_28: -1112814888455188782
+      PC Computer - Ragnarok Online - Ice Titan_38: -1371498236647385317
+      PC Computer - Ragnarok Online - Ice Titan_115: -7444649654559521862
+      PC Computer - Ragnarok Online - Ice Titan_69: 5329703489980812813
+      PC Computer - Ragnarok Online - Ice Titan_67: 567549352119606077
+      PC Computer - Ragnarok Online - Ice Titan_89: 4171892300963265549
+      PC Computer - Ragnarok Online - Ice Titan_137: 3742356064861849314
+      PC Computer - Ragnarok Online - Ice Titan_71: -2383513504885563899
+      PC Computer - Ragnarok Online - Ice Titan_138: 7794043892804642256
+      PC Computer - Ragnarok Online - Ice Titan_153: 4049472850154519869
+      PC Computer - Ragnarok Online - Ice Titan_140: 8677717774314494849
+      PC Computer - Ragnarok Online - Ice Titan_156: -2504757752886276176
+      PC Computer - Ragnarok Online - Ice Titan_150: 3740098943499189289
+      PC Computer - Ragnarok Online - Ice Titan_7: -514125343101415838
+      PC Computer - Ragnarok Online - Ice Titan_54: 9159507424018804207
+      PC Computer - Ragnarok Online - Ice Titan_118: 8819643023457884926
+      PC Computer - Ragnarok Online - Ice Titan_13: -8971140789624816165
+      PC Computer - Ragnarok Online - Ice Titan_66: -4613723196319793524
+      PC Computer - Ragnarok Online - Ice Titan_87: -3259150880056111063
+      PC Computer - Ragnarok Online - Ice Titan_29: 3407055739106398819
+      PC Computer - Ragnarok Online - Ice Titan_52: -7154620824585153973
+      PC Computer - Ragnarok Online - Ice Titan_129: 2740733016331163221
+      PC Computer - Ragnarok Online - Ice Titan_143: -8503803985560893514
+      PC Computer - Ragnarok Online - Ice Titan_41: 3170775355045612001
+      PC Computer - Ragnarok Online - Ice Titan_114: 7065176932467532515
+      PC Computer - Ragnarok Online - Ice Titan_142: 3188125744667983289
+      PC Computer - Ragnarok Online - Ice Titan_3: 6028262476876908352
+      PC Computer - Ragnarok Online - Ice Titan_51: -1702775593879481778
+      PC Computer - Ragnarok Online - Ice Titan_121: -4533781300761763388
+      PC Computer - Ragnarok Online - Ice Titan_145: 1899923241735682521
+      PC Computer - Ragnarok Online - Ice Titan_106: -4495614254121956298
+      PC Computer - Ragnarok Online - Ice Titan_42: -8550963000203031939
+      PC Computer - Ragnarok Online - Ice Titan_55: -5547453475174126581
+      PC Computer - Ragnarok Online - Ice Titan_158: 7231703044493023196
+      PC Computer - Ragnarok Online - Ice Titan_81: 6502659438003174414
+      PC Computer - Ragnarok Online - Ice Titan_120: -4461579176083844512
+      PC Computer - Ragnarok Online - Ice Titan_0: 1399300176858965087
+      PC Computer - Ragnarok Online - Ice Titan_86: -6687506093614215365
+      PC Computer - Ragnarok Online - Ice Titan_27: 4443799955412622930
+      PC Computer - Ragnarok Online - Ice Titan_68: 5149504694547334597
+      PC Computer - Ragnarok Online - Ice Titan_155: -4746767289443923785
+      PC Computer - Ragnarok Online - Ice Titan_109: -1044155463904527436
+      PC Computer - Ragnarok Online - Ice Titan_85: -1286890735292006388
+      PC Computer - Ragnarok Online - Ice Titan_128: 4293090454522084117
+      PC Computer - Ragnarok Online - Ice Titan_12: -7939947468118573220
+      PC Computer - Ragnarok Online - Ice Titan_84: -3927071381309052311
+      PC Computer - Ragnarok Online - Ice Titan_61: -9109265018370740013
+      PC Computer - Ragnarok Online - Ice Titan_98: 6364387825804837335
+      PC Computer - Ragnarok Online - Ice Titan_139: -1621805811009478779
+      PC Computer - Ragnarok Online - Ice Titan_70: 7834636008452881583
+      PC Computer - Ragnarok Online - Ice Titan_62: 21611306874813899
+      PC Computer - Ragnarok Online - Ice Titan_96: 2510575889102042884
+      PC Computer - Ragnarok Online - Ice Titan_147: -1362396587621499726
+      PC Computer - Ragnarok Online - Ice Titan_6: -943868941327720476
+      PC Computer - Ragnarok Online - Ice Titan_77: -5473083345098500728
+      PC Computer - Ragnarok Online - Ice Titan_112: 7769653945273010383
+      PC Computer - Ragnarok Online - Ice Titan_100: 1454808504023345026
+      PC Computer - Ragnarok Online - Ice Titan_116: 1893410626835703700
+      PC Computer - Ragnarok Online - Ice Titan_157: 1227748343945002029
+      PC Computer - Ragnarok Online - Ice Titan_134: -679708174487363892
+      PC Computer - Ragnarok Online - Ice Titan_4: 5863624925812939231
+      PC Computer - Ragnarok Online - Ice Titan_25: 5601419954113710735
+      PC Computer - Ragnarok Online - Ice Titan_126: 548650670325883951
+      PC Computer - Ragnarok Online - Ice Titan_73: -1783542310436778008
+      PC Computer - Ragnarok Online - Ice Titan_149: -3100762628038065406
+      PC Computer - Ragnarok Online - Ice Titan_103: -6236036953118682345
+      PC Computer - Ragnarok Online - Ice Titan_101: -2702003401826907046
+      PC Computer - Ragnarok Online - Ice Titan_91: -3599166272828295739
+      PC Computer - Ragnarok Online - Ice Titan_160: 8716092620805445319
+      PC Computer - Ragnarok Online - Ice Titan_108: -6148466128629644402
+      PC Computer - Ragnarok Online - Ice Titan_119: -1264065044804371412
+      PC Computer - Ragnarok Online - Ice Titan_35: -2839350158597138809
+      PC Computer - Ragnarok Online - Ice Titan_76: 342068968892183647
+      PC Computer - Ragnarok Online - Ice Titan_146: 8590115904994005922
+      PC Computer - Ragnarok Online - Ice Titan_95: 3042987811752357688
+      PC Computer - Ragnarok Online - Ice Titan_144: 4770231319091203516
+      PC Computer - Ragnarok Online - Ice Titan_93: 8323875981831499719
+      PC Computer - Ragnarok Online - Ice Titan_97: 3611938820883189932
+      PC Computer - Ragnarok Online - Ice Titan_24: 5962561472211421294
+      PC Computer - Ragnarok Online - Ice Titan_92: 8188723947372061904
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

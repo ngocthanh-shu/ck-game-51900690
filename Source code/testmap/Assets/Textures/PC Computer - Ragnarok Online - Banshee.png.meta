@@ -1,0 +1,6298 @@
+fileFormatVersion: 2
+guid: 16bf37a2061b6d54bbe27448bc04e6b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3904532963649142343
+    second: PC Computer - Ragnarok Online - Banshee_0
+  - first:
+      213: -3882772235434052135
+    second: PC Computer - Ragnarok Online - Banshee_1
+  - first:
+      213: 6139328498133475011
+    second: PC Computer - Ragnarok Online - Banshee_2
+  - first:
+      213: 6024277997234982219
+    second: PC Computer - Ragnarok Online - Banshee_3
+  - first:
+      213: -5524564916196373249
+    second: PC Computer - Ragnarok Online - Banshee_4
+  - first:
+      213: 6443689728278754092
+    second: PC Computer - Ragnarok Online - Banshee_5
+  - first:
+      213: 937208837386039824
+    second: PC Computer - Ragnarok Online - Banshee_6
+  - first:
+      213: -6067522141847119192
+    second: PC Computer - Ragnarok Online - Banshee_7
+  - first:
+      213: 5498751548845640418
+    second: PC Computer - Ragnarok Online - Banshee_8
+  - first:
+      213: 9024264576176953899
+    second: PC Computer - Ragnarok Online - Banshee_9
+  - first:
+      213: -3615305629915865406
+    second: PC Computer - Ragnarok Online - Banshee_10
+  - first:
+      213: -4679678254586345037
+    second: PC Computer - Ragnarok Online - Banshee_11
+  - first:
+      213: 1679668862858066320
+    second: PC Computer - Ragnarok Online - Banshee_12
+  - first:
+      213: -5381124160532994936
+    second: PC Computer - Ragnarok Online - Banshee_13
+  - first:
+      213: 1083572641426254702
+    second: PC Computer - Ragnarok Online - Banshee_14
+  - first:
+      213: 7766441114763004280
+    second: PC Computer - Ragnarok Online - Banshee_15
+  - first:
+      213: 6573381645454921369
+    second: PC Computer - Ragnarok Online - Banshee_16
+  - first:
+      213: 4180700367635487059
+    second: PC Computer - Ragnarok Online - Banshee_17
+  - first:
+      213: 6212933933039411492
+    second: PC Computer - Ragnarok Online - Banshee_18
+  - first:
+      213: 406836773823952181
+    second: PC Computer - Ragnarok Online - Banshee_19
+  - first:
+      213: 8120319230527129411
+    second: PC Computer - Ragnarok Online - Banshee_20
+  - first:
+      213: -1240519172097400110
+    second: PC Computer - Ragnarok Online - Banshee_21
+  - first:
+      213: -7440273596162298399
+    second: PC Computer - Ragnarok Online - Banshee_22
+  - first:
+      213: 6841434921231986144
+    second: PC Computer - Ragnarok Online - Banshee_23
+  - first:
+      213: -6338971371369701202
+    second: PC Computer - Ragnarok Online - Banshee_24
+  - first:
+      213: -2894362416221152896
+    second: PC Computer - Ragnarok Online - Banshee_25
+  - first:
+      213: -7195705985018612525
+    second: PC Computer - Ragnarok Online - Banshee_26
+  - first:
+      213: -7884514965993006628
+    second: PC Computer - Ragnarok Online - Banshee_27
+  - first:
+      213: 3953556390045469015
+    second: PC Computer - Ragnarok Online - Banshee_28
+  - first:
+      213: 5425655707086341748
+    second: PC Computer - Ragnarok Online - Banshee_29
+  - first:
+      213: -2835571372330398415
+    second: PC Computer - Ragnarok Online - Banshee_30
+  - first:
+      213: 3199712868389553613
+    second: PC Computer - Ragnarok Online - Banshee_31
+  - first:
+      213: -6866198365513541105
+    second: PC Computer - Ragnarok Online - Banshee_32
+  - first:
+      213: -7055268489055780522
+    second: PC Computer - Ragnarok Online - Banshee_33
+  - first:
+      213: 8557472795933454250
+    second: PC Computer - Ragnarok Online - Banshee_34
+  - first:
+      213: -4925152835294948377
+    second: PC Computer - Ragnarok Online - Banshee_35
+  - first:
+      213: 333816283416550688
+    second: PC Computer - Ragnarok Online - Banshee_36
+  - first:
+      213: 8745530229697164850
+    second: PC Computer - Ragnarok Online - Banshee_37
+  - first:
+      213: -6596075878632450452
+    second: PC Computer - Ragnarok Online - Banshee_38
+  - first:
+      213: -380436526445055632
+    second: PC Computer - Ragnarok Online - Banshee_39
+  - first:
+      213: -7482533424579867266
+    second: PC Computer - Ragnarok Online - Banshee_40
+  - first:
+      213: -742733353617501453
+    second: PC Computer - Ragnarok Online - Banshee_41
+  - first:
+      213: 1185081055964291006
+    second: PC Computer - Ragnarok Online - Banshee_42
+  - first:
+      213: 7163518416077497317
+    second: PC Computer - Ragnarok Online - Banshee_43
+  - first:
+      213: -5644862144900075314
+    second: PC Computer - Ragnarok Online - Banshee_44
+  - first:
+      213: 1058535789276683708
+    second: PC Computer - Ragnarok Online - Banshee_45
+  - first:
+      213: 4591050483826494046
+    second: PC Computer - Ragnarok Online - Banshee_46
+  - first:
+      213: 6670873211093512328
+    second: PC Computer - Ragnarok Online - Banshee_47
+  - first:
+      213: 794663185936925139
+    second: PC Computer - Ragnarok Online - Banshee_48
+  - first:
+      213: -6378422181466658273
+    second: PC Computer - Ragnarok Online - Banshee_49
+  - first:
+      213: 6878388536447812834
+    second: PC Computer - Ragnarok Online - Banshee_50
+  - first:
+      213: 8407144935801056292
+    second: PC Computer - Ragnarok Online - Banshee_51
+  - first:
+      213: -8647266620209560191
+    second: PC Computer - Ragnarok Online - Banshee_52
+  - first:
+      213: -1982783060029285988
+    second: PC Computer - Ragnarok Online - Banshee_53
+  - first:
+      213: -4448008757994381673
+    second: PC Computer - Ragnarok Online - Banshee_54
+  - first:
+      213: -650746143264507766
+    second: PC Computer - Ragnarok Online - Banshee_55
+  - first:
+      213: -5682785036682782066
+    second: PC Computer - Ragnarok Online - Banshee_56
+  - first:
+      213: 5178241300206091023
+    second: PC Computer - Ragnarok Online - Banshee_57
+  - first:
+      213: 8088428885241072695
+    second: PC Computer - Ragnarok Online - Banshee_58
+  - first:
+      213: -31564962139416068
+    second: PC Computer - Ragnarok Online - Banshee_59
+  - first:
+      213: 6420922765012783543
+    second: PC Computer - Ragnarok Online - Banshee_60
+  - first:
+      213: -2293981619375397587
+    second: PC Computer - Ragnarok Online - Banshee_61
+  - first:
+      213: 1589364340945018517
+    second: PC Computer - Ragnarok Online - Banshee_62
+  - first:
+      213: 4125183440326804376
+    second: PC Computer - Ragnarok Online - Banshee_63
+  - first:
+      213: 3805392228341629500
+    second: PC Computer - Ragnarok Online - Banshee_64
+  - first:
+      213: -477165593126352951
+    second: PC Computer - Ragnarok Online - Banshee_65
+  - first:
+      213: -2140400435975598275
+    second: PC Computer - Ragnarok Online - Banshee_66
+  - first:
+      213: -8187360697387228879
+    second: PC Computer - Ragnarok Online - Banshee_67
+  - first:
+      213: -5739417453192124225
+    second: PC Computer - Ragnarok Online - Banshee_68
+  - first:
+      213: 7579215218177036862
+    second: PC Computer - Ragnarok Online - Banshee_69
+  - first:
+      213: -5980767187562445284
+    second: PC Computer - Ragnarok Online - Banshee_70
+  - first:
+      213: -4160596343086966665
+    second: PC Computer - Ragnarok Online - Banshee_71
+  - first:
+      213: 3562317232609434514
+    second: PC Computer - Ragnarok Online - Banshee_72
+  - first:
+      213: -2265314129850125311
+    second: PC Computer - Ragnarok Online - Banshee_73
+  - first:
+      213: -2109832620432320080
+    second: PC Computer - Ragnarok Online - Banshee_74
+  - first:
+      213: 5527010416923555490
+    second: PC Computer - Ragnarok Online - Banshee_75
+  - first:
+      213: 326854299670168645
+    second: PC Computer - Ragnarok Online - Banshee_76
+  - first:
+      213: -1975549005257575384
+    second: PC Computer - Ragnarok Online - Banshee_77
+  - first:
+      213: -1116152943980183929
+    second: PC Computer - Ragnarok Online - Banshee_78
+  - first:
+      213: -5856672527824233311
+    second: PC Computer - Ragnarok Online - Banshee_79
+  - first:
+      213: -8289278185239785718
+    second: PC Computer - Ragnarok Online - Banshee_80
+  - first:
+      213: 8623187875415223726
+    second: PC Computer - Ragnarok Online - Banshee_81
+  - first:
+      213: 3077297232980184186
+    second: PC Computer - Ragnarok Online - Banshee_82
+  - first:
+      213: 4227122607123134419
+    second: PC Computer - Ragnarok Online - Banshee_83
+  - first:
+      213: 6165016526465999825
+    second: PC Computer - Ragnarok Online - Banshee_84
+  - first:
+      213: -5266757547415087384
+    second: PC Computer - Ragnarok Online - Banshee_85
+  - first:
+      213: 1135666033020009361
+    second: PC Computer - Ragnarok Online - Banshee_86
+  - first:
+      213: -8644558550446280428
+    second: PC Computer - Ragnarok Online - Banshee_87
+  - first:
+      213: -7597015368234716998
+    second: PC Computer - Ragnarok Online - Banshee_88
+  - first:
+      213: -7148986209254438761
+    second: PC Computer - Ragnarok Online - Banshee_89
+  - first:
+      213: -4715126175256716213
+    second: PC Computer - Ragnarok Online - Banshee_90
+  - first:
+      213: 8764834127413656677
+    second: PC Computer - Ragnarok Online - Banshee_91
+  - first:
+      213: 7053489255363104052
+    second: PC Computer - Ragnarok Online - Banshee_92
+  - first:
+      213: 5837519217090329843
+    second: PC Computer - Ragnarok Online - Banshee_93
+  - first:
+      213: -6570004837925873296
+    second: PC Computer - Ragnarok Online - Banshee_94
+  - first:
+      213: -3194250082863798463
+    second: PC Computer - Ragnarok Online - Banshee_95
+  - first:
+      213: 7227119335335539892
+    second: PC Computer - Ragnarok Online - Banshee_96
+  - first:
+      213: 4477946088728461137
+    second: PC Computer - Ragnarok Online - Banshee_97
+  - first:
+      213: -5514141114143994013
+    second: PC Computer - Ragnarok Online - Banshee_98
+  - first:
+      213: 903719403569407993
+    second: PC Computer - Ragnarok Online - Banshee_99
+  - first:
+      213: 7611746995814375589
+    second: PC Computer - Ragnarok Online - Banshee_100
+  - first:
+      213: -7494704627852376067
+    second: PC Computer - Ragnarok Online - Banshee_101
+  - first:
+      213: 4148464386272010477
+    second: PC Computer - Ragnarok Online - Banshee_102
+  - first:
+      213: -9124625978013217253
+    second: PC Computer - Ragnarok Online - Banshee_103
+  - first:
+      213: 6754063360590889726
+    second: PC Computer - Ragnarok Online - Banshee_104
+  - first:
+      213: 8012524542114625384
+    second: PC Computer - Ragnarok Online - Banshee_105
+  - first:
+      213: 1224341493019056361
+    second: PC Computer - Ragnarok Online - Banshee_106
+  - first:
+      213: -7093183079426208621
+    second: PC Computer - Ragnarok Online - Banshee_107
+  - first:
+      213: 479568515182402714
+    second: PC Computer - Ragnarok Online - Banshee_108
+  - first:
+      213: -4152324511928353671
+    second: PC Computer - Ragnarok Online - Banshee_109
+  - first:
+      213: 7513851522520968213
+    second: PC Computer - Ragnarok Online - Banshee_110
+  - first:
+      213: 7659879171942919644
+    second: PC Computer - Ragnarok Online - Banshee_111
+  - first:
+      213: -5395682107662021108
+    second: PC Computer - Ragnarok Online - Banshee_112
+  - first:
+      213: -5940589038574883582
+    second: PC Computer - Ragnarok Online - Banshee_113
+  - first:
+      213: -1122912534995786184
+    second: PC Computer - Ragnarok Online - Banshee_114
+  - first:
+      213: -1516778460012346179
+    second: PC Computer - Ragnarok Online - Banshee_115
+  - first:
+      213: 4608135374320813258
+    second: PC Computer - Ragnarok Online - Banshee_116
+  - first:
+      213: 8515663262818562363
+    second: PC Computer - Ragnarok Online - Banshee_117
+  - first:
+      213: -7845137199826735905
+    second: PC Computer - Ragnarok Online - Banshee_118
+  - first:
+      213: -6104207922629297301
+    second: PC Computer - Ragnarok Online - Banshee_119
+  - first:
+      213: 4603236381604627651
+    second: PC Computer - Ragnarok Online - Banshee_120
+  - first:
+      213: 3792278347197898466
+    second: PC Computer - Ragnarok Online - Banshee_121
+  - first:
+      213: -3304819220952538752
+    second: PC Computer - Ragnarok Online - Banshee_122
+  - first:
+      213: 6212407536421300429
+    second: PC Computer - Ragnarok Online - Banshee_123
+  - first:
+      213: 6034720733282549545
+    second: PC Computer - Ragnarok Online - Banshee_124
+  - first:
+      213: -7064333622931686952
+    second: PC Computer - Ragnarok Online - Banshee_125
+  - first:
+      213: -4830976008289511627
+    second: PC Computer - Ragnarok Online - Banshee_126
+  - first:
+      213: -4131898557266391166
+    second: PC Computer - Ragnarok Online - Banshee_127
+  - first:
+      213: -5533499226660008835
+    second: PC Computer - Ragnarok Online - Banshee_128
+  - first:
+      213: 1984035535038816558
+    second: PC Computer - Ragnarok Online - Banshee_129
+  - first:
+      213: 7831135634223037596
+    second: PC Computer - Ragnarok Online - Banshee_130
+  - first:
+      213: -364404050943158876
+    second: PC Computer - Ragnarok Online - Banshee_131
+  - first:
+      213: 4985125342283192753
+    second: PC Computer - Ragnarok Online - Banshee_132
+  - first:
+      213: -6910220371689338978
+    second: PC Computer - Ragnarok Online - Banshee_133
+  - first:
+      213: 2564763082961313595
+    second: PC Computer - Ragnarok Online - Banshee_134
+  - first:
+      213: 3122278468785001628
+    second: PC Computer - Ragnarok Online - Banshee_135
+  - first:
+      213: -3162551258651244067
+    second: PC Computer - Ragnarok Online - Banshee_136
+  - first:
+      213: -6865307269461085533
+    second: PC Computer - Ragnarok Online - Banshee_137
+  - first:
+      213: -2818223554788399856
+    second: PC Computer - Ragnarok Online - Banshee_138
+  - first:
+      213: 5795727875770938829
+    second: PC Computer - Ragnarok Online - Banshee_139
+  - first:
+      213: 8185470834486573332
+    second: PC Computer - Ragnarok Online - Banshee_140
+  - first:
+      213: 1103747786742039244
+    second: PC Computer - Ragnarok Online - Banshee_141
+  - first:
+      213: 183262934365570058
+    second: PC Computer - Ragnarok Online - Banshee_142
+  - first:
+      213: -606232968014090522
+    second: PC Computer - Ragnarok Online - Banshee_143
+  - first:
+      213: 1400783279857975599
+    second: PC Computer - Ragnarok Online - Banshee_144
+  - first:
+      213: -2216326952844509079
+    second: PC Computer - Ragnarok Online - Banshee_145
+  - first:
+      213: -4101069876204140814
+    second: PC Computer - Ragnarok Online - Banshee_146
+  - first:
+      213: -2580090699991246765
+    second: PC Computer - Ragnarok Online - Banshee_147
+  - first:
+      213: -5360299695571545361
+    second: PC Computer - Ragnarok Online - Banshee_148
+  - first:
+      213: -6813526210743930061
+    second: PC Computer - Ragnarok Online - Banshee_149
+  - first:
+      213: -795663718724244142
+    second: PC Computer - Ragnarok Online - Banshee_150
+  - first:
+      213: 6052547755685865341
+    second: PC Computer - Ragnarok Online - Banshee_151
+  - first:
+      213: 2589437451036544535
+    second: PC Computer - Ragnarok Online - Banshee_152
+  - first:
+      213: 2904588711870252982
+    second: PC Computer - Ragnarok Online - Banshee_153
+  - first:
+      213: 8471866541067372842
+    second: PC Computer - Ragnarok Online - Banshee_154
+  - first:
+      213: -1162126532493473328
+    second: PC Computer - Ragnarok Online - Banshee_155
+  - first:
+      213: 45997365049371135
+    second: PC Computer - Ragnarok Online - Banshee_156
+  - first:
+      213: 6913401103512313914
+    second: PC Computer - Ragnarok Online - Banshee_157
+  - first:
+      213: -3325798962554448565
+    second: PC Computer - Ragnarok Online - Banshee_158
+  - first:
+      213: 5102655991834420307
+    second: PC Computer - Ragnarok Online - Banshee_159
+  - first:
+      213: 6584513595993318732
+    second: PC Computer - Ragnarok Online - Banshee_160
+  - first:
+      213: 3115151879037810674
+    second: PC Computer - Ragnarok Online - Banshee_161
+  - first:
+      213: 8713270274943515470
+    second: PC Computer - Ragnarok Online - Banshee_162
+  - first:
+      213: -7258818146373576996
+    second: PC Computer - Ragnarok Online - Banshee_163
+  - first:
+      213: 1045513460930330481
+    second: PC Computer - Ragnarok Online - Banshee_164
+  - first:
+      213: 5288388299424770496
+    second: PC Computer - Ragnarok Online - Banshee_165
+  - first:
+      213: 2876996553711738936
+    second: PC Computer - Ragnarok Online - Banshee_166
+  - first:
+      213: 5357812646189234217
+    second: PC Computer - Ragnarok Online - Banshee_167
+  - first:
+      213: 1376983071646236532
+    second: PC Computer - Ragnarok Online - Banshee_168
+  - first:
+      213: 1128301766678671543
+    second: PC Computer - Ragnarok Online - Banshee_169
+  - first:
+      213: 5559791754758585432
+    second: PC Computer - Ragnarok Online - Banshee_170
+  - first:
+      213: -6897730117301233318
+    second: PC Computer - Ragnarok Online - Banshee_171
+  - first:
+      213: -287436917499958998
+    second: PC Computer - Ragnarok Online - Banshee_172
+  - first:
+      213: -5824695046553785868
+    second: PC Computer - Ragnarok Online - Banshee_173
+  - first:
+      213: 937908885163690344
+    second: PC Computer - Ragnarok Online - Banshee_174
+  - first:
+      213: 6586906054346706066
+    second: PC Computer - Ragnarok Online - Banshee_175
+  - first:
+      213: 4664193246976990535
+    second: PC Computer - Ragnarok Online - Banshee_176
+  - first:
+      213: 5750360092722448258
+    second: PC Computer - Ragnarok Online - Banshee_177
+  - first:
+      213: 282094553601261895
+    second: PC Computer - Ragnarok Online - Banshee_178
+  - first:
+      213: -560819802649533179
+    second: PC Computer - Ragnarok Online - Banshee_179
+  - first:
+      213: 1727804778866853877
+    second: PC Computer - Ragnarok Online - Banshee_180
+  - first:
+      213: -1800064906201425163
+    second: PC Computer - Ragnarok Online - Banshee_181
+  - first:
+      213: -5899571102060068703
+    second: PC Computer - Ragnarok Online - Banshee_182
+  - first:
+      213: -8106905595737372474
+    second: PC Computer - Ragnarok Online - Banshee_183
+  - first:
+      213: -8845823053487357017
+    second: PC Computer - Ragnarok Online - Banshee_184
+  - first:
+      213: 2502393529283252211
+    second: PC Computer - Ragnarok Online - Banshee_185
+  - first:
+      213: 3267463819583735183
+    second: PC Computer - Ragnarok Online - Banshee_186
+  - first:
+      213: -7333625701724025090
+    second: PC Computer - Ragnarok Online - Banshee_187
+  - first:
+      213: -8419971775629640436
+    second: PC Computer - Ragnarok Online - Banshee_188
+  - first:
+      213: 3141032768100952586
+    second: PC Computer - Ragnarok Online - Banshee_189
+  - first:
+      213: 8278244399824724178
+    second: PC Computer - Ragnarok Online - Banshee_190
+  - first:
+      213: 690047842258529935
+    second: PC Computer - Ragnarok Online - Banshee_191
+  - first:
+      213: 6115483075065169126
+    second: PC Computer - Ragnarok Online - Banshee_192
+  - first:
+      213: -8372956922723335432
+    second: PC Computer - Ragnarok Online - Banshee_193
+  - first:
+      213: -828026425970681684
+    second: PC Computer - Ragnarok Online - Banshee_194
+  - first:
+      213: 524242909497366190
+    second: PC Computer - Ragnarok Online - Banshee_195
+  - first:
+      213: 346101412177273333
+    second: PC Computer - Ragnarok Online - Banshee_196
+  - first:
+      213: -9081640903654869935
+    second: PC Computer - Ragnarok Online - Banshee_197
+  - first:
+      213: -5955734299360748352
+    second: PC Computer - Ragnarok Online - Banshee_198
+  - first:
+      213: -6245257987676160432
+    second: PC Computer - Ragnarok Online - Banshee_199
+  - first:
+      213: 6107464067296354472
+    second: PC Computer - Ragnarok Online - Banshee_200
+  - first:
+      213: -4675386051748608996
+    second: PC Computer - Ragnarok Online - Banshee_201
+  - first:
+      213: -3826611729298692374
+    second: PC Computer - Ragnarok Online - Banshee_202
+  - first:
+      213: -7146925097164894152
+    second: PC Computer - Ragnarok Online - Banshee_203
+  - first:
+      213: 5618953690740078429
+    second: PC Computer - Ragnarok Online - Banshee_204
+  - first:
+      213: 7618946872535313852
+    second: PC Computer - Ragnarok Online - Banshee_205
+  - first:
+      213: -1599745449228686305
+    second: PC Computer - Ragnarok Online - Banshee_206
+  - first:
+      213: 3604714142970767808
+    second: PC Computer - Ragnarok Online - Banshee_207
+  - first:
+      213: -2894294107134125136
+    second: PC Computer - Ragnarok Online - Banshee_208
+  - first:
+      213: -5431422671256803266
+    second: PC Computer - Ragnarok Online - Banshee_209
+  - first:
+      213: -2505778656867316949
+    second: PC Computer - Ragnarok Online - Banshee_210
+  - first:
+      213: 7897734914539146055
+    second: PC Computer - Ragnarok Online - Banshee_211
+  - first:
+      213: -6203483154619701489
+    second: PC Computer - Ragnarok Online - Banshee_212
+  - first:
+      213: -6254734244440419031
+    second: PC Computer - Ragnarok Online - Banshee_213
+  - first:
+      213: 8376642354826240924
+    second: PC Computer - Ragnarok Online - Banshee_214
+  - first:
+      213: 4104941695421057174
+    second: PC Computer - Ragnarok Online - Banshee_215
+  - first:
+      213: 5727558556057893179
+    second: PC Computer - Ragnarok Online - Banshee_216
+  - first:
+      213: 2174483953138733877
+    second: PC Computer - Ragnarok Online - Banshee_217
+  - first:
+      213: 5010703066041444921
+    second: PC Computer - Ragnarok Online - Banshee_218
+  - first:
+      213: -246526996009687623
+    second: PC Computer - Ragnarok Online - Banshee_219
+  - first:
+      213: 3660575689548995456
+    second: PC Computer - Ragnarok Online - Banshee_220
+  - first:
+      213: -3117327277091014810
+    second: PC Computer - Ragnarok Online - Banshee_221
+  - first:
+      213: 6888115047509437796
+    second: PC Computer - Ragnarok Online - Banshee_222
+  - first:
+      213: 5917390679941186972
+    second: PC Computer - Ragnarok Online - Banshee_223
+  - first:
+      213: 6858701043433684291
+    second: PC Computer - Ragnarok Online - Banshee_224
+  - first:
+      213: -7908367379233759858
+    second: PC Computer - Ragnarok Online - Banshee_225
+  - first:
+      213: -1136224447374028568
+    second: PC Computer - Ragnarok Online - Banshee_226
+  - first:
+      213: 2713166706355541502
+    second: PC Computer - Ragnarok Online - Banshee_227
+  - first:
+      213: 746245895324615808
+    second: PC Computer - Ragnarok Online - Banshee_228
+  - first:
+      213: 3404686598069642916
+    second: PC Computer - Ragnarok Online - Banshee_229
+  - first:
+      213: -2002348333195382536
+    second: PC Computer - Ragnarok Online - Banshee_230
+  - first:
+      213: -3680361257602044779
+    second: PC Computer - Ragnarok Online - Banshee_231
+  - first:
+      213: 966706275753126441
+    second: PC Computer - Ragnarok Online - Banshee_232
+  - first:
+      213: 3807152534237629022
+    second: PC Computer - Ragnarok Online - Banshee_233
+  - first:
+      213: 8208663691883571416
+    second: PC Computer - Ragnarok Online - Banshee_234
+  - first:
+      213: 8005207387697289465
+    second: PC Computer - Ragnarok Online - Banshee_235
+  - first:
+      213: -6675729792854560932
+    second: PC Computer - Ragnarok Online - Banshee_236
+  - first:
+      213: -4175265379530329644
+    second: PC Computer - Ragnarok Online - Banshee_237
+  - first:
+      213: 8435353361118545982
+    second: PC Computer - Ragnarok Online - Banshee_238
+  - first:
+      213: -5376016593981665654
+    second: PC Computer - Ragnarok Online - Banshee_239
+  - first:
+      213: 9163193314071720525
+    second: PC Computer - Ragnarok Online - Banshee_240
+  - first:
+      213: -1102153865182900015
+    second: PC Computer - Ragnarok Online - Banshee_241
+  - first:
+      213: -6257257731157061300
+    second: PC Computer - Ragnarok Online - Banshee_242
+  - first:
+      213: -1608602878111651684
+    second: PC Computer - Ragnarok Online - Banshee_243
+  - first:
+      213: 6145375619797170299
+    second: PC Computer - Ragnarok Online - Banshee_244
+  - first:
+      213: 4624451995308530218
+    second: PC Computer - Ragnarok Online - Banshee_245
+  - first:
+      213: -7427531955163629498
+    second: PC Computer - Ragnarok Online - Banshee_246
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1060
+        width: 81
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1c3e7e4ff40d9c0800000000000000
+      internalID: -3904532963649142343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1174
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d53433493f9d1ac0800000000000000
+      internalID: -3882772235434052135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1059
+        width: 76
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce9da2ddb6433550800000000000000
+      internalID: 6139328498133475011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1174
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d8465abe88a9350800000000000000
+      internalID: 6024277997234982219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1058
+        width: 65
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8787aa7dc453b0800000000000000
+      internalID: -5524564916196373249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1178
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2373e0faa59c6950800000000000000
+      internalID: 6443689728278754092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1060
+        width: 65
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01270c8d872a10d00800000000000000
+      internalID: 937208837386039824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1180
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa926452c4dbcba0800000000000000
+      internalID: -6067522141847119192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1061
+        width: 64
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eac219666d7f4c40800000000000000
+      internalID: 5498751548845640418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1061
+        width: 70
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a1b26c1d0ac3d70800000000000000
+      internalID: 9024264576176953899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1181
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce156e2faad3ddc0800000000000000
+      internalID: -3615305629915865406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1141
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c244eb617e0fb0800000000000000
+      internalID: -4679678254586345037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1126
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09970f67ee16f4710800000000000000
+      internalID: 1679668862858066320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1127
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a82f16186255b0800000000000000
+      internalID: -5381124160532994936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1128
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b2b8c839f990f00800000000000000
+      internalID: 1083572641426254702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1131
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8790076ab01f7cb60800000000000000
+      internalID: 7766441114763004280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1112
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ec96e77c7593b50800000000000000
+      internalID: 6573381645454921369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1116
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359124585d4d40a30800000000000000
+      internalID: 4180700367635487059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1114
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e8cb9e76c83650800000000000000
+      internalID: 6212933933039411492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1115
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535b759e3ef55a500800000000000000
+      internalID: 406836773823952181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1094
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c75e115b21b070800000000000000
+      internalID: 8120319230527129411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1110
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2a212b26ac8cee0800000000000000
+      internalID: -1240519172097400110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1110
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2705a596deb890800000000000000
+      internalID: -7440273596162298399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1100
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2cf930d8a1fe50800000000000000
+      internalID: 6841434921231986144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1108
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea063208f137708a0800000000000000
+      internalID: -6338971371369701202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1100
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08995e9a7b825d7d0800000000000000
+      internalID: -2894362416221152896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1097
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d430d6f787b32c90800000000000000
+      internalID: -7195705985018612525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1096
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd95cb19963949290800000000000000
+      internalID: -7884514965993006628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1100
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759c224079addd630800000000000000
+      internalID: 3953556390045469015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_29
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1096
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c3768e1dcb4b40800000000000000
+      internalID: 5425655707086341748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_30
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1096
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dcaf04cd606a8d0800000000000000
+      internalID: -2835571372330398415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1092
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc50b97a6e9a76c20800000000000000
+      internalID: 3199712868389553613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1095
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a923a17fc56b0a0800000000000000
+      internalID: -6866198365513541105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_33
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1088
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651c2da80b6a61e90800000000000000
+      internalID: -7055268489055780522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1094
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafaea02b2042c670800000000000000
+      internalID: 8557472795933454250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1088
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e39cb3479756abb0800000000000000
+      internalID: -4925152835294948377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_36
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1092
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dd8412424f1a400800000000000000
+      internalID: 333816283416550688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1088
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2363a89786d5e5970800000000000000
+      internalID: 8745530229697164850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1086
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6617969fe70674a0800000000000000
+      internalID: -6596075878632450452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_39
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1087
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b8adaefa68baf0800000000000000
+      internalID: -380436526445055632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_40
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1076
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d0ee79e73b82890800000000000000
+      internalID: -7482533424579867266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1077
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f25bc633f741b5f0800000000000000
+      internalID: -742733353617501453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1075
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfdbca01f0427010800000000000000
+      internalID: 1185081055964291006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1075
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a444ab0ee96360800000000000000
+      internalID: 7163518416077497317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1073
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec07e2779cb69a1b0800000000000000
+      internalID: -5644862144900075314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_45
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1078
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbddfd521bca0be00800000000000000
+      internalID: 1058535789276683708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 908
+        width: 81
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a0d523710b6bf30800000000000000
+      internalID: 4591050483826494046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1024
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880f5e877d3b39c50800000000000000
+      internalID: 6670873211093512328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 907
+        width: 66
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1c9d115f5370b00800000000000000
+      internalID: 794663185936925139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_49
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1025
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a253ef1da4b77a0800000000000000
+      internalID: -6378422181466658273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_50
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 906
+        width: 68
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4471e3ee1f47f50800000000000000
+      internalID: 6878388536447812834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1025
+        width: 4
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c65a1b6cd2ca470800000000000000
+      internalID: 8407144935801056292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_52
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 905
+        width: 81
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1850158f2dcbef780800000000000000
+      internalID: -8647266620209560191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1027
+        width: 6
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99da48ef4dbb74e0800000000000000
+      internalID: -1982783060029285988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1019
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e1be5e99f7542c0800000000000000
+      internalID: -4448008757994381673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_55
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1012
+        width: 7
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8873cb94d518f6f0800000000000000
+      internalID: -650746143264507766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_56
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1026
+        width: 5
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a1e992e11b221b0800000000000000
+      internalID: -5682785036682782066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_57
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 906
+        width: 66
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b7a0ce60fccd740800000000000000
+      internalID: 5178241300206091023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_58
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 905
+        width: 69
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c8dcf773fdf3070800000000000000
+      internalID: 8088428885241072695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_59
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1019
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9d45c85dbdf8ff0800000000000000
+      internalID: -31564962139416068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_60
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1019
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15eca3c33bb1950800000000000000
+      internalID: 6420922765012783543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 971
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25aad70fd32a20e0800000000000000
+      internalID: -2293981619375397587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 970
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e53b0827e8e0610800000000000000
+      internalID: 1589364340945018517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 972
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c00a9b789f3930800000000000000
+      internalID: 4125183440326804376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_64
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 974
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32c551e1187fc430800000000000000
+      internalID: 3805392228341629500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_65
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 969
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74aa2db64c069f0800000000000000
+      internalID: -477165593126352951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_66
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 962
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f4590d425cb42e0800000000000000
+      internalID: -2140400435975598275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_67
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 959
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1316d3003d6a06e80800000000000000
+      internalID: -8187360697387228879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 951
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb86ecc2c3e7950b0800000000000000
+      internalID: -5739417453192124225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 954
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325da3a518ce2960800000000000000
+      internalID: 7579215218177036862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_70
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 946
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16470d2eeb000da0800000000000000
+      internalID: -5980767187562445284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_71
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 945
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77813847ba79246c0800000000000000
+      internalID: -4160596343086966665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 929
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b10fa26a4ef6130800000000000000
+      internalID: 3562317232609434514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_73
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 937
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1043c911dccff80e0800000000000000
+      internalID: -2265314129850125311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 930
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9999bf86e58b2e0800000000000000
+      internalID: -2109832620432320080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_75
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 939
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6bc9ad0b2e3bc40800000000000000
+      internalID: 5527010416923555490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 934
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5444629f048398400800000000000000
+      internalID: 326854299670168645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_77
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 934
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824fe3985a07594e0800000000000000
+      internalID: -1975549005257575384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_78
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 924
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78efd03afc0a280f0800000000000000
+      internalID: -1116152943980183929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_79
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 928
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac5f3dad5be8bea0800000000000000
+      internalID: -5856672527824233311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_80
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 927
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4364b86196fc80800000000000000
+      internalID: -8289278185239785718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 906
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead64916fa7bba770800000000000000
+      internalID: 8623187875415223726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_82
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 906
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c83187781c4ba20800000000000000
+      internalID: 3077297232980184186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_83
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 757
+        width: 86
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7f89b6d91c9aa30800000000000000
+      internalID: 4227122607123134419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_84
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 871
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32b6efdd98e8550800000000000000
+      internalID: 6165016526465999825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 757
+        width: 76
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e657344ae7b8e6b0800000000000000
+      internalID: -5266757547415087384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_86
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 871
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b72a17d32b2cf00800000000000000
+      internalID: 1135666033020009361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_87
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 758
+        width: 73
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41175989ccb580880800000000000000
+      internalID: -8644558550446280428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_88
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 874
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bf27f5caf19690800000000000000
+      internalID: -7597015368234716998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_89
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 757
+        width: 78
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798093d6be2b9cc90800000000000000
+      internalID: -7148986209254438761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_90
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 877
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c5da4b9b1809eb0800000000000000
+      internalID: -4715126175256716213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_91
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 759
+        width: 78
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c36b76332f2a970800000000000000
+      internalID: 8764834127413656677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_92
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 758
+        width: 72
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dc3f45b1703e160800000000000000
+      internalID: 7053489255363104052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_93
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 878
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc7f28acc8030150800000000000000
+      internalID: 5837519217090329843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_94
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 820
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07994d6c867a2d4a0800000000000000
+      internalID: -6570004837925873296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_95
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 813
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1472427397ebba3d0800000000000000
+      internalID: -3194250082863798463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 811
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4380c9eb2eb4460800000000000000
+      internalID: 7227119335335539892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_97
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 807
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f72061e3cd42e30800000000000000
+      internalID: 4477946088728461137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_98
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 794
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f02123fd5d973b0800000000000000
+      internalID: -5514141114143994013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_99
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 801
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e16a6208aa8c00800000000000000
+      internalID: 903719403569407993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_100
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 796
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a9ad509b52a960800000000000000
+      internalID: 7611746995814375589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_101
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 797
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7026089d57df790800000000000000
+      internalID: -7494704627852376067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_102
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 793
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de02a1b316e429930800000000000000
+      internalID: 4148464386272010477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_103
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 792
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e88307401de5180800000000000000
+      internalID: -9124625978013217253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_104
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 785
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2408687d04bbd50800000000000000
+      internalID: 6754063360590889726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 790
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86777de6e94323f60800000000000000
+      internalID: 8012524542114625384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 784
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e81c2fd91cbdf010800000000000000
+      internalID: 1224341493019056361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_107
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 791
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c4dff0293ff8d90800000000000000
+      internalID: -7093183079426208621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_108
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 791
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c98e01605c7a600800000000000000
+      internalID: 479568515182402714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_109
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 793
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cfc5a3bdaff56c0800000000000000
+      internalID: -4152324511928353671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_110
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 784
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce3ee4620964860800000000000000
+      internalID: 7513851522520968213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_111
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 774
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd221ae58b5d4a60800000000000000
+      internalID: 7659879171942919644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_112
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 770
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ecfdbe5bfae15b0800000000000000
+      internalID: -5395682107662021108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_113
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 770
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d2a277eb9ce8da0800000000000000
+      internalID: -5940589038574883582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_114
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 775
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8362eb5bffc9a60f0800000000000000
+      internalID: -1122912534995786184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_115
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 757
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db40000e60253fae0800000000000000
+      internalID: -1516778460012346179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 617
+        width: 80
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4cd4f35b263ff30800000000000000
+      internalID: 4608135374320813258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_117
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 733
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f42f9e96bd2670800000000000000
+      internalID: 8515663262818562363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_118
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 616
+        width: 73
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcef163849702390800000000000000
+      internalID: -7845137199826735905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 738
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b3e806c3f794ba0800000000000000
+      internalID: -6104207922629297301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_120
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 734
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4c2be991bf1ef30800000000000000
+      internalID: 4603236381604627651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 616
+        width: 74
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eed22e7011e0a430800000000000000
+      internalID: 3792278347197898466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_122
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 735
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ad30ad6ce222d0800000000000000
+      internalID: -3304819220952538752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_123
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 616
+        width: 85
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e9585db7e63650800000000000000
+      internalID: 6212407536421300429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_124
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 737
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fbdf99882afb350800000000000000
+      internalID: 6034720733282549545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_125
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 731
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9fe469ff176fd90800000000000000
+      internalID: -7064333622931686952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_126
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 724
+        width: 7
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53718738aece4fcb0800000000000000
+      internalID: -4830976008289511627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_127
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 738
+        width: 5
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f0036672c88a6c0800000000000000
+      internalID: -4131898557266391166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_128
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 617
+        width: 73
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c080665cf0533b0800000000000000
+      internalID: -5533499226660008835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_129
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 731
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21adb7aec5b88b10800000000000000
+      internalID: 1984035535038816558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_130
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 616
+        width: 70
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c74c14e58cdac60800000000000000
+      internalID: 7831135634223037596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_131
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 731
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d1d4427061faf0800000000000000
+      internalID: -364404050943158876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_132
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 686
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b956932619be2540800000000000000
+      internalID: 4985125342283192753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_133
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 673
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e970ac11f27f910a0800000000000000
+      internalID: -6910220371689338978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_134
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 655
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fd1fc6f6ed79320800000000000000
+      internalID: 2564763082961313595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 662
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d7cd89bf845b20800000000000000
+      internalID: 3122278468785001628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_136
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 664
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9c02cd26c5c14d0800000000000000
+      internalID: -3162551258651244067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_137
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 654
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a27dd1996789b0a0800000000000000
+      internalID: -6865307269461085533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_138
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 638
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015e237cb98a3e8d0800000000000000
+      internalID: -2818223554788399856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_139
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 639
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f722cbcf8e6050800000000000000
+      internalID: 5795727875770938829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_140
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 643
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41974e00b52a89170800000000000000
+      internalID: 8185470834486573332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_141
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 644
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2026e93cc415f00800000000000000
+      internalID: 1103747786742039244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_142
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 634
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a040b57faa41b8200800000000000000
+      internalID: 183262934365570058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_143
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 637
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eea36ad35a3697f0800000000000000
+      internalID: -606232968014090522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_144
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 637
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21cd3ba8f4907310800000000000000
+      internalID: 1400783279857975599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_145
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 625
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960449501660e31e0800000000000000
+      internalID: -2216326952844509079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_146
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 621
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f60ccd0da21617c0800000000000000
+      internalID: -4101069876204140814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_147
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 616
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589bb2ad2da13cd0800000000000000
+      internalID: -2580090699991246765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_148
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 470
+        width: 82
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d2d3b3d36c95b0800000000000000
+      internalID: -5360299695571545361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_149
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 582
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3337bccc20e7171a0800000000000000
+      internalID: -6813526210743930061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_150
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 467
+        width: 79
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d66cc301c35f4f0800000000000000
+      internalID: -795663718724244142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_151
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 587
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d776eb3bd18fef350800000000000000
+      internalID: 6052547755685865341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_152
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 469
+        width: 84
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e402d64a78fe320800000000000000
+      internalID: 2589437451036544535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_153
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 589
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7c2a55b0c2f4820800000000000000
+      internalID: 2904588711870252982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_154
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 469
+        width: 71
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2986d4bbbd129570800000000000000
+      internalID: 8471866541067372842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_155
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 468
+        width: 70
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98bae631c4fdfe0800000000000000
+      internalID: -1162126532493473328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_156
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 588
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff92f5c1c5a63a000800000000000000
+      internalID: 45997365049371135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_157
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 531
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3025a4cca551ff50800000000000000
+      internalID: 6913401103512313914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_158
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 537
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b455492e67368d1d0800000000000000
+      internalID: -3325798962554448565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_159
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 524
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3542f4ce69640d640800000000000000
+      internalID: 5102655991834420307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_160
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 522
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4569e3ba34e06b50800000000000000
+      internalID: 6584513595993318732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_161
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 519
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f77073112e3b3b20800000000000000
+      internalID: 3115151879037810674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_162
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 521
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b7af17621cbe870800000000000000
+      internalID: 8713270274943515470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_163
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 511
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65e30da5f734b90800000000000000
+      internalID: -7258818146373576996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_164
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 509
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f34ae04f8628e00800000000000000
+      internalID: 1045513460930330481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_165
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 503
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9ab85a321246940800000000000000
+      internalID: 5288388299424770496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_166
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 496
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830e2046f152de720800000000000000
+      internalID: 2876996553711738936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_167
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 497
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928743df636ca5a40800000000000000
+      internalID: 5357812646189234217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_168
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 503
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f333fdec60c1310800000000000000
+      internalID: 1376983071646236532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_169
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 495
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f3529a7888af00800000000000000
+      internalID: 1128301766678671543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_170
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 387
+        width: 32
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cf787d429582d40800000000000000
+      internalID: 5559791754758585432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_171
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 387
+        width: 32
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a591fb901075640a0800000000000000
+      internalID: -6897730117301233318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_172
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 484
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e41d75a1d20cf0800000000000000
+      internalID: -287436917499958998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_173
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 484
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92f2937b68a2fa0800000000000000
+      internalID: -5824695046553785868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_174
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 398
+        width: 17
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8694ddb692f140d00800000000000000
+      internalID: 937908885163690344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_175
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 76
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c84325824696b50800000000000000
+      internalID: 6586906054346706066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_176
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 437
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dd6d1db0b8ab040800000000000000
+      internalID: 4664193246976990535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_177
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 320
+        width: 78
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287cd41a9026dcf40800000000000000
+      internalID: 5750360092722448258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_178
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 435
+        width: 4
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c97c70833ae300800000000000000
+      internalID: 282094553601261895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_179
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 320
+        width: 72
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505e1106c519738f0800000000000000
+      internalID: -560819802649533179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_180
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 436
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c495ca456af710800000000000000
+      internalID: 1727804778866853877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_181
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 430
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa97354182e407e0800000000000000
+      internalID: -1800064906201425163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_182
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 423
+        width: 7
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0cc860753802ea0800000000000000
+      internalID: -5899571102060068703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_183
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 437
+        width: 5
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8827a105c7e7f80800000000000000
+      internalID: -8106905595737372474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_184
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 320
+        width: 73
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3cceeccc25d3580800000000000000
+      internalID: -8845823053487357017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_185
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 436
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff0a2918a94ab220800000000000000
+      internalID: 2502393529283252211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_186
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 319
+        width: 69
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85caba380d585d20800000000000000
+      internalID: 3267463819583735183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_187
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 430
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe801d874ab93a90800000000000000
+      internalID: -7333625701724025090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_188
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 357
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0db7cee740462b80800000000000000
+      internalID: -8419971775629640436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_189
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 354
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ae48229a0379b20800000000000000
+      internalID: 3141032768100952586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_190
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 358
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d06b6feb6b32e270800000000000000
+      internalID: 8278244399824724178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_191
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 352
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e28d34bda839900800000000000000
+      internalID: 690047842258529935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_192
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 344
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44c2f947f8ed450800000000000000
+      internalID: 6115483075065169126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_193
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 340
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f28d656a084dcb80800000000000000
+      internalID: -8372956922723335432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_194
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 341
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca891674a524284f0800000000000000
+      internalID: -828026425970681684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_195
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 167
+        width: 66
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea69b9c062c764700800000000000000
+      internalID: 524242909497366190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_196
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 166
+        width: 69
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1661196699dc400800000000000000
+      internalID: 346101412177273333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_197
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 289
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547ef7f6b787f180800000000000000
+      internalID: -9081640903654869935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_198
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 79
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc1ef5a53bf85da0800000000000000
+      internalID: -5955734299360748352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_199
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 170
+        width: 67
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e34e1f2f26459a0800000000000000
+      internalID: -6245257987676160432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_200
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 169
+        width: 75
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a069a1e53212c450800000000000000
+      internalID: 6107464067296354472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_201
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 174
+        width: 69
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1445bd3821bd1fb0800000000000000
+      internalID: -4675386051748608996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_202
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 285
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6eecd08e425eac0800000000000000
+      internalID: -3826611729298692374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_203
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 265
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830992b7d7501dc90800000000000000
+      internalID: -7146925097164894152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_204
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 232
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57bee97c988afd40800000000000000
+      internalID: 5618953690740078429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_205
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 236
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd6a0c40dfebb960800000000000000
+      internalID: 7618946872535313852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_206
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 220
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c2daf5dff8cc9e0800000000000000
+      internalID: -1599745449228686305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_207
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 224
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c969981a64860230800000000000000
+      internalID: 3604714142970767808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_208
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 223
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb93cc18d665d7d0800000000000000
+      internalID: -2894294107134125136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e382cbe7bd5bf94b0800000000000000
+      internalID: -5431422671256803266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_210
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 211
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0ba7769fa93dd0800000000000000
+      internalID: -2505778656867316949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_211
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 191
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4e4f8f046a9d60800000000000000
+      internalID: 7897734914539146055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_212
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 192
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07e5c630fcc8e9a0800000000000000
+      internalID: -6203483154619701489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_213
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 190
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92558abf758b239a0800000000000000
+      internalID: -6254734244440419031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_214
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 189
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93e8e127dfcf3470800000000000000
+      internalID: 8376642354826240924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_215
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 196
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698034b19bea7f830800000000000000
+      internalID: 4104941695421057174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_216
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 182
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39741c29206c7f40800000000000000
+      internalID: 5727558556057893179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_217
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 176
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5331f9c62a15d2e10800000000000000
+      internalID: 2174483953138733877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_218
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 19
+        width: 81
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a6c5604e7998540800000000000000
+      internalID: 5010703066041444921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_219
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 135
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56c47d009249cf0800000000000000
+      internalID: -246526996009687623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_220
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 13
+        width: 65
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b9ff0f13afcc230800000000000000
+      internalID: 3660575689548995456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_221
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 135
+        width: 5
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667ba589b570db4d0800000000000000
+      internalID: -3117327277091014810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_222
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 64
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da2d21420879f50800000000000000
+      internalID: 6888115047509437796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_223
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 136
+        width: 5
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c950a13c87bce1250800000000000000
+      internalID: 5917390679941186972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_224
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 21
+        width: 78
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d377292400f2f50800000000000000
+      internalID: 6858701043433684291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_225
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 20
+        width: 72
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d1c77d4c5df3290800000000000000
+      internalID: -7908367379233759858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_226
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 20
+        width: 70
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0182592e15b30f0800000000000000
+      internalID: -1136224447374028568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_227
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 123
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef51db49eba17a520800000000000000
+      internalID: 2713166706355541502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_228
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 132
+        width: 18
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084cae120b23b5a00800000000000000
+      internalID: 746245895324615808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_229
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 128
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a669711c60ef3f20800000000000000
+      internalID: 3404686598069642916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_230
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 26
+        width: 69
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f03b43ccca3634e0800000000000000
+      internalID: -2002348333195382536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_231
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 117
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c25838feabcecc0800000000000000
+      internalID: -3680361257602044779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_232
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 123
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae7686c3e6a6d00800000000000000
+      internalID: 966706275753126441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_233
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 124
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a46f80f09b5d430800000000000000
+      internalID: 3807152534237629022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_234
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 79
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8ed5be2280be170800000000000000
+      internalID: 8208663691883571416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_235
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 83
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f89709a4b5381f60800000000000000
+      internalID: 8005207387697289465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_236
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 78
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f69687f1b0b53a0800000000000000
+      internalID: -6675729792854560932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_237
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 77
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1bb12424a7e06c0800000000000000
+      internalID: -4175265379530329644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_238
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 63
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e384e548035601570800000000000000
+      internalID: 8435353361118545982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_239
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 65
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0e11246d8465b0800000000000000
+      internalID: -5376016593981665654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_240
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 45
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42ba7d35c33a2f70800000000000000
+      internalID: 9163193314071720525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_241
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 44
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d013f926ec54b0f0800000000000000
+      internalID: -1102153865182900015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_242
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 43
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c411152fe31c929a0800000000000000
+      internalID: -6257257731157061300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_243
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98eb7184381da9e0800000000000000
+      internalID: -1608602878111651684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_244
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 31
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783b5d0192c84550800000000000000
+      internalID: 6145375619797170299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_245
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 33
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a163d969a5d2040800000000000000
+      internalID: 4624451995308530218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Banshee_246
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 12
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648fb9e1a0b1ce890800000000000000
+      internalID: -7427531955163629498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Banshee_155: -1162126532493473328
+      PC Computer - Ragnarok Online - Banshee_149: -6813526210743930061
+      PC Computer - Ragnarok Online - Banshee_8: 5498751548845640418
+      PC Computer - Ragnarok Online - Banshee_76: 326854299670168645
+      PC Computer - Ragnarok Online - Banshee_203: -7146925097164894152
+      PC Computer - Ragnarok Online - Banshee_106: 1224341493019056361
+      PC Computer - Ragnarok Online - Banshee_142: 183262934365570058
+      PC Computer - Ragnarok Online - Banshee_160: 6584513595993318732
+      PC Computer - Ragnarok Online - Banshee_167: 5357812646189234217
+      PC Computer - Ragnarok Online - Banshee_28: 3953556390045469015
+      PC Computer - Ragnarok Online - Banshee_29: 5425655707086341748
+      PC Computer - Ragnarok Online - Banshee_225: -7908367379233759858
+      PC Computer - Ragnarok Online - Banshee_146: -4101069876204140814
+      PC Computer - Ragnarok Online - Banshee_87: -8644558550446280428
+      PC Computer - Ragnarok Online - Banshee_188: -8419971775629640436
+      PC Computer - Ragnarok Online - Banshee_110: 7513851522520968213
+      PC Computer - Ragnarok Online - Banshee_126: -4830976008289511627
+      PC Computer - Ragnarok Online - Banshee_187: -7333625701724025090
+      PC Computer - Ragnarok Online - Banshee_75: 5527010416923555490
+      PC Computer - Ragnarok Online - Banshee_169: 1128301766678671543
+      PC Computer - Ragnarok Online - Banshee_214: 8376642354826240924
+      PC Computer - Ragnarok Online - Banshee_143: -606232968014090522
+      PC Computer - Ragnarok Online - Banshee_73: -2265314129850125311
+      PC Computer - Ragnarok Online - Banshee_179: -560819802649533179
+      PC Computer - Ragnarok Online - Banshee_36: 333816283416550688
+      PC Computer - Ragnarok Online - Banshee_42: 1185081055964291006
+      PC Computer - Ragnarok Online - Banshee_128: -5533499226660008835
+      PC Computer - Ragnarok Online - Banshee_140: 8185470834486573332
+      PC Computer - Ragnarok Online - Banshee_19: 406836773823952181
+      PC Computer - Ragnarok Online - Banshee_161: 3115151879037810674
+      PC Computer - Ragnarok Online - Banshee_229: 3404686598069642916
+      PC Computer - Ragnarok Online - Banshee_218: 5010703066041444921
+      PC Computer - Ragnarok Online - Banshee_201: -4675386051748608996
+      PC Computer - Ragnarok Online - Banshee_124: 6034720733282549545
+      PC Computer - Ragnarok Online - Banshee_86: 1135666033020009361
+      PC Computer - Ragnarok Online - Banshee_125: -7064333622931686952
+      PC Computer - Ragnarok Online - Banshee_0: -3904532963649142343
+      PC Computer - Ragnarok Online - Banshee_223: 5917390679941186972
+      PC Computer - Ragnarok Online - Banshee_135: 3122278468785001628
+      PC Computer - Ragnarok Online - Banshee_12: 1679668862858066320
+      PC Computer - Ragnarok Online - Banshee_52: -8647266620209560191
+      PC Computer - Ragnarok Online - Banshee_196: 346101412177273333
+      PC Computer - Ragnarok Online - Banshee_134: 2564763082961313595
+      PC Computer - Ragnarok Online - Banshee_104: 6754063360590889726
+      PC Computer - Ragnarok Online - Banshee_211: 7897734914539146055
+      PC Computer - Ragnarok Online - Banshee_232: 966706275753126441
+      PC Computer - Ragnarok Online - Banshee_111: 7659879171942919644
+      PC Computer - Ragnarok Online - Banshee_204: 5618953690740078429
+      PC Computer - Ragnarok Online - Banshee_226: -1136224447374028568
+      PC Computer - Ragnarok Online - Banshee_231: -3680361257602044779
+      PC Computer - Ragnarok Online - Banshee_246: -7427531955163629498
+      PC Computer - Ragnarok Online - Banshee_171: -6897730117301233318
+      PC Computer - Ragnarok Online - Banshee_68: -5739417453192124225
+      PC Computer - Ragnarok Online - Banshee_64: 3805392228341629500
+      PC Computer - Ragnarok Online - Banshee_215: 4104941695421057174
+      PC Computer - Ragnarok Online - Banshee_207: 3604714142970767808
+      PC Computer - Ragnarok Online - Banshee_172: -287436917499958998
+      PC Computer - Ragnarok Online - Banshee_241: -1102153865182900015
+      PC Computer - Ragnarok Online - Banshee_44: -5644862144900075314
+      PC Computer - Ragnarok Online - Banshee_61: -2293981619375397587
+      PC Computer - Ragnarok Online - Banshee_7: -6067522141847119192
+      PC Computer - Ragnarok Online - Banshee_175: 6586906054346706066
+      PC Computer - Ragnarok Online - Banshee_56: -5682785036682782066
+      PC Computer - Ragnarok Online - Banshee_130: 7831135634223037596
+      PC Computer - Ragnarok Online - Banshee_66: -2140400435975598275
+      PC Computer - Ragnarok Online - Banshee_2: 6139328498133475011
+      PC Computer - Ragnarok Online - Banshee_147: -2580090699991246765
+      PC Computer - Ragnarok Online - Banshee_107: -7093183079426208621
+      PC Computer - Ragnarok Online - Banshee_170: 5559791754758585432
+      PC Computer - Ragnarok Online - Banshee_112: -5395682107662021108
+      PC Computer - Ragnarok Online - Banshee_47: 6670873211093512328
+      PC Computer - Ragnarok Online - Banshee_206: -1599745449228686305
+      PC Computer - Ragnarok Online - Banshee_60: 6420922765012783543
+      PC Computer - Ragnarok Online - Banshee_186: 3267463819583735183
+      PC Computer - Ragnarok Online - Banshee_174: 937908885163690344
+      PC Computer - Ragnarok Online - Banshee_192: 6115483075065169126
+      PC Computer - Ragnarok Online - Banshee_114: -1122912534995786184
+      PC Computer - Ragnarok Online - Banshee_157: 6913401103512313914
+      PC Computer - Ragnarok Online - Banshee_148: -5360299695571545361
+      PC Computer - Ragnarok Online - Banshee_1: -3882772235434052135
+      PC Computer - Ragnarok Online - Banshee_197: -9081640903654869935
+      PC Computer - Ragnarok Online - Banshee_230: -2002348333195382536
+      PC Computer - Ragnarok Online - Banshee_159: 5102655991834420307
+      PC Computer - Ragnarok Online - Banshee_239: -5376016593981665654
+      PC Computer - Ragnarok Online - Banshee_156: 45997365049371135
+      PC Computer - Ragnarok Online - Banshee_24: -6338971371369701202
+      PC Computer - Ragnarok Online - Banshee_91: 8764834127413656677
+      PC Computer - Ragnarok Online - Banshee_189: 3141032768100952586
+      PC Computer - Ragnarok Online - Banshee_193: -8372956922723335432
+      PC Computer - Ragnarok Online - Banshee_210: -2505778656867316949
+      PC Computer - Ragnarok Online - Banshee_238: 8435353361118545982
+      PC Computer - Ragnarok Online - Banshee_163: -7258818146373576996
+      PC Computer - Ragnarok Online - Banshee_25: -2894362416221152896
+      PC Computer - Ragnarok Online - Banshee_183: -8106905595737372474
+      PC Computer - Ragnarok Online - Banshee_217: 2174483953138733877
+      PC Computer - Ragnarok Online - Banshee_240: 9163193314071720525
+      PC Computer - Ragnarok Online - Banshee_245: 4624451995308530218
+      PC Computer - Ragnarok Online - Banshee_121: 3792278347197898466
+      PC Computer - Ragnarok Online - Banshee_233: 3807152534237629022
+      PC Computer - Ragnarok Online - Banshee_113: -5940589038574883582
+      PC Computer - Ragnarok Online - Banshee_10: -3615305629915865406
+      PC Computer - Ragnarok Online - Banshee_15: 7766441114763004280
+      PC Computer - Ragnarok Online - Banshee_154: 8471866541067372842
+      PC Computer - Ragnarok Online - Banshee_98: -5514141114143994013
+      PC Computer - Ragnarok Online - Banshee_92: 7053489255363104052
+      PC Computer - Ragnarok Online - Banshee_69: 7579215218177036862
+      PC Computer - Ragnarok Online - Banshee_72: 3562317232609434514
+      PC Computer - Ragnarok Online - Banshee_54: -4448008757994381673
+      PC Computer - Ragnarok Online - Banshee_88: -7597015368234716998
+      PC Computer - Ragnarok Online - Banshee_181: -1800064906201425163
+      PC Computer - Ragnarok Online - Banshee_129: 1984035535038816558
+      PC Computer - Ragnarok Online - Banshee_18: 6212933933039411492
+      PC Computer - Ragnarok Online - Banshee_79: -5856672527824233311
+      PC Computer - Ragnarok Online - Banshee_16: 6573381645454921369
+      PC Computer - Ragnarok Online - Banshee_20: 8120319230527129411
+      PC Computer - Ragnarok Online - Banshee_221: -3117327277091014810
+      PC Computer - Ragnarok Online - Banshee_222: 6888115047509437796
+      PC Computer - Ragnarok Online - Banshee_84: 6165016526465999825
+      PC Computer - Ragnarok Online - Banshee_216: 5727558556057893179
+      PC Computer - Ragnarok Online - Banshee_220: 3660575689548995456
+      PC Computer - Ragnarok Online - Banshee_93: 5837519217090329843
+      PC Computer - Ragnarok Online - Banshee_14: 1083572641426254702
+      PC Computer - Ragnarok Online - Banshee_89: -7148986209254438761
+      PC Computer - Ragnarok Online - Banshee_40: -7482533424579867266
+      PC Computer - Ragnarok Online - Banshee_173: -5824695046553785868
+      PC Computer - Ragnarok Online - Banshee_139: 5795727875770938829
+      PC Computer - Ragnarok Online - Banshee_85: -5266757547415087384
+      PC Computer - Ragnarok Online - Banshee_41: -742733353617501453
+      PC Computer - Ragnarok Online - Banshee_228: 746245895324615808
+      PC Computer - Ragnarok Online - Banshee_141: 1103747786742039244
+      PC Computer - Ragnarok Online - Banshee_199: -6245257987676160432
+      PC Computer - Ragnarok Online - Banshee_11: -4679678254586345037
+      PC Computer - Ragnarok Online - Banshee_94: -6570004837925873296
+      PC Computer - Ragnarok Online - Banshee_119: -6104207922629297301
+      PC Computer - Ragnarok Online - Banshee_127: -4131898557266391166
+      PC Computer - Ragnarok Online - Banshee_70: -5980767187562445284
+      PC Computer - Ragnarok Online - Banshee_227: 2713166706355541502
+      PC Computer - Ragnarok Online - Banshee_185: 2502393529283252211
+      PC Computer - Ragnarok Online - Banshee_213: -6254734244440419031
+      PC Computer - Ragnarok Online - Banshee_50: 6878388536447812834
+      PC Computer - Ragnarok Online - Banshee_118: -7845137199826735905
+      PC Computer - Ragnarok Online - Banshee_71: -4160596343086966665
+      PC Computer - Ragnarok Online - Banshee_9: 9024264576176953899
+      PC Computer - Ragnarok Online - Banshee_13: -5381124160532994936
+      PC Computer - Ragnarok Online - Banshee_97: 4477946088728461137
+      PC Computer - Ragnarok Online - Banshee_57: 5178241300206091023
+      PC Computer - Ragnarok Online - Banshee_138: -2818223554788399856
+      PC Computer - Ragnarok Online - Banshee_212: -6203483154619701489
+      PC Computer - Ragnarok Online - Banshee_244: 6145375619797170299
+      PC Computer - Ragnarok Online - Banshee_5: 6443689728278754092
+      PC Computer - Ragnarok Online - Banshee_55: -650746143264507766
+      PC Computer - Ragnarok Online - Banshee_59: -31564962139416068
+      PC Computer - Ragnarok Online - Banshee_90: -4715126175256716213
+      PC Computer - Ragnarok Online - Banshee_95: -3194250082863798463
+      PC Computer - Ragnarok Online - Banshee_131: -364404050943158876
+      PC Computer - Ragnarok Online - Banshee_177: 5750360092722448258
+      PC Computer - Ragnarok Online - Banshee_209: -5431422671256803266
+      PC Computer - Ragnarok Online - Banshee_105: 8012524542114625384
+      PC Computer - Ragnarok Online - Banshee_109: -4152324511928353671
+      PC Computer - Ragnarok Online - Banshee_3: 6024277997234982219
+      PC Computer - Ragnarok Online - Banshee_17: 4180700367635487059
+      PC Computer - Ragnarok Online - Banshee_178: 282094553601261895
+      PC Computer - Ragnarok Online - Banshee_191: 690047842258529935
+      PC Computer - Ragnarok Online - Banshee_33: -7055268489055780522
+      PC Computer - Ragnarok Online - Banshee_115: -1516778460012346179
+      PC Computer - Ragnarok Online - Banshee_145: -2216326952844509079
+      PC Computer - Ragnarok Online - Banshee_190: 8278244399824724178
+      PC Computer - Ragnarok Online - Banshee_78: -1116152943980183929
+      PC Computer - Ragnarok Online - Banshee_63: 4125183440326804376
+      PC Computer - Ragnarok Online - Banshee_48: 794663185936925139
+      PC Computer - Ragnarok Online - Banshee_180: 1727804778866853877
+      PC Computer - Ragnarok Online - Banshee_27: -7884514965993006628
+      PC Computer - Ragnarok Online - Banshee_103: -9124625978013217253
+      PC Computer - Ragnarok Online - Banshee_117: 8515663262818562363
+      PC Computer - Ragnarok Online - Banshee_4: -5524564916196373249
+      PC Computer - Ragnarok Online - Banshee_35: -4925152835294948377
+      PC Computer - Ragnarok Online - Banshee_34: 8557472795933454250
+      PC Computer - Ragnarok Online - Banshee_184: -8845823053487357017
+      PC Computer - Ragnarok Online - Banshee_123: 6212407536421300429
+      PC Computer - Ragnarok Online - Banshee_120: 4603236381604627651
+      PC Computer - Ragnarok Online - Banshee_162: 8713270274943515470
+      PC Computer - Ragnarok Online - Banshee_74: -2109832620432320080
+      PC Computer - Ragnarok Online - Banshee_137: -6865307269461085533
+      PC Computer - Ragnarok Online - Banshee_38: -6596075878632450452
+      PC Computer - Ragnarok Online - Banshee_151: 6052547755685865341
+      PC Computer - Ragnarok Online - Banshee_182: -5899571102060068703
+      PC Computer - Ragnarok Online - Banshee_23: 6841434921231986144
+      PC Computer - Ragnarok Online - Banshee_45: 1058535789276683708
+      PC Computer - Ragnarok Online - Banshee_26: -7195705985018612525
+      PC Computer - Ragnarok Online - Banshee_150: -795663718724244142
+      PC Computer - Ragnarok Online - Banshee_176: 4664193246976990535
+      PC Computer - Ragnarok Online - Banshee_37: 8745530229697164850
+      PC Computer - Ragnarok Online - Banshee_53: -1982783060029285988
+      PC Computer - Ragnarok Online - Banshee_202: -3826611729298692374
+      PC Computer - Ragnarok Online - Banshee_116: 4608135374320813258
+      PC Computer - Ragnarok Online - Banshee_58: 8088428885241072695
+      PC Computer - Ragnarok Online - Banshee_80: -8289278185239785718
+      PC Computer - Ragnarok Online - Banshee_205: 7618946872535313852
+      PC Computer - Ragnarok Online - Banshee_122: -3304819220952538752
+      PC Computer - Ragnarok Online - Banshee_236: -6675729792854560932
+      PC Computer - Ragnarok Online - Banshee_219: -246526996009687623
+      PC Computer - Ragnarok Online - Banshee_81: 8623187875415223726
+      PC Computer - Ragnarok Online - Banshee_77: -1975549005257575384
+      PC Computer - Ragnarok Online - Banshee_224: 6858701043433684291
+      PC Computer - Ragnarok Online - Banshee_32: -6866198365513541105
+      PC Computer - Ragnarok Online - Banshee_67: -8187360697387228879
+      PC Computer - Ragnarok Online - Banshee_165: 5288388299424770496
+      PC Computer - Ragnarok Online - Banshee_200: 6107464067296354472
+      PC Computer - Ragnarok Online - Banshee_152: 2589437451036544535
+      PC Computer - Ragnarok Online - Banshee_242: -6257257731157061300
+      PC Computer - Ragnarok Online - Banshee_198: -5955734299360748352
+      PC Computer - Ragnarok Online - Banshee_30: -2835571372330398415
+      PC Computer - Ragnarok Online - Banshee_83: 4227122607123134419
+      PC Computer - Ragnarok Online - Banshee_243: -1608602878111651684
+      PC Computer - Ragnarok Online - Banshee_194: -828026425970681684
+      PC Computer - Ragnarok Online - Banshee_100: 7611746995814375589
+      PC Computer - Ragnarok Online - Banshee_108: 479568515182402714
+      PC Computer - Ragnarok Online - Banshee_153: 2904588711870252982
+      PC Computer - Ragnarok Online - Banshee_195: 524242909497366190
+      PC Computer - Ragnarok Online - Banshee_164: 1045513460930330481
+      PC Computer - Ragnarok Online - Banshee_21: -1240519172097400110
+      PC Computer - Ragnarok Online - Banshee_235: 8005207387697289465
+      PC Computer - Ragnarok Online - Banshee_133: -6910220371689338978
+      PC Computer - Ragnarok Online - Banshee_234: 8208663691883571416
+      PC Computer - Ragnarok Online - Banshee_101: -7494704627852376067
+      PC Computer - Ragnarok Online - Banshee_237: -4175265379530329644
+      PC Computer - Ragnarok Online - Banshee_96: 7227119335335539892
+      PC Computer - Ragnarok Online - Banshee_168: 1376983071646236532
+      PC Computer - Ragnarok Online - Banshee_39: -380436526445055632
+      PC Computer - Ragnarok Online - Banshee_22: -7440273596162298399
+      PC Computer - Ragnarok Online - Banshee_144: 1400783279857975599
+      PC Computer - Ragnarok Online - Banshee_6: 937208837386039824
+      PC Computer - Ragnarok Online - Banshee_166: 2876996553711738936
+      PC Computer - Ragnarok Online - Banshee_46: 4591050483826494046
+      PC Computer - Ragnarok Online - Banshee_132: 4985125342283192753
+      PC Computer - Ragnarok Online - Banshee_51: 8407144935801056292
+      PC Computer - Ragnarok Online - Banshee_62: 1589364340945018517
+      PC Computer - Ragnarok Online - Banshee_49: -6378422181466658273
+      PC Computer - Ragnarok Online - Banshee_158: -3325798962554448565
+      PC Computer - Ragnarok Online - Banshee_82: 3077297232980184186
+      PC Computer - Ragnarok Online - Banshee_208: -2894294107134125136
+      PC Computer - Ragnarok Online - Banshee_31: 3199712868389553613
+      PC Computer - Ragnarok Online - Banshee_65: -477165593126352951
+      PC Computer - Ragnarok Online - Banshee_99: 903719403569407993
+      PC Computer - Ragnarok Online - Banshee_136: -3162551258651244067
+      PC Computer - Ragnarok Online - Banshee_43: 7163518416077497317
+      PC Computer - Ragnarok Online - Banshee_102: 4148464386272010477
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

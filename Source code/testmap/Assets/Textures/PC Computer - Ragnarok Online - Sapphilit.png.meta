@@ -1,0 +1,1747 @@
+fileFormatVersion: 2
+guid: 1bdddabc2cde08e4f81e72dd5d74d338
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5599519052804495040
+    second: PC Computer - Ragnarok Online - Sapphilit_0
+  - first:
+      213: -7428684879357509053
+    second: PC Computer - Ragnarok Online - Sapphilit_1
+  - first:
+      213: -367720584024432438
+    second: PC Computer - Ragnarok Online - Sapphilit_2
+  - first:
+      213: -3946268921415369321
+    second: PC Computer - Ragnarok Online - Sapphilit_3
+  - first:
+      213: -9194203124228452951
+    second: PC Computer - Ragnarok Online - Sapphilit_4
+  - first:
+      213: 5353813732832049103
+    second: PC Computer - Ragnarok Online - Sapphilit_5
+  - first:
+      213: 3396966045779149521
+    second: PC Computer - Ragnarok Online - Sapphilit_6
+  - first:
+      213: 8249219426708523183
+    second: PC Computer - Ragnarok Online - Sapphilit_7
+  - first:
+      213: -2490088310023216972
+    second: PC Computer - Ragnarok Online - Sapphilit_8
+  - first:
+      213: 2839180057599437286
+    second: PC Computer - Ragnarok Online - Sapphilit_9
+  - first:
+      213: -984546643625643586
+    second: PC Computer - Ragnarok Online - Sapphilit_10
+  - first:
+      213: -3453159747129290539
+    second: PC Computer - Ragnarok Online - Sapphilit_11
+  - first:
+      213: -301257341529008251
+    second: PC Computer - Ragnarok Online - Sapphilit_12
+  - first:
+      213: 7270503961084353030
+    second: PC Computer - Ragnarok Online - Sapphilit_13
+  - first:
+      213: 6180358367608106086
+    second: PC Computer - Ragnarok Online - Sapphilit_14
+  - first:
+      213: 3555853213921213594
+    second: PC Computer - Ragnarok Online - Sapphilit_15
+  - first:
+      213: -5558197283002321574
+    second: PC Computer - Ragnarok Online - Sapphilit_16
+  - first:
+      213: -4370801785052569541
+    second: PC Computer - Ragnarok Online - Sapphilit_17
+  - first:
+      213: 4961237183104645055
+    second: PC Computer - Ragnarok Online - Sapphilit_18
+  - first:
+      213: 3595698591468006191
+    second: PC Computer - Ragnarok Online - Sapphilit_19
+  - first:
+      213: -5996491241696561455
+    second: PC Computer - Ragnarok Online - Sapphilit_20
+  - first:
+      213: -3660290050837915832
+    second: PC Computer - Ragnarok Online - Sapphilit_21
+  - first:
+      213: -3848780555149267596
+    second: PC Computer - Ragnarok Online - Sapphilit_22
+  - first:
+      213: -1724271340803317646
+    second: PC Computer - Ragnarok Online - Sapphilit_23
+  - first:
+      213: -4009324445058480847
+    second: PC Computer - Ragnarok Online - Sapphilit_24
+  - first:
+      213: 2040315448560222462
+    second: PC Computer - Ragnarok Online - Sapphilit_25
+  - first:
+      213: 9024494087962644628
+    second: PC Computer - Ragnarok Online - Sapphilit_26
+  - first:
+      213: 2595523922852567409
+    second: PC Computer - Ragnarok Online - Sapphilit_27
+  - first:
+      213: -5012805750652526328
+    second: PC Computer - Ragnarok Online - Sapphilit_28
+  - first:
+      213: 1845142778953219210
+    second: PC Computer - Ragnarok Online - Sapphilit_29
+  - first:
+      213: 1356609534471880327
+    second: PC Computer - Ragnarok Online - Sapphilit_30
+  - first:
+      213: -6007407688531561308
+    second: PC Computer - Ragnarok Online - Sapphilit_31
+  - first:
+      213: 3473376003172262144
+    second: PC Computer - Ragnarok Online - Sapphilit_32
+  - first:
+      213: 6604353033521755456
+    second: PC Computer - Ragnarok Online - Sapphilit_33
+  - first:
+      213: -8501094248396512694
+    second: PC Computer - Ragnarok Online - Sapphilit_34
+  - first:
+      213: 526489652980243629
+    second: PC Computer - Ragnarok Online - Sapphilit_35
+  - first:
+      213: 5761058848936259966
+    second: PC Computer - Ragnarok Online - Sapphilit_36
+  - first:
+      213: -933678402752678151
+    second: PC Computer - Ragnarok Online - Sapphilit_37
+  - first:
+      213: 4719557946566319529
+    second: PC Computer - Ragnarok Online - Sapphilit_38
+  - first:
+      213: -5980188987388026744
+    second: PC Computer - Ragnarok Online - Sapphilit_39
+  - first:
+      213: -1570363063956041729
+    second: PC Computer - Ragnarok Online - Sapphilit_40
+  - first:
+      213: -5794965593138278337
+    second: PC Computer - Ragnarok Online - Sapphilit_41
+  - first:
+      213: 2564940210091187573
+    second: PC Computer - Ragnarok Online - Sapphilit_42
+  - first:
+      213: 4297584840309183157
+    second: PC Computer - Ragnarok Online - Sapphilit_43
+  - first:
+      213: 1471581706122781321
+    second: PC Computer - Ragnarok Online - Sapphilit_44
+  - first:
+      213: 804599353723483843
+    second: PC Computer - Ragnarok Online - Sapphilit_45
+  - first:
+      213: 5252038354577826410
+    second: PC Computer - Ragnarok Online - Sapphilit_46
+  - first:
+      213: 6688218873824382067
+    second: PC Computer - Ragnarok Online - Sapphilit_47
+  - first:
+      213: -2006039450275779955
+    second: PC Computer - Ragnarok Online - Sapphilit_48
+  - first:
+      213: 5116387373323455559
+    second: PC Computer - Ragnarok Online - Sapphilit_49
+  - first:
+      213: -7697561564964103357
+    second: PC Computer - Ragnarok Online - Sapphilit_50
+  - first:
+      213: 8931747322952631136
+    second: PC Computer - Ragnarok Online - Sapphilit_51
+  - first:
+      213: -8134106037100366300
+    second: PC Computer - Ragnarok Online - Sapphilit_52
+  - first:
+      213: 9139765439518165322
+    second: PC Computer - Ragnarok Online - Sapphilit_53
+  - first:
+      213: -5234411021374254653
+    second: PC Computer - Ragnarok Online - Sapphilit_54
+  - first:
+      213: -2630859103591754321
+    second: PC Computer - Ragnarok Online - Sapphilit_55
+  - first:
+      213: -2817921678071645804
+    second: PC Computer - Ragnarok Online - Sapphilit_56
+  - first:
+      213: -282893954573351404
+    second: PC Computer - Ragnarok Online - Sapphilit_57
+  - first:
+      213: -3807502405450694887
+    second: PC Computer - Ragnarok Online - Sapphilit_58
+  - first:
+      213: 6403096153957598305
+    second: PC Computer - Ragnarok Online - Sapphilit_59
+  - first:
+      213: 1329984658171423752
+    second: PC Computer - Ragnarok Online - Sapphilit_60
+  - first:
+      213: -7054194619925588061
+    second: PC Computer - Ragnarok Online - Sapphilit_61
+  - first:
+      213: 5027332505964199288
+    second: PC Computer - Ragnarok Online - Sapphilit_62
+  - first:
+      213: -422058153031163685
+    second: PC Computer - Ragnarok Online - Sapphilit_63
+  - first:
+      213: -4156819416252299205
+    second: PC Computer - Ragnarok Online - Sapphilit_64
+  - first:
+      213: 2058165445313994141
+    second: PC Computer - Ragnarok Online - Sapphilit_65
+  - first:
+      213: -1679365387360180176
+    second: PC Computer - Ragnarok Online - Sapphilit_66
+  - first:
+      213: -7205238273798832795
+    second: PC Computer - Ragnarok Online - Sapphilit_67
+  - first:
+      213: -648121119992209404
+    second: PC Computer - Ragnarok Online - Sapphilit_68
+  - first:
+      213: -7244175704324910300
+    second: PC Computer - Ragnarok Online - Sapphilit_69
+  - first:
+      213: -2452249232935347961
+    second: PC Computer - Ragnarok Online - Sapphilit_70
+  - first:
+      213: 4738683826581706215
+    second: PC Computer - Ragnarok Online - Sapphilit_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 861
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0496e88c6138a42b0800000000000000
+      internalID: -5599519052804495040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 861
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3428499067208e890800000000000000
+      internalID: -7428684879357509053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 858
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ef9cb31895eaf0800000000000000
+      internalID: -367720584024432438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 858
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7fdef2590c39c0800000000000000
+      internalID: -3946268921415369321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 862
+        width: 45
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad8393b8f0a76080800000000000000
+      internalID: -9194203124228452951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 861
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ff0b69319c4a40800000000000000
+      internalID: 5353813732832049103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 861
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2cab8ee92742f20800000000000000
+      internalID: 3396966045779149521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 861
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88633cc5d1b7270800000000000000
+      internalID: 8249219426708523183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 781
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0a6b500ed617dd0800000000000000
+      internalID: -2490088310023216972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 778
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e96692483bc66720800000000000000
+      internalID: 2839180057599437286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 775
+        width: 48
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1f3e14b003652f0800000000000000
+      internalID: -984546643625643586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 774
+        width: 49
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d05eaf6189e310d0800000000000000
+      internalID: -3453159747129290539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 782
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5875f244b08b1dbf0800000000000000
+      internalID: -301257341529008251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 781
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ad082f4d406e460800000000000000
+      internalID: 7270503961084353030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_14
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 781
+        width: 45
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ce4edb03b05c550800000000000000
+      internalID: 6180358367608106086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 781
+        width: 45
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c743988ade85130800000000000000
+      internalID: 3555853213921213594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 689
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55fa1b05015dd2b0800000000000000
+      internalID: -5558197283002321574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 689
+        width: 42
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b306c4a1feac753c0800000000000000
+      internalID: -4370801785052569541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 690
+        width: 43
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb77969aeead9d440800000000000000
+      internalID: 4961237183104645055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 689
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba2df61dc76e130800000000000000
+      internalID: 3595698591468006191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 688
+        width: 46
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d67fe78cfe28cca0800000000000000
+      internalID: -5996491241696561455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 688
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847d8e08799043dc0800000000000000
+      internalID: -3660290050837915832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 597
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47da5ef0a72669ac0800000000000000
+      internalID: -3848780555149267596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 598
+        width: 44
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702803e9582218e0800000000000000
+      internalID: -1724271340803317646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 598
+        width: 46
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135cff6d8a40c58c0800000000000000
+      internalID: -4009324445058480847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 597
+        width: 45
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef08c252718a05c10800000000000000
+      internalID: 2040315448560222462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 596
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49050a62f817d3d70800000000000000
+      internalID: 9024494087962644628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 596
+        width: 44
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179d7a39147250420800000000000000
+      internalID: 2595523922852567409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 501
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80122509abfee6ab0800000000000000
+      internalID: -5012805750652526328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 502
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c326bd4934b9910800000000000000
+      internalID: 1845142778953219210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 502
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eba191f25a3d210800000000000000
+      internalID: 1356609534471880327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 501
+        width: 57
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a43020398661aca0800000000000000
+      internalID: -6007407688531561308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 498
+        width: 73
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001e2787219e33030800000000000000
+      internalID: 3473376003172262144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 493
+        width: 75
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0457656b71067ab50800000000000000
+      internalID: 6604353033521755456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_34
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 545
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a53262db060a80800000000000000
+      internalID: -8501094248396512694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_35
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 501
+        width: 52
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac5ec7cc877e4700800000000000000
+      internalID: 526489652980243629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_36
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 501
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7177fcef7463ff40800000000000000
+      internalID: 5761058848936259966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_37
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 501
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6f8758078ea03f0800000000000000
+      internalID: -933678402752678151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_38
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 500
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad15f572fc3f7140800000000000000
+      internalID: 4719557946566319529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 395
+        width: 42
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a805ecc9120da0800000000000000
+      internalID: -5980188987388026744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 395
+        width: 55
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff818c0d13f43ae0800000000000000
+      internalID: -1570363063956041729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_41
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 395
+        width: 59
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30d16ffe75249fa0800000000000000
+      internalID: -5794965593138278337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 393
+        width: 64
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd99c088f789320800000000000000
+      internalID: 2564940210091187573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 390
+        width: 79
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b29bb684a614ab30800000000000000
+      internalID: 4297584840309183157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_44
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 382
+        width: 85
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9826963d3cb1c6410800000000000000
+      internalID: 1471581706122781321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_45
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 438
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6723969d28a2b00800000000000000
+      internalID: 804599353723483843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 393
+        width: 57
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62a6579e0df2e840800000000000000
+      internalID: 5252038354577826410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_47
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 393
+        width: 57
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c8d5a41a351dc50800000000000000
+      internalID: 6688218873824382067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_48
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 393
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a64e89fbd1924e0800000000000000
+      internalID: -2006039450275779955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_49
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 390
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c0d30553f010740800000000000000
+      internalID: 5116387373323455559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 283
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5d934a84cc2590800000000000000
+      internalID: -7697561564964103357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 282
+        width: 42
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06343282ed0f3fb70800000000000000
+      internalID: 8931747322952631136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 281
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426b545d7a9dd1f80800000000000000
+      internalID: -8134106037100366300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_53
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 281
+        width: 46
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a494fd02e38f6de70800000000000000
+      internalID: 9139765439518165322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 283
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1199eb8e2ab57b0800000000000000
+      internalID: -5234411021374254653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_55
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 283
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59f4c859f4d7bd0800000000000000
+      internalID: -2630859103591754321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_56
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 196
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499baade92bb4e8d0800000000000000
+      internalID: -2817921678071645804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 196
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416cc887275f21cf0800000000000000
+      internalID: -282893954573351404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_62
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 190
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d35c9374ca4c540800000000000000
+      internalID: 5027332505964199288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_63
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 192
+        width: 28
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd02502985c842af0800000000000000
+      internalID: -422058153031163685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_64
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 189
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38c5d2c3c20056c0800000000000000
+      internalID: -4156819416252299205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 194
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d9ce06192109c10800000000000000
+      internalID: 2058165445313994141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 195
+        width: 62
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dfb2807f9d10c90800000000000000
+      internalID: -7205238273798832795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Sapphilit_69
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 202
+        width: 69
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423d2350494877b90800000000000000
+      internalID: -7244175704324910300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Sapphilit_13: 7270503961084353030
+      PC Computer - Ragnarok Online - Sapphilit_37: -933678402752678151
+      PC Computer - Ragnarok Online - Sapphilit_18: 4961237183104645055
+      PC Computer - Ragnarok Online - Sapphilit_63: -422058153031163685
+      PC Computer - Ragnarok Online - Sapphilit_24: -4009324445058480847
+      PC Computer - Ragnarok Online - Sapphilit_17: -4370801785052569541
+      PC Computer - Ragnarok Online - Sapphilit_0: -5599519052804495040
+      PC Computer - Ragnarok Online - Sapphilit_11: -3453159747129290539
+      PC Computer - Ragnarok Online - Sapphilit_46: 5252038354577826410
+      PC Computer - Ragnarok Online - Sapphilit_9: 2839180057599437286
+      PC Computer - Ragnarok Online - Sapphilit_38: 4719557946566319529
+      PC Computer - Ragnarok Online - Sapphilit_43: 4297584840309183157
+      PC Computer - Ragnarok Online - Sapphilit_32: 3473376003172262144
+      PC Computer - Ragnarok Online - Sapphilit_21: -3660290050837915832
+      PC Computer - Ragnarok Online - Sapphilit_56: -2817921678071645804
+      PC Computer - Ragnarok Online - Sapphilit_51: 8931747322952631136
+      PC Computer - Ragnarok Online - Sapphilit_30: 1356609534471880327
+      PC Computer - Ragnarok Online - Sapphilit_54: -5234411021374254653
+      PC Computer - Ragnarok Online - Sapphilit_27: 2595523922852567409
+      PC Computer - Ragnarok Online - Sapphilit_15: 3555853213921213594
+      PC Computer - Ragnarok Online - Sapphilit_33: 6604353033521755456
+      PC Computer - Ragnarok Online - Sapphilit_28: -5012805750652526328
+      PC Computer - Ragnarok Online - Sapphilit_62: 5027332505964199288
+      PC Computer - Ragnarok Online - Sapphilit_14: 6180358367608106086
+      PC Computer - Ragnarok Online - Sapphilit_26: 9024494087962644628
+      PC Computer - Ragnarok Online - Sapphilit_8: -2490088310023216972
+      PC Computer - Ragnarok Online - Sapphilit_29: 1845142778953219210
+      PC Computer - Ragnarok Online - Sapphilit_65: 2058165445313994141
+      PC Computer - Ragnarok Online - Sapphilit_45: 804599353723483843
+      PC Computer - Ragnarok Online - Sapphilit_12: -301257341529008251
+      PC Computer - Ragnarok Online - Sapphilit_64: -4156819416252299205
+      PC Computer - Ragnarok Online - Sapphilit_2: -367720584024432438
+      PC Computer - Ragnarok Online - Sapphilit_16: -5558197283002321574
+      PC Computer - Ragnarok Online - Sapphilit_67: -7205238273798832795
+      PC Computer - Ragnarok Online - Sapphilit_69: -7244175704324910300
+      PC Computer - Ragnarok Online - Sapphilit_7: 8249219426708523183
+      PC Computer - Ragnarok Online - Sapphilit_10: -984546643625643586
+      PC Computer - Ragnarok Online - Sapphilit_31: -6007407688531561308
+      PC Computer - Ragnarok Online - Sapphilit_39: -5980188987388026744
+      PC Computer - Ragnarok Online - Sapphilit_50: -7697561564964103357
+      PC Computer - Ragnarok Online - Sapphilit_3: -3946268921415369321
+      PC Computer - Ragnarok Online - Sapphilit_20: -5996491241696561455
+      PC Computer - Ragnarok Online - Sapphilit_47: 6688218873824382067
+      PC Computer - Ragnarok Online - Sapphilit_44: 1471581706122781321
+      PC Computer - Ragnarok Online - Sapphilit_22: -3848780555149267596
+      PC Computer - Ragnarok Online - Sapphilit_49: 5116387373323455559
+      PC Computer - Ragnarok Online - Sapphilit_6: 3396966045779149521
+      PC Computer - Ragnarok Online - Sapphilit_57: -282893954573351404
+      PC Computer - Ragnarok Online - Sapphilit_48: -2006039450275779955
+      PC Computer - Ragnarok Online - Sapphilit_55: -2630859103591754321
+      PC Computer - Ragnarok Online - Sapphilit_1: -7428684879357509053
+      PC Computer - Ragnarok Online - Sapphilit_23: -1724271340803317646
+      PC Computer - Ragnarok Online - Sapphilit_35: 526489652980243629
+      PC Computer - Ragnarok Online - Sapphilit_52: -8134106037100366300
+      PC Computer - Ragnarok Online - Sapphilit_41: -5794965593138278337
+      PC Computer - Ragnarok Online - Sapphilit_25: 2040315448560222462
+      PC Computer - Ragnarok Online - Sapphilit_40: -1570363063956041729
+      PC Computer - Ragnarok Online - Sapphilit_53: 9139765439518165322
+      PC Computer - Ragnarok Online - Sapphilit_19: 3595698591468006191
+      PC Computer - Ragnarok Online - Sapphilit_5: 5353813732832049103
+      PC Computer - Ragnarok Online - Sapphilit_36: 5761058848936259966
+      PC Computer - Ragnarok Online - Sapphilit_34: -8501094248396512694
+      PC Computer - Ragnarok Online - Sapphilit_42: 2564940210091187573
+      PC Computer - Ragnarok Online - Sapphilit_4: -9194203124228452951
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

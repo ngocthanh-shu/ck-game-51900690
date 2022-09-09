@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MapChi/Scene/MainMenu.unity
+    guid: 2c1cc838cd8226049babbda46f2b6d63
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map1.unity
+    guid: 45cfcfe04b25cdd41ac3b1b39298c581
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map2.unity
+    guid: 3f8c6a34056a15d45bc7a6e173bde820
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map3.unity
+    guid: d695b57996bc3514ebad50768525338e
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map4.unity
+    guid: 84dccc750729a4e4796c766838deb6a3
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map5.unity
+    guid: 1eee333b76dd95648b87f16a20adaab6
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map6.unity
+    guid: fbb47ad3be0e1d14fb49de5f413250f3
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map7.unity
+    guid: d10705c9aff63344cb91aceb7bf5d651
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map8.unity
+    guid: f40064f1658878d4b82780c2f45e929b
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map9.unity
+    guid: 11207928b1284e14892a422406b27175
+  - enabled: 1
+    path: Assets/MapChi/Scene/Map10.unity
+    guid: f329b2285d3815d4ea52af495df1d73a
+  - enabled: 1
+    path: Assets/MapChi/Scene/SelectLevel.unity
+    guid: 25d4f377afa50af4faaa6009b616a15a
+  m_configObjects: {}

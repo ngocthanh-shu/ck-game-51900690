@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: e2daeb522ccef144cb7245cb20e96895
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1925838175520278177
+    second: PC Computer - Ragnarok Online - Leib Olmai_0
+  - first:
+      213: 1907317572382589229
+    second: PC Computer - Ragnarok Online - Leib Olmai_1
+  - first:
+      213: 4225930831219769796
+    second: PC Computer - Ragnarok Online - Leib Olmai_2
+  - first:
+      213: -6438842687420312987
+    second: PC Computer - Ragnarok Online - Leib Olmai_3
+  - first:
+      213: 1754209572018213338
+    second: PC Computer - Ragnarok Online - Leib Olmai_4
+  - first:
+      213: -4686168437030640065
+    second: PC Computer - Ragnarok Online - Leib Olmai_5
+  - first:
+      213: -7278129799142847791
+    second: PC Computer - Ragnarok Online - Leib Olmai_6
+  - first:
+      213: 6289830865658265407
+    second: PC Computer - Ragnarok Online - Leib Olmai_7
+  - first:
+      213: 4318070128203132517
+    second: PC Computer - Ragnarok Online - Leib Olmai_8
+  - first:
+      213: 4056145967025220548
+    second: PC Computer - Ragnarok Online - Leib Olmai_9
+  - first:
+      213: 7926522061795117110
+    second: PC Computer - Ragnarok Online - Leib Olmai_10
+  - first:
+      213: -2967882480762571479
+    second: PC Computer - Ragnarok Online - Leib Olmai_11
+  - first:
+      213: -633380079987971632
+    second: PC Computer - Ragnarok Online - Leib Olmai_12
+  - first:
+      213: 3399829631195538654
+    second: PC Computer - Ragnarok Online - Leib Olmai_13
+  - first:
+      213: 8702260312824803598
+    second: PC Computer - Ragnarok Online - Leib Olmai_14
+  - first:
+      213: 8203040765595660539
+    second: PC Computer - Ragnarok Online - Leib Olmai_15
+  - first:
+      213: -2554284276308627139
+    second: PC Computer - Ragnarok Online - Leib Olmai_16
+  - first:
+      213: 987294045070029702
+    second: PC Computer - Ragnarok Online - Leib Olmai_17
+  - first:
+      213: -1535287738958182882
+    second: PC Computer - Ragnarok Online - Leib Olmai_18
+  - first:
+      213: -1324352837804670790
+    second: PC Computer - Ragnarok Online - Leib Olmai_19
+  - first:
+      213: 3251905959940896943
+    second: PC Computer - Ragnarok Online - Leib Olmai_20
+  - first:
+      213: 1983007695543679706
+    second: PC Computer - Ragnarok Online - Leib Olmai_21
+  - first:
+      213: -7810388499989178075
+    second: PC Computer - Ragnarok Online - Leib Olmai_22
+  - first:
+      213: 7952721712899854177
+    second: PC Computer - Ragnarok Online - Leib Olmai_23
+  - first:
+      213: -5594855137900878342
+    second: PC Computer - Ragnarok Online - Leib Olmai_24
+  - first:
+      213: 4998974938522693298
+    second: PC Computer - Ragnarok Online - Leib Olmai_25
+  - first:
+      213: -1543339493721741668
+    second: PC Computer - Ragnarok Online - Leib Olmai_26
+  - first:
+      213: -5097480314956671528
+    second: PC Computer - Ragnarok Online - Leib Olmai_27
+  - first:
+      213: -4153027745682863884
+    second: PC Computer - Ragnarok Online - Leib Olmai_28
+  - first:
+      213: 1651850776208342295
+    second: PC Computer - Ragnarok Online - Leib Olmai_29
+  - first:
+      213: 765261584262180262
+    second: PC Computer - Ragnarok Online - Leib Olmai_30
+  - first:
+      213: 5043050206713407903
+    second: PC Computer - Ragnarok Online - Leib Olmai_31
+  - first:
+      213: 1655015794047370472
+    second: PC Computer - Ragnarok Online - Leib Olmai_32
+  - first:
+      213: -5766866776632104250
+    second: PC Computer - Ragnarok Online - Leib Olmai_33
+  - first:
+      213: -8240456452342189671
+    second: PC Computer - Ragnarok Online - Leib Olmai_34
+  - first:
+      213: 3646479782830143714
+    second: PC Computer - Ragnarok Online - Leib Olmai_35
+  - first:
+      213: 1296626211271696813
+    second: PC Computer - Ragnarok Online - Leib Olmai_36
+  - first:
+      213: 29956862623151627
+    second: PC Computer - Ragnarok Online - Leib Olmai_37
+  - first:
+      213: -3088791547091852154
+    second: PC Computer - Ragnarok Online - Leib Olmai_38
+  - first:
+      213: -2094611304787206335
+    second: PC Computer - Ragnarok Online - Leib Olmai_39
+  - first:
+      213: 6327884699906376640
+    second: PC Computer - Ragnarok Online - Leib Olmai_40
+  - first:
+      213: -3294979014677621559
+    second: PC Computer - Ragnarok Online - Leib Olmai_41
+  - first:
+      213: 9208231537162576623
+    second: PC Computer - Ragnarok Online - Leib Olmai_42
+  - first:
+      213: -1541562425184258224
+    second: PC Computer - Ragnarok Online - Leib Olmai_43
+  - first:
+      213: 7270609547720715010
+    second: PC Computer - Ragnarok Online - Leib Olmai_44
+  - first:
+      213: 6125735280139997502
+    second: PC Computer - Ragnarok Online - Leib Olmai_45
+  - first:
+      213: 4667640716768076365
+    second: PC Computer - Ragnarok Online - Leib Olmai_46
+  - first:
+      213: 3964218194615123880
+    second: PC Computer - Ragnarok Online - Leib Olmai_47
+  - first:
+      213: 3212832695435481234
+    second: PC Computer - Ragnarok Online - Leib Olmai_48
+  - first:
+      213: 7160712320131325983
+    second: PC Computer - Ragnarok Online - Leib Olmai_49
+  - first:
+      213: -7739205458764066630
+    second: PC Computer - Ragnarok Online - Leib Olmai_50
+  - first:
+      213: 1908039869133832857
+    second: PC Computer - Ragnarok Online - Leib Olmai_51
+  - first:
+      213: -5423866255843344515
+    second: PC Computer - Ragnarok Online - Leib Olmai_52
+  - first:
+      213: -5556066231992074455
+    second: PC Computer - Ragnarok Online - Leib Olmai_53
+  - first:
+      213: 2519545029570405098
+    second: PC Computer - Ragnarok Online - Leib Olmai_54
+  - first:
+      213: -105708495884165171
+    second: PC Computer - Ragnarok Online - Leib Olmai_55
+  - first:
+      213: -6227151687358113475
+    second: PC Computer - Ragnarok Online - Leib Olmai_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1116
+        width: 64
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f593a35026c0645e0800000000000000
+      internalID: -1925838175520278177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1115
+        width: 65
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2189b70a37287a10800000000000000
+      internalID: 1907317572382589229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1114
+        width: 65
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1c93873b585aa30800000000000000
+      internalID: 4225930831219769796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1114
+        width: 67
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562d0b3b0b2a4a6a0800000000000000
+      internalID: -6438842687420312987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1116
+        width: 71
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad15cb1cf44385810800000000000000
+      internalID: 1754209572018213338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_5
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1117
+        width: 76
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36242982a267feb0800000000000000
+      internalID: -4686168437030640065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_6
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1118
+        width: 78
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dac7e44283eefa90800000000000000
+      internalID: -7278129799142847791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_7
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1117
+        width: 66
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f39dce8d7f94750800000000000000
+      internalID: 6289830865658265407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 966
+        width: 61
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee5ca47eddceb30800000000000000
+      internalID: 4318070128203132517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 966
+        width: 61
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbeba144435a4830800000000000000
+      internalID: 4056145967025220548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 965
+        width: 61
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638489591d9a00e60800000000000000
+      internalID: 7926522061795117110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 965
+        width: 62
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ba07bb96ffc6d0800000000000000
+      internalID: -2967882480762571479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 967
+        width: 63
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9228c4c28c537f0800000000000000
+      internalID: -633380079987971632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 968
+        width: 66
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4e148590f9e2f20800000000000000
+      internalID: 3399829631195538654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 902
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01f6e0e5a3a4c870800000000000000
+      internalID: 8702260312824803598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 808
+        width: 67
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0b06f5d1e07d170800000000000000
+      internalID: 8203040765595660539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 801
+        width: 85
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31324fdbfb5d8cd0800000000000000
+      internalID: -2554284276308627139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 801
+        width: 78
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683f14df3b293bd00800000000000000
+      internalID: 987294045070029702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_18
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 804
+        width: 75
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16826b8fef81bae0800000000000000
+      internalID: -1535287738958182882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 808
+        width: 78
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab04f595c14fe9de0800000000000000
+      internalID: -1324352837804670790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_20
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 808
+        width: 77
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8b041cd37112d20800000000000000
+      internalID: 3251905959940896943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 758
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada3fbf1efe058b10800000000000000
+      internalID: 1983007695543679706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 656
+        width: 70
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529595c5a0deb9390800000000000000
+      internalID: -7810388499989178075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 757
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f8ee6334ebd5e60800000000000000
+      internalID: 7952721712899854177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_24
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 654
+        width: 61
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af526a715e41b52b0800000000000000
+      internalID: -5594855137900878342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_25
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 655
+        width: 76
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea9bb883def5540800000000000000
+      internalID: 4998974938522693298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_26
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 758
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9662ec48e4f49ae0800000000000000
+      internalID: -1543339493721741668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_27
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 653
+        width: 70
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5167149ac1249b0800000000000000
+      internalID: -5097480314956671528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 759
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f84b3cd44b7d56c0800000000000000
+      internalID: -4153027745682863884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 658
+        width: 61
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71df9d1778d8ce610800000000000000
+      internalID: 1651850776208342295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 754
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad233a3b51ce9a00800000000000000
+      internalID: 765261584262180262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 655
+        width: 71
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99ec9b91738cf540800000000000000
+      internalID: 5043050206713407903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 490
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4cad5981cc7f610800000000000000
+      internalID: 1655015794047370472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_33
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 493
+        width: 69
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca67d78839f7ffa0800000000000000
+      internalID: -5766866776632104250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 505
+        width: 68
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9917113348404ad80800000000000000
+      internalID: -8240456452342189671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 472
+        width: 70
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8fb38ea06ea9230800000000000000
+      internalID: 3646479782830143714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_36
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 471
+        width: 69
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da16f495baa8ef110800000000000000
+      internalID: 1296626211271696813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_37
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 492
+        width: 63
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06fc3b9b9d6a6000800000000000000
+      internalID: 29956862623151627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 306
+        width: 61
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6846c5af3786225d0800000000000000
+      internalID: -3088791547091852154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 306
+        width: 61
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f14a3bd127ee2e0800000000000000
+      internalID: -2094611304787206335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_40
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 422
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c38c85ab9921d750800000000000000
+      internalID: 6327884699906376640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_41
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 420
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c416cf2b02e542d0800000000000000
+      internalID: -3294979014677621559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 322
+        width: 67
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ef16bbc53acf70800000000000000
+      internalID: 9208231537162576623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 331
+        width: 65
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577dcf44254b9ae0800000000000000
+      internalID: -1541562425184258224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_44
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 313
+        width: 73
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20be470ccd466e460800000000000000
+      internalID: 7270609547720715010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_45
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 314
+        width: 73
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3192d028cbf20550800000000000000
+      internalID: 6125735280139997502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 87
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d426c1e608ac6c040800000000000000
+      internalID: 4667640716768076365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 142
+        width: 87
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afbc26d17bb30730800000000000000
+      internalID: 3964218194615123880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 154
+        width: 124
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290513e6056469c20800000000000000
+      internalID: 3212832695435481234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 151
+        width: 131
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10e0348ae5ff5360800000000000000
+      internalID: 7160712320131325983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_50
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 71
+        width: 68
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab09a9aa3a1d89490800000000000000
+      internalID: -7739205458764066630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_51
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 71
+        width: 63
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9924109d628ba7a10800000000000000
+      internalID: 1908039869133832857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 70
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fba3f806e8ab4b0800000000000000
+      internalID: -5423866255843344515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 70
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fb1950333e4e2b0800000000000000
+      internalID: -5556066231992074455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 20
+        width: 85
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22523fad837f220800000000000000
+      internalID: 2519545029570405098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_55
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 98
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf551ddea2788ef0800000000000000
+      internalID: -105708495884165171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Leib Olmai_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 24
+        width: 98
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399b808886b499a0800000000000000
+      internalID: -6227151687358113475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Leib Olmai_47: 3964218194615123880
+      PC Computer - Ragnarok Online - Leib Olmai_46: 4667640716768076365
+      PC Computer - Ragnarok Online - Leib Olmai_32: 1655015794047370472
+      PC Computer - Ragnarok Online - Leib Olmai_48: 3212832695435481234
+      PC Computer - Ragnarok Online - Leib Olmai_4: 1754209572018213338
+      PC Computer - Ragnarok Online - Leib Olmai_31: 5043050206713407903
+      PC Computer - Ragnarok Online - Leib Olmai_36: 1296626211271696813
+      PC Computer - Ragnarok Online - Leib Olmai_45: 6125735280139997502
+      PC Computer - Ragnarok Online - Leib Olmai_24: -5594855137900878342
+      PC Computer - Ragnarok Online - Leib Olmai_16: -2554284276308627139
+      PC Computer - Ragnarok Online - Leib Olmai_52: -5423866255843344515
+      PC Computer - Ragnarok Online - Leib Olmai_30: 765261584262180262
+      PC Computer - Ragnarok Online - Leib Olmai_53: -5556066231992074455
+      PC Computer - Ragnarok Online - Leib Olmai_15: 8203040765595660539
+      PC Computer - Ragnarok Online - Leib Olmai_13: 3399829631195538654
+      PC Computer - Ragnarok Online - Leib Olmai_8: 4318070128203132517
+      PC Computer - Ragnarok Online - Leib Olmai_21: 1983007695543679706
+      PC Computer - Ragnarok Online - Leib Olmai_17: 987294045070029702
+      PC Computer - Ragnarok Online - Leib Olmai_51: 1908039869133832857
+      PC Computer - Ragnarok Online - Leib Olmai_20: 3251905959940896943
+      PC Computer - Ragnarok Online - Leib Olmai_50: -7739205458764066630
+      PC Computer - Ragnarok Online - Leib Olmai_27: -5097480314956671528
+      PC Computer - Ragnarok Online - Leib Olmai_44: 7270609547720715010
+      PC Computer - Ragnarok Online - Leib Olmai_25: 4998974938522693298
+      PC Computer - Ragnarok Online - Leib Olmai_10: 7926522061795117110
+      PC Computer - Ragnarok Online - Leib Olmai_26: -1543339493721741668
+      PC Computer - Ragnarok Online - Leib Olmai_11: -2967882480762571479
+      PC Computer - Ragnarok Online - Leib Olmai_43: -1541562425184258224
+      PC Computer - Ragnarok Online - Leib Olmai_12: -633380079987971632
+      PC Computer - Ragnarok Online - Leib Olmai_37: 29956862623151627
+      PC Computer - Ragnarok Online - Leib Olmai_29: 1651850776208342295
+      PC Computer - Ragnarok Online - Leib Olmai_39: -2094611304787206335
+      PC Computer - Ragnarok Online - Leib Olmai_28: -4153027745682863884
+      PC Computer - Ragnarok Online - Leib Olmai_34: -8240456452342189671
+      PC Computer - Ragnarok Online - Leib Olmai_40: 6327884699906376640
+      PC Computer - Ragnarok Online - Leib Olmai_5: -4686168437030640065
+      PC Computer - Ragnarok Online - Leib Olmai_6: -7278129799142847791
+      PC Computer - Ragnarok Online - Leib Olmai_38: -3088791547091852154
+      PC Computer - Ragnarok Online - Leib Olmai_22: -7810388499989178075
+      PC Computer - Ragnarok Online - Leib Olmai_23: 7952721712899854177
+      PC Computer - Ragnarok Online - Leib Olmai_14: 8702260312824803598
+      PC Computer - Ragnarok Online - Leib Olmai_56: -6227151687358113475
+      PC Computer - Ragnarok Online - Leib Olmai_49: 7160712320131325983
+      PC Computer - Ragnarok Online - Leib Olmai_2: 4225930831219769796
+      PC Computer - Ragnarok Online - Leib Olmai_7: 6289830865658265407
+      PC Computer - Ragnarok Online - Leib Olmai_35: 3646479782830143714
+      PC Computer - Ragnarok Online - Leib Olmai_19: -1324352837804670790
+      PC Computer - Ragnarok Online - Leib Olmai_18: -1535287738958182882
+      PC Computer - Ragnarok Online - Leib Olmai_41: -3294979014677621559
+      PC Computer - Ragnarok Online - Leib Olmai_3: -6438842687420312987
+      PC Computer - Ragnarok Online - Leib Olmai_1: 1907317572382589229
+      PC Computer - Ragnarok Online - Leib Olmai_9: 4056145967025220548
+      PC Computer - Ragnarok Online - Leib Olmai_42: 9208231537162576623
+      PC Computer - Ragnarok Online - Leib Olmai_55: -105708495884165171
+      PC Computer - Ragnarok Online - Leib Olmai_0: -1925838175520278177
+      PC Computer - Ragnarok Online - Leib Olmai_33: -5766866776632104250
+      PC Computer - Ragnarok Online - Leib Olmai_54: 2519545029570405098
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

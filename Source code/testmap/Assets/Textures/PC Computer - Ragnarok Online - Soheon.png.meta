@@ -1,0 +1,1448 @@
+fileFormatVersion: 2
+guid: 680b4ff3afda2db4087bcee167792a43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6831478363963716797
+    second: PC Computer - Ragnarok Online - Soheon_0
+  - first:
+      213: -7412876341862575851
+    second: PC Computer - Ragnarok Online - Soheon_1
+  - first:
+      213: -4870908655505044923
+    second: PC Computer - Ragnarok Online - Soheon_2
+  - first:
+      213: -5033576217873761880
+    second: PC Computer - Ragnarok Online - Soheon_3
+  - first:
+      213: 8204184610172705938
+    second: PC Computer - Ragnarok Online - Soheon_4
+  - first:
+      213: -5843461327047798287
+    second: PC Computer - Ragnarok Online - Soheon_5
+  - first:
+      213: -4468566420489440527
+    second: PC Computer - Ragnarok Online - Soheon_6
+  - first:
+      213: -570485419512161917
+    second: PC Computer - Ragnarok Online - Soheon_7
+  - first:
+      213: -4225103704824281848
+    second: PC Computer - Ragnarok Online - Soheon_8
+  - first:
+      213: -648314326943646893
+    second: PC Computer - Ragnarok Online - Soheon_9
+  - first:
+      213: -3817342664570956805
+    second: PC Computer - Ragnarok Online - Soheon_10
+  - first:
+      213: -5619123318374271187
+    second: PC Computer - Ragnarok Online - Soheon_11
+  - first:
+      213: 2689860362519842304
+    second: PC Computer - Ragnarok Online - Soheon_12
+  - first:
+      213: -4904924836662078346
+    second: PC Computer - Ragnarok Online - Soheon_13
+  - first:
+      213: -1633671944941279088
+    second: PC Computer - Ragnarok Online - Soheon_14
+  - first:
+      213: -2509084691530235439
+    second: PC Computer - Ragnarok Online - Soheon_15
+  - first:
+      213: 677287207970332305
+    second: PC Computer - Ragnarok Online - Soheon_16
+  - first:
+      213: 4751479250364076704
+    second: PC Computer - Ragnarok Online - Soheon_17
+  - first:
+      213: -2498622727398874440
+    second: PC Computer - Ragnarok Online - Soheon_18
+  - first:
+      213: 323979849626759380
+    second: PC Computer - Ragnarok Online - Soheon_19
+  - first:
+      213: 1585095502789179937
+    second: PC Computer - Ragnarok Online - Soheon_20
+  - first:
+      213: 4987754092697343338
+    second: PC Computer - Ragnarok Online - Soheon_21
+  - first:
+      213: -8102029163731869396
+    second: PC Computer - Ragnarok Online - Soheon_22
+  - first:
+      213: -8039191941185351746
+    second: PC Computer - Ragnarok Online - Soheon_23
+  - first:
+      213: 5836182968145817265
+    second: PC Computer - Ragnarok Online - Soheon_24
+  - first:
+      213: 6977814164567420938
+    second: PC Computer - Ragnarok Online - Soheon_25
+  - first:
+      213: -5814959879310788930
+    second: PC Computer - Ragnarok Online - Soheon_26
+  - first:
+      213: 4458128137313979591
+    second: PC Computer - Ragnarok Online - Soheon_27
+  - first:
+      213: -668633664990513229
+    second: PC Computer - Ragnarok Online - Soheon_28
+  - first:
+      213: -8624052060234937224
+    second: PC Computer - Ragnarok Online - Soheon_29
+  - first:
+      213: -2739176866383993856
+    second: PC Computer - Ragnarok Online - Soheon_30
+  - first:
+      213: -6380114486890609421
+    second: PC Computer - Ragnarok Online - Soheon_31
+  - first:
+      213: 6115451116888679433
+    second: PC Computer - Ragnarok Online - Soheon_32
+  - first:
+      213: -766441087285033634
+    second: PC Computer - Ragnarok Online - Soheon_33
+  - first:
+      213: 2014989086986600999
+    second: PC Computer - Ragnarok Online - Soheon_34
+  - first:
+      213: 935884686398877718
+    second: PC Computer - Ragnarok Online - Soheon_35
+  - first:
+      213: -6996409204197268056
+    second: PC Computer - Ragnarok Online - Soheon_36
+  - first:
+      213: -4480018517216817851
+    second: PC Computer - Ragnarok Online - Soheon_37
+  - first:
+      213: -8865784060194179334
+    second: PC Computer - Ragnarok Online - Soheon_38
+  - first:
+      213: -3790456952442062211
+    second: PC Computer - Ragnarok Online - Soheon_39
+  - first:
+      213: -6529615340386224310
+    second: PC Computer - Ragnarok Online - Soheon_40
+  - first:
+      213: 8369418283173315849
+    second: PC Computer - Ragnarok Online - Soheon_41
+  - first:
+      213: 151554052284089227
+    second: PC Computer - Ragnarok Online - Soheon_42
+  - first:
+      213: -383941957911378272
+    second: PC Computer - Ragnarok Online - Soheon_43
+  - first:
+      213: 5925112990032964299
+    second: PC Computer - Ragnarok Online - Soheon_44
+  - first:
+      213: -13414264288990664
+    second: PC Computer - Ragnarok Online - Soheon_45
+  - first:
+      213: -4472387090491281274
+    second: PC Computer - Ragnarok Online - Soheon_46
+  - first:
+      213: -6630992525490067853
+    second: PC Computer - Ragnarok Online - Soheon_47
+  - first:
+      213: 6960188266628135695
+    second: PC Computer - Ragnarok Online - Soheon_48
+  - first:
+      213: -8962814022356632587
+    second: PC Computer - Ragnarok Online - Soheon_49
+  - first:
+      213: -6987870952817492867
+    second: PC Computer - Ragnarok Online - Soheon_50
+  - first:
+      213: 9107962875479440703
+    second: PC Computer - Ragnarok Online - Soheon_51
+  - first:
+      213: -5619222268174599719
+    second: PC Computer - Ragnarok Online - Soheon_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 779
+        width: 57
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b0d296f96b131a0800000000000000
+      internalID: -6831478363963716797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 779
+        width: 57
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511526ffd3c202990800000000000000
+      internalID: -7412876341862575851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 777
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a0f3f826e076cb0800000000000000
+      internalID: -4870908655505044923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 779
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9b7cf4915252ab0800000000000000
+      internalID: -5033576217873761880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 774
+        width: 57
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c12117f6e1bd170800000000000000
+      internalID: 8204184610172705938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 773
+        width: 43
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1559e02ead7eea0800000000000000
+      internalID: -5843461327047798287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 776
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2fc7b14867cf1c0800000000000000
+      internalID: -4468566420489440527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_7
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 775
+        width: 46
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891074988a3518f0800000000000000
+      internalID: -570485419512161917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_8
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 774
+        width: 49
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80503c6e09a6d55c0800000000000000
+      internalID: -4225103704824281848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 775
+        width: 44
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b3ab7fd89b007f0800000000000000
+      internalID: -648314326943646893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 633
+        width: 49
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf31e4c5213160bc0800000000000000
+      internalID: -3817342664570956805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 635
+        width: 57
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27ff230d1dd402b0800000000000000
+      internalID: -5619123318374271187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 638
+        width: 63
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e066b8fbd445520800000000000000
+      internalID: 2689860362519842304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 637
+        width: 57
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67414c439d43eebb0800000000000000
+      internalID: -4904924836662078346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_14
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 637
+        width: 49
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098e04a85080459e0800000000000000
+      internalID: -1633671944941279088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 636
+        width: 57
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d148f944c0fd2dd0800000000000000
+      internalID: -2509084691530235439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 635
+        width: 59
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19edcf19025366900800000000000000
+      internalID: 677287207970332305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 634
+        width: 57
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2179b2435a0f140800000000000000
+      internalID: 4751479250364076704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 485
+        width: 43
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b22ca12edb135dd0800000000000000
+      internalID: -2498622727398874440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 485
+        width: 44
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0336be4f10f7400800000000000000
+      internalID: 323979849626759380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 485
+        width: 49
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a71da26f36ff510800000000000000
+      internalID: 1585095502789179937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 486
+        width: 44
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d93acbef083540800000000000000
+      internalID: 4987754092697343338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 489
+        width: 43
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2128e7e66fcf8f80800000000000000
+      internalID: -8102029163731869396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 489
+        width: 48
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc670e58d0f6090800000000000000
+      internalID: -8039191941185351746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_24
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 487
+        width: 52
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be2484fc794ef050800000000000000
+      internalID: 5836182968145817265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 487
+        width: 47
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00fabb330d26d060800000000000000
+      internalID: 6977814164567420938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 335
+        width: 49
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6388a7ccc1d4fa0800000000000000
+      internalID: -5814959879310788930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 333
+        width: 56
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc06c3bbe37edd30800000000000000
+      internalID: 4458128137313979591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 332
+        width: 59
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b77f59693988b6f0800000000000000
+      internalID: -668633664990513229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 340
+        width: 115
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c8839e756315880800000000000000
+      internalID: -8624052060234937224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_30
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 342
+        width: 111
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e63e172d7cf9d0800000000000000
+      internalID: -2739176866383993856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_31
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 342
+        width: 84
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4cf8e6da74577a0800000000000000
+      internalID: -6380114486890609421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_32
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 342
+        width: 91
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9046a67c3627ed450800000000000000
+      internalID: 6115451116888679433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_33
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 342
+        width: 90
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e558c1354ed0d55f0800000000000000
+      internalID: -766441087285033634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_34
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 342
+        width: 88
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722002416eda6fb10800000000000000
+      internalID: 2014989086986600999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_35
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 341
+        width: 53
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610788be92eecfc00800000000000000
+      internalID: 935884686398877718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 174
+        width: 43
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56c88b5e2c7ee90800000000000000
+      internalID: -6996409204197268056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 173
+        width: 46
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d8e1e05e6c3d1c0800000000000000
+      internalID: -4480018517216817851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 176
+        width: 48
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af63ec4ce5866f480800000000000000
+      internalID: -8865784060194179334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 173
+        width: 86
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7af7450c77956bc0800000000000000
+      internalID: -3790456952442062211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 177
+        width: 78
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47765c71752265a0800000000000000
+      internalID: -6529615340386224310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_41
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 180
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058431e595262470800000000000000
+      internalID: 8369418283173315849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_42
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 180
+        width: 91
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b830aaa8b9d6a1200800000000000000
+      internalID: 151554052284089227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_43
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 175
+        width: 83
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a60350d2d6fbaaf0800000000000000
+      internalID: -383941957911378272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_44
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 176
+        width: 79
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa7f03fda3a3250800000000000000
+      internalID: 5925112990032964299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_45
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 226
+        width: 7
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aa1263cc750dff0800000000000000
+      internalID: -13414264288990664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_46
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 179
+        width: 53
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680793d03a3eee1c0800000000000000
+      internalID: -4472387090491281274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 13
+        width: 52
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e4e93e6bf9f3a0800000000000000
+      internalID: -6630992525490067853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 13
+        width: 53
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b36321a5e879060800000000000000
+      internalID: 6960188266628135695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 31
+        width: 77
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbfa893220bd9380800000000000000
+      internalID: -8962814022356632587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_50
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 12
+        width: 49
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cfa094468160f90800000000000000
+      internalID: -6987870952817492867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 12
+        width: 50
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db56caafbf56e70800000000000000
+      internalID: 9107962875479440703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Soheon_52
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 28
+        width: 82
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9fc777e138402b0800000000000000
+      internalID: -5619222268174599719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Soheon_9: -648314326943646893
+      PC Computer - Ragnarok Online - Soheon_35: 935884686398877718
+      PC Computer - Ragnarok Online - Soheon_15: -2509084691530235439
+      PC Computer - Ragnarok Online - Soheon_8: -4225103704824281848
+      PC Computer - Ragnarok Online - Soheon_12: 2689860362519842304
+      PC Computer - Ragnarok Online - Soheon_29: -8624052060234937224
+      PC Computer - Ragnarok Online - Soheon_1: -7412876341862575851
+      PC Computer - Ragnarok Online - Soheon_23: -8039191941185351746
+      PC Computer - Ragnarok Online - Soheon_50: -6987870952817492867
+      PC Computer - Ragnarok Online - Soheon_27: 4458128137313979591
+      PC Computer - Ragnarok Online - Soheon_28: -668633664990513229
+      PC Computer - Ragnarok Online - Soheon_18: -2498622727398874440
+      PC Computer - Ragnarok Online - Soheon_34: 2014989086986600999
+      PC Computer - Ragnarok Online - Soheon_19: 323979849626759380
+      PC Computer - Ragnarok Online - Soheon_7: -570485419512161917
+      PC Computer - Ragnarok Online - Soheon_13: -4904924836662078346
+      PC Computer - Ragnarok Online - Soheon_37: -4480018517216817851
+      PC Computer - Ragnarok Online - Soheon_6: -4468566420489440527
+      PC Computer - Ragnarok Online - Soheon_0: -6831478363963716797
+      PC Computer - Ragnarok Online - Soheon_3: -5033576217873761880
+      PC Computer - Ragnarok Online - Soheon_24: 5836182968145817265
+      PC Computer - Ragnarok Online - Soheon_21: 4987754092697343338
+      PC Computer - Ragnarok Online - Soheon_26: -5814959879310788930
+      PC Computer - Ragnarok Online - Soheon_17: 4751479250364076704
+      PC Computer - Ragnarok Online - Soheon_16: 677287207970332305
+      PC Computer - Ragnarok Online - Soheon_22: -8102029163731869396
+      PC Computer - Ragnarok Online - Soheon_43: -383941957911378272
+      PC Computer - Ragnarok Online - Soheon_2: -4870908655505044923
+      PC Computer - Ragnarok Online - Soheon_20: 1585095502789179937
+      PC Computer - Ragnarok Online - Soheon_10: -3817342664570956805
+      PC Computer - Ragnarok Online - Soheon_36: -6996409204197268056
+      PC Computer - Ragnarok Online - Soheon_51: 9107962875479440703
+      PC Computer - Ragnarok Online - Soheon_45: -13414264288990664
+      PC Computer - Ragnarok Online - Soheon_47: -6630992525490067853
+      PC Computer - Ragnarok Online - Soheon_42: 151554052284089227
+      PC Computer - Ragnarok Online - Soheon_32: 6115451116888679433
+      PC Computer - Ragnarok Online - Soheon_30: -2739176866383993856
+      PC Computer - Ragnarok Online - Soheon_39: -3790456952442062211
+      PC Computer - Ragnarok Online - Soheon_5: -5843461327047798287
+      PC Computer - Ragnarok Online - Soheon_4: 8204184610172705938
+      PC Computer - Ragnarok Online - Soheon_25: 6977814164567420938
+      PC Computer - Ragnarok Online - Soheon_41: 8369418283173315849
+      PC Computer - Ragnarok Online - Soheon_46: -4472387090491281274
+      PC Computer - Ragnarok Online - Soheon_11: -5619123318374271187
+      PC Computer - Ragnarok Online - Soheon_31: -6380114486890609421
+      PC Computer - Ragnarok Online - Soheon_40: -6529615340386224310
+      PC Computer - Ragnarok Online - Soheon_52: -5619222268174599719
+      PC Computer - Ragnarok Online - Soheon_14: -1633671944941279088
+      PC Computer - Ragnarok Online - Soheon_44: 5925112990032964299
+      PC Computer - Ragnarok Online - Soheon_33: -766441087285033634
+      PC Computer - Ragnarok Online - Soheon_48: 6960188266628135695
+      PC Computer - Ragnarok Online - Soheon_38: -8865784060194179334
+      PC Computer - Ragnarok Online - Soheon_49: -8962814022356632587
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
